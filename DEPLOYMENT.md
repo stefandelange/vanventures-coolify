@@ -8,7 +8,10 @@ Dieses Projekt wurde von Cloudflare auf Hetzner/Coolify mit Bunny CDN migriert.
 - In Coolify: Neue Anwendung erstellen
 - Repository: `vanventures-coolify` auswählen
 - Branch: `main`
-- Build Type: Nixpacks (automatisch erkannt)
+- **Build Type: Dockerfile** (wichtig! Nicht Nixpacks wegen npm ci Issues)
+- **Is it a static site?** → NEIN (nicht anhaken)
+- **Is it a SPA?** → NEIN (nicht anhaken)
+- **Port**: 3000
 
 ### 2. Environment Variables in Coolify setzen
 
@@ -24,19 +27,23 @@ Diese Variable wird für:
 
 ### 3. Build Konfiguration
 
-Coolify nutzt automatisch:
-- **Install Command**: `npm install`
-- **Build Command**: `npm run build` (führt automatisch `prebuild` aus → generiert Posts)
-- **Start Command**: `npm start`
+Das Projekt nutzt einen **Dockerfile** für den Build:
+- Multi-stage Build für optimierte Image-Größe
+- Automatische Post-Generierung via `npm run generate:posts`
+- Next.js Standalone Output
+- Production-optimiert mit Node 20 Alpine
 
-**Port**: 3000 (Next.js Standard)
+**Warum Dockerfile und nicht Nixpacks?**
+Nixpacks nutzt `npm ci`, was bei Next.js manchmal zu Version-Konflikten führt (z.B. `@swc/helpers`). Der Dockerfile nutzt `npm install`, was robuster ist.
 
 ## Bunny CDN Setup
 
-### Pull Zone Konfiguration
+### Storage + Pull Zone (dein Setup)
 - **URL**: `cdn-eu.vanventures.blog`
-- **Origin**: Deine Coolify/Hetzner URL (z.B. `vanventures.blog`)
+- **Assets liegen in**: Bunny Storage (nicht Origin-Pull!)
 - **Optimizer**: Standard Konfiguration aktiviert
+
+Da deine Assets bereits im Bunny Storage liegen, brauchst du **keine Origin-Konfiguration**. Die Pull Zone liefert direkt aus dem Storage aus.
 
 ### Bunny Optimizer - Standard Konfiguration
 Die Standard-Konfiguration sollte ausreichen. Falls du spezifische Anpassungen brauchst:
@@ -66,6 +73,10 @@ Stelle sicher, dass folgende DNS Records existieren:
 - Cloudflare-spezifische Scripts (`deploy`, `preview`, `cf-typegen`)
 
 ### Hinzugefügt/Geändert
+- **`Dockerfile`** und **`.dockerignore`**:
+  - Multi-stage Build für Next.js standalone
+  - Umgeht npm ci Issues mit Nixpacks
+
 - `next.config.ts`:
   - Entfernt: Cloudflare initialization
   - Hinzugefügt: `output: "standalone"` für optimiertes Deployment
@@ -78,6 +89,9 @@ Stelle sicher, dass folgende DNS Records existieren:
 - `.env.production`:
   - CDN URL von `cdn.vanventures.blog` zu `cdn-eu.vanventures.blog`
 
+- `tsconfig.json`:
+  - Entfernt: Cloudflare types Referenz
+
 ## Troubleshooting
 
 ### Build Fehler: "Posts not found"
@@ -87,14 +101,20 @@ npm run generate:posts
 ```
 
 ### Images werden nicht optimiert
-Prüfe in Coolify:
-- Environment Variable `NEXT_PUBLIC_CDN_URL` ist gesetzt
+Prüfe:
+- Environment Variable `NEXT_PUBLIC_CDN_URL` ist in Coolify gesetzt
 - Bunny Pull Zone ist aktiv
-- Origin Server ist erreichbar
+- Assets existieren im Bunny Storage unter dem richtigen Pfad
 
 ### 404 auf Static Assets
-- Stelle sicher, dass die Bunny Pull Zone auf die richtige Origin zeigt
+- Prüfe, ob Assets im Bunny Storage unter dem richtigen Pfad liegen
 - Cache in Bunny CDN purgen
+- DNS für `cdn-eu.vanventures.blog` korrekt?
+
+### npm ci Error beim Build
+Wenn trotz Dockerfile `npm ci` Fehler auftreten:
+- Stelle sicher, dass Coolify "Dockerfile" als Build Type nutzt (nicht Nixpacks)
+- Im Zweifel: Cache in Coolify löschen und neu builden
 
 ## Lokale Entwicklung
 
