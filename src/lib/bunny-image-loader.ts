@@ -37,6 +37,9 @@ export default function bunnyImageLoader({
     return url.toString();
   }
 
+  // Properly encode the path to handle spaces and special characters
   const normalizedPath = normalizeSrc(src);
-  return `${resizeHost}/${normalizedPath}?${searchParams.toString()}`;
+  const url = new URL(normalizedPath, resizeHost);
+  url.search = searchParams.toString();
+  return url.toString();
 }
