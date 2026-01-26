@@ -1,0 +1,1439 @@
+{
+  "navigation": {
+    "vanLife": "Van Life",
+    "ourBlog": "Our blog",
+    "map": "Map",
+    "austria": "Austria",
+    "belgium": "Belgium",
+    "norway": "Norway",
+    "poland": "Poland",
+    "slovakia": "Slovakia",
+    "roadTrips": "Road Trips",
+    "canadaRoadTrip2023": "Canada road trip 2023",
+    "denmarkRoadTrip2024": "Denmark road trip 2024",
+    "aboutUs": "About Us",
+    "wilma": "Wilma",
+    "baseVehicle": "Base vehicle",
+    "bikeCarrier": "Bike carrier",
+    "electricity": "Electricity",
+    "equipmentList": "Equipment list",
+    "gas": "Gas",
+    "internet": "Internet",
+    "outdoor": "Outdoor",
+    "toilet": "Toilet",
+    "sustainability": "Sustainability",
+    "friendsAndPartners": "Friends & Partners",
+    "openNavigation": "Open navigation",
+    "closeNavigation": "Close navigation"
+  },
+  "footer": {
+    "tagline": "Where the adventure starts.",
+    "socialMediaTitle": "Social media presence",
+    "socialMediaText": "We deleted our accounts because we saw firsthand what happens to nature when stunning locations get overcrowded due to popularity on instagram. We are shocked and sad and cannot quite understand why (some) people behave in certain ways and think it is ok to do what they do to nature. We cannot imagine people behaving this way in their own backyard - so why on earth would you behave like this in public? Campers are destroying their own way of life and we can understand why locals get fed up even in countries where wild camping is tolerated/accepted.",
+    "socialMediaQuote": "Leave nothing but footsteps; take nothing but memories!",
+    "vanLifeCountries": "Van Life & Countries",
+    "roadTrips": "Road Trips",
+    "vanVentures": "VanVentures",
+    "copyright": "© {year} Vanventures. Built on the road in Wilma.",
+    "imprint": "Imprint",
+    "privacyPolicy": "Privacy policy"
+  },
+  "common": {
+    "readMore": "Continue reading",
+    "backToOverview": "Back to all stories",
+    "backToTripOverview": "Back to trip overview",
+    "byAuthor": "By",
+    "minute": "minute",
+    "minutes": "minutes",
+    "readingTimePrefix": "Reading time ~",
+    "contentAvailableInEnglishOnly": "This content is currently only available in English. We're working on the German translation.",
+    "readingTime": "{minutes} min read"
+  },
+  "notFound": {
+    "title": "4 0 4",
+    "heading": "Page Not Found",
+    "description": "Sorry, we couldn't find the page you were looking for. It may have been moved or deleted.",
+    "backToHome": "Go to Homepage",
+    "heroImageAlt": "Image of an otter looking straight at you."
+  },
+  "newsletter": {
+    "title": "Sign up to our newsletter!",
+    "description": "We will notify you when a new post gets published.",
+    "heroImageAlt": "Snow-covered alpine ridge at golden hour",
+    "firstName": "First name",
+    "firstNamePlaceholder": "Wilma",
+    "lastName": "Last name",
+    "lastNamePlaceholder": "Van",
+    "email": "Email",
+    "emailPlaceholder": "you@example.com",
+    "signUp": "Sign up",
+    "signingUp": "Signing up...",
+    "successMessage": "Thanks for subscribing! Please check your inbox.",
+    "errorMessage": "Oops, something went wrong. Please try again later.",
+    "emailRequired": "Please add your email address."
+  },
+  "errors": {
+    "pageNotFound": "Page not found",
+    "backToHome": "Back to home",
+    "somethingWentWrong": "Something went wrong"
+  },
+  "home": {
+    "hero": {
+      "title": "Welcome to our VanVentures"
+    },
+    "about": {
+      "title": "We are Kathrin & Stefan",
+      "imageAlt": "Kathrin and Stefan during their trip to Banff, Canada",
+      "paragraph1": "Ever since we met we discovered that we share the same passion for traveling and discovering nature and foreign cultures. We love to hike and anything that ups the adrenalin levels. After one of our first multi day hikes (West Highland Way) we started toying with the idea to get our own van. We decided to stress test that type of traveling with a 4 week camping trip through Canada.",
+      "paragraph2": "It blew our minds and we discovered that we love this mode of traveling. The freedom is just incredible and that is exactly what we are looking for.",
+      "paragraph3": "So, in 2024 we finally got our van Wilma and are now getting ready for the great escape … err… adventure!",
+      "linkText": "Meet us some more"
+    },
+    "vanLifeBlog": {
+      "title": "Van life blog",
+      "browseAll": "Browse all stories",
+      "noPosts": "We're getting the first stories ready. Check back shortly for the full Van Life archive."
+    },
+    "map": {
+      "title": "Van life route",
+      "mapTitle": "Vanventures travel map"
+    },
+    "roadTrips": {
+      "title": "More road trip blogs",
+      "subtitle": "... from before van life",
+      "label": "Road trip",
+      "buttonText": "Dive into the blog",
+      "canada": {
+        "title": "Canada road trip 2023",
+        "description": "Glacial roads, endless pine forests, and the build that prepped us for winter."
+      },
+      "denmark": {
+        "title": "Denmark road trip 2024",
+        "description": "Ferry hops, sea-side park ups, and the calm rhythm of the Danish west coast."
+      }
+    }
+  },
+  "imprint": {
+    "eyebrow": "Legal",
+    "title": "Imprint",
+    "heroImageAlt": "Snow-covered alpine ridge at golden hour",
+    "responsibilityTitle": "Responsible for content (according to § 55 Abs. 2 RStV)",
+    "disclaimerTitle": "Disclaimer – Legal notices",
+    "sourceLink": "Source",
+    "sections": {
+      "section1": {
+        "title": "§ 1 Warning notice regarding content",
+        "paragraph1": "The free and freely accessible content of this website has been created with the greatest possible care. However, the provider of this website does not guarantee the accuracy and timeliness of the free and freely accessible journalistic advice and news provided.",
+        "paragraph2": "Articles identified by name reflect the opinion of the respective author and not always the opinion of the provider. Merely by calling up the free and freely accessible content, no contractual relationship is established between the user and the provider; in this respect, the provider lacks the intention to be legally bound."
+      },
+      "section2": {
+        "title": "§ 2 External links",
+        "paragraph1": "This website contains links to third-party websites (\"external links\"). These websites are subject to the liability of the respective operators. When the external links were first created, the provider checked the external content to determine whether any legal violations existed. At that time, no legal violations were apparent.",
+        "paragraph2": "The provider has no influence on the current and future design and content of the linked pages. The inclusion of external links does not mean that the provider adopts the content behind the reference or link as its own. Constant monitoring of external links is unreasonable for the provider without concrete evidence of legal violations. If legal violations become known, such external links will be deleted immediately."
+      },
+      "section3": {
+        "title": "§ 3 Copyright and ancillary copyright",
+        "paragraph1": "The content published on this website is subject to German copyright and ancillary copyright law. Any use not permitted by German copyright and ancillary copyright law requires the prior written consent of the provider or the respective rights holder.",
+        "paragraph2": "This applies in particular to the reproduction, editing, translation, storage, processing or reproduction of content in databases or other electronic media and systems. Contents and rights of third parties are marked as such.",
+        "paragraph3": "The unauthorized reproduction or distribution of individual content or complete pages is not permitted and is punishable. Only the production of copies and downloads for personal, private and non-commercial use is permitted. The presentation of this website in external frames is only permitted with written permission."
+      },
+      "section4": {
+        "title": "§ 4 Special terms of use",
+        "paragraph1": "Insofar as special conditions for individual uses of this website deviate from the aforementioned paragraphs, this will be expressly stated at the appropriate place. In this case, the special terms of use apply in each individual case."
+      }
+    }
+  },
+  "aboutUs": {
+    "title": "This is us",
+    "headline": "Two storytellers. One rolling home.",
+    "heroImageAlt": "Stefan and Kathrin on a mountain top overlooking Jasper, Canada",
+    "intro": {
+      "paragraph1": "Hi, we're Stefan and Kathrin, an adventurous couple from Germany with a shared passion for traveling, hiking, and immersing ourselves in nature. Our curiosity drives us to explore the world, and right now, we're on an exciting journey across Europe in our campervan Wilma.",
+      "paragraph2": "By living on the road, we've embraced the freedom to wander wherever the wind takes us—without the need to rely on hotels or flights. We're constantly discovering hidden gems, breathtaking landscapes, and unforgettable experiences, all while living life at our own pace."
+    },
+    "kathrin": {
+      "title": "Kathrin",
+      "imageAlt": "Kathrin on a riverbank in Canada",
+      "paragraph1": "I grew up surrounded by the peaceful countryside near Bergisch Gladbach, but life's adventure took me to various cities—Cologne, London, Berlin—and eventually, back to the quiet charm of rural living. While I love the buzz and excitement of cities, I'm definitely a country soul at heart. There's nothing like the feeling of being surrounded by nature. Whether I'm hiking through forests, cycling along winding trails, surfing the waves, or climbing to new heights, I'm happiest when I'm outdoors, breathing in the fresh air and pushing my limits.",
+      "paragraph2": "When I'm not out adventuring, you'll find me unwinding in more creative ways. Drawing, crafting, and cooking are my go-to activities to slow down and relax, finding joy in creating something with my hands. And of course, I'm all about sports—nothing beats the thrill of a good challenge.",
+      "paragraph3": "My biggest dream? To explore the world with my partner, discovering new places, soaking up different cultures, and meeting amazing people along the way. The best part of the journey is sharing those experiences with others—and I can't wait to see where the road leads!"
+    },
+    "stefan": {
+      "title": "Stefan",
+      "imageAlt": "Stefan standing on a mountain top in Banff, Canada",
+      "paragraph1": "I grew up in Germany in an area called \"Niederrhein\" (lower Rhine area) which is really really flat. From my teenage days I was drawn towards technology. I loved tinkering around with computers and later worked as a projectionist in the local cinema to earn some money while going to school.",
+      "paragraph2": "To this day anything tech excites me, but I also really love the great outdoors. The more mountaneous the better, I guess this stems from having grown up without anything remotely hilly close by.",
+      "paragraph3": "Despite having lived in really busy cities (Cologne, London, Berlin) and having loved the experience, I feel like I am done with big crowds of people and nowadays mostly enjoy the quiet of a remote area. Give me a comfy chair by a cozy fire in the middle of nowehere, a blanket on the beach or a cliff to dangle my feet off of and you will see me smiling :)",
+      "paragraph4": "As a hobby I love to dabble in photography. I have tried people photography back when we lived in London and have since pivoted to landscape and travel photography."
+    }
+  },
+  "friendsAndPartners": {
+    "title": "Friends & Partners",
+    "heroImageAlt": "Sunset over the ocean in Canada",
+    "intro": "Over time we have met some amazing people and companies that share our passion for sustainable travel and van life. Here are some of our friends and partners that we can wholeheartedly recommend.",
+    "visitWebsite": "Visit website",
+    "partners": [
+      {
+        "id": "l2printfactory",
+        "name": "L2 Print Factory",
+        "description": "L2 Print Factory is run by Lea and Leon, two professional engineers specializing in building technology. They identified a need for professional 3D printing services and started their own business – L2 Print Factory. In their private lives, they are passionate travelers and also own a camper. So it was only natural for them to offer high-quality solutions for the camping sector. They have printed custom solutions for us, from specialized flanges to decorative items. Simply brilliant!",
+        "image": "/images/partners/L_PrintFactory-Logo-Design.webp",
+        "url": "https://www.l2printfactory.com/"
+      },
+      {
+        "id": "trackiwi",
+        "name": "trackiwi",
+        "description": "trackiwi is a GPS tracker designed specifically for campers, and there's one reason it really stands out to us: privacy is at the core. The device stores our routes indefinitely, automatically detects overnight spots, and even includes a built-in alarm system. We've spoken with Fabian, the founder, multiple times and we're absolutely convinced – not just by the product, but by how he listens to community feedback and constantly delivers new features. A truly great company with an awesome product!",
+        "image": "/images/partners/trackiwi-logo.svg",
+        "url": "https://www.trackiwi.com",
+        "bgColor": "#193729"
+      }
+    ]
+  },
+  "sustainability": {
+    "title": "Sustainability",
+    "background": {
+      "title": "Background",
+      "intro": "Our goal is to be as sustainable and environmentally responsible as possible. For us \"leave no trace\" also includes trying to keep our waste water as organic as possible. This is for two reasons:",
+      "reason1": "We just don't like chemicals in general and we want to avoid getting in touch with chemicals in general.",
+      "reason2": "We want to be as independent as possible and part of that means trying to be able to get rid of our wastewater (grey water) anywhere without needing a special dumpstation.",
+      "closing": "So, we are looking for organic products for every aspect of daily life and we want to introduce you to the products we are using to make sure we are as sustainable as possible. All the products are tested thoroughly by us or we have been using them for a long time already."
+    },
+    "bathroom": {
+      "title": "Bathroom",
+      "duschbrocken": "Shower soap & shampoo: We have been using the products from Duschbrocken for a very long time, even from before we started camping and they are just fantastic products.",
+      "discountPrefix": "You can use",
+      "discountLinkText": "this link",
+      "discountSuffix": "to get 10% off your first purchase and we get to earn some points.",
+      "imageAlt": "Image of a Duschbrocken shower stone"
+    }
+  },
+  "vanLifePage": {
+    "title": "Our diary from the road",
+    "heroImageAlt": "View from above of Somarøy in Norway",
+    "byAuthor": "By",
+    "continueReading": "Continue reading",
+    "browseAllPosts": "Browse all posts",
+    "noPosts": "No stories published yet. Check back soon."
+  },
+  "vanLifeMap": {
+    "title": "Our travel map",
+    "description": "Follow the GPX tracks of our van life adventures. We keep adding routes as we refine them on the road.",
+    "heroImageAlt": "View from Matind ridge across the Norwegian coastline",
+    "iframeTitle": "Vanventures travel map"
+  },
+  "vanLifeCountries": {
+    "common": {
+      "eyebrow": "Van life country guides",
+      "descriptionTemplate": "Practical notes from our laps through {country} – covering our route, key logistics, and everything you need before travelling {country} in a campervan.",
+      "sections": {
+        "ourRoute": "Our route",
+        "tripStats": "Trip stats",
+        "blogPostsAbout": "Our blog posts about {country}",
+        "whatYouNeedToKnow": "What you need to know about {country}"
+      }
+    },
+    "norway": {
+      "name": "Norway",
+      "flag": "🇳🇴",
+      "heroImageAlt": "View of the aurora borealis above the village of Reine in Lofoten, Norway",
+      "routeMetadata": {
+        "dates": "🗓️ 5. September 2025 - 22. November 2025",
+        "timeSpent": "🕒 Time spent: 77 d 22 h 15 m",
+        "distance": "🚐 Distance driven: 4639 km",
+        "avgSpeed": "💨 Average speed: 51 km/h",
+        "maxElevation": "🗻 Max elevation: 1145 m",
+        "overnights": "📍 Overnight locations: 53 "
+      },
+      "guide": {
+        "camping": {
+          "title": "🛣️ Camping & Overnighting",
+          "freeCamping": {
+            "title": "Free Camping Availability",
+            "content": "Freedom camping is officially allowed in most places as long as you follow the general rules (stay max 2 night only, 150m away from houses, respect nature, take your trash with you, etc.). In practice, this means you can find plenty of nice spots in more remote areas, but it can be tricky in popular touristic areas or close to bigger cities. Overall though, we had no issues finding great free spots."
+          },
+          "paidCampsites": {
+            "title": "Paid Campsites",
+            "content": "There are plenty of paid campsites available, especially in touristic areas. Prices vary depending on the location and facilities offered, but generally range from 20€ to 40€ per night for a motorhome pitch."
+          },
+          "infrastructure": {
+            "title": "Motorhome Infrastructure",
+            "content": "Norway has a well-developed motorhome infrastructure with many dedicated parking areas, service stations, and dump points for waste disposal. You can find these facilities in most towns and along major routes."
+          }
+        },
+        "connectivity": {
+          "title": "📶 Connectivity",
+          "mobileInternet": {
+            "title": "Mobile Internet Quality",
+            "content": "Mobile internet coverage is generally good throughout Norway, especially along the main roads and in urban areas. However, in more remote regions, such as the fjords and mountainous areas, coverage can be spotty or non-existent although this was extremely rare in our experience."
+          },
+          "simCard": {
+            "title": "SIM Card Access",
+            "content": "You can find them pretty much at every corner."
+          },
+          "wifi": {
+            "title": "Wi-Fi Availability",
+            "content": "Wi-Fi is widely available in cafes, restaurants, and campsites. Many public libraries and tourist information centers also offer free Wi-Fi access."
+          }
+        },
+        "costs": {
+          "title": "💶 Cost of Living / Budgeting",
+          "groceries": {
+            "title": "Groceries & Dining Out",
+            "content": "Groceries are generally more expensive than in other European countries, especially for imported goods. Dining out can also be pricey, with a meal at a mid-range restaurant costing around 25€ to 40€ per person."
+          },
+          "fuel": {
+            "title": "Fuel Prices",
+            "content": "Fuel prices in Norway are among the highest in Europe, with petrol and diesel prices often exceeding 2€ per liter. It's advisable to budget accordingly for fuel costs, especially if you plan to do a lot of driving."
+          },
+          "camping": {
+            "title": "Camping Costs",
+            "content": "15€ and upwards"
+          },
+          "laundry": {
+            "title": "Laundry",
+            "content": "Around 10€ per load"
+          }
+        },
+        "logistics": {
+          "title": "🧭 Travel Logistics",
+          "roads": {
+            "title": "Road Quality & Driving Conditions",
+            "content": "Road quality is generally excellent."
+          },
+          "tolls": {
+            "title": "Toll Roads & Vignettes",
+            "content": "Norway has numerous toll roads, bridges, and tunnels. Most tolls are collected electronically, so you don't need to stop at toll booths. You can register your vehicle online to receive invoices for the tolls incurred during your stay. autoPASS is the system used for toll collection in Norway."
+          },
+          "borders": {
+            "title": "Border Crossings",
+            "content": "Norway is part of the Schengen Area, so there are generally no border checks when entering from other Schengen countries. However, if you're coming from a non-Schengen country, be prepared for possible passport checks and customs inspections."
+          },
+          "police": {
+            "title": "Police Attitude & Checks",
+            "content": "We did not have any experience with the police."
+          }
+        },
+        "dailyLife": {
+          "title": "🛒 Daily Life & Convenience",
+          "water": {
+            "title": "Water Access",
+            "content": "Tap water in Norway is of excellent quality and safe to drink. You can refill your water tanks at campsites, service stations, and public water points found in many towns and cities. Most gas stations also offer water refill services."
+          },
+          "dumps": {
+            "title": "Dump Stations & Toilets",
+            "content": "There are numerous dump stations available throughout Norway, often located at campsites, service areas, and some public parking areas. Public toilets can be found in towns, tourist areas, and along major roads, although they may sometimes require a small fee for use."
+          },
+          "shopping": {
+            "title": "Shopping & Supplies",
+            "content": "Grocery stores and supermarkets are widely available in urban areas and larger towns. In more remote areas, options may be limited, so it's advisable to stock up on supplies when you have the chance. Specialty stores for camping and outdoor gear can be found in larger cities."
+          },
+          "laundromats": {
+            "title": "Laundromats",
+            "content": "Laundromats are available in larger towns and cities, as well as some campsites. Many campsites also offer laundry facilities for guests."
+          }
+        },
+        "climate": {
+          "title": "☀️ Climate & Seasons",
+          "bestTime": {
+            "title": "Best Time to Visit",
+            "content": "The best time to visit Norway largely depends on your interests. For milder weather and longer days, the summer months (June to August) are ideal. If you're interested in winter activities like skiing or seeing the Northern Lights, then the winter months (December to February) are best. We were in Norway between Semptemer and November and found it to be a great time as well, although a bit rainy which might be less once temperatures are consistently below freezing."
+          },
+          "extremes": {
+            "title": "Weather Extremes",
+            "content": "Nothing worth mentioning."
+          },
+          "bugs": {
+            "title": "Bug/Mosquito Factor",
+            "content": "In general, Norway has a low mosquito population compared to other countries. However, in the summer months, especially in areas with standing water or dense vegetation, you may encounter some mosquitoes and other insects. Using insect repellent and wearing long sleeves and pants during peak mosquito activity times (dawn and dusk) can help minimize bites."
+          }
+        },
+        "culture": {
+          "title": "🧘 Comfort & Culture",
+          "safety": {
+            "title": "Safety",
+            "content": "No concerns, we felt super safe."
+          },
+          "attitudes": {
+            "title": "Local Attitudes Toward Campers",
+            "content": "Norwegians are generally very accepting of campervans and motorhomes, especially when travelers respect local regulations and the environment. The concept of 'Allemannsretten' (the right to roam) is deeply ingrained in Norwegian culture, allowing people to camp on uncultivated land for short periods. As long as you follow the guidelines for responsible camping, you should find a welcoming attitude from locals."
+          },
+          "noise": {
+            "title": "Noise & Peacefulness",
+            "content": "Norway is known for its tranquility and peacefulness, especially in rural and remote areas. You can expect a quiet environment, particularly away from urban centers and popular tourist spots."
+          },
+          "highlights": {
+            "title": "Cultural Highlights",
+            "content": "Norway boasts a rich cultural heritage with numerous museums, historical sites, and festivals celebrating its Viking history, Sami culture, and maritime traditions. Don't miss the chance to explore local art galleries, traditional music performances, and culinary experiences that showcase Norwegian cuisine."
+          },
+          "language": {
+            "title": "Language & Communication",
+            "content": "Norwegian is the official language, but English is widely spoken and understood, especially in tourist areas. Most Norwegians are proficient in English, making communication relatively easy for travelers who do not speak Norwegian."
+          }
+        },
+        "tips": {
+          "title": "🗺️ Pro Tips or Anecdotes",
+          "gems": {
+            "title": "Hidden Gems or Disappointments",
+            "content": "We recommend looking for spots off the beaten path. We stumbled upon a small community which is building a to-scale viking ship for instance. Of course Lofoten etc. are must-see locations, but try to look beyond those."
+          },
+          "apps": {
+            "title": "Apps That Helped",
+            "content": "Park4Night, YR (for weather), numerous aurora forecast apps"
+          },
+          "etiquette": {
+            "title": "Local Etiquette",
+            "content": "Norwegians value privacy and personal space, so it's important to be respectful of these cultural norms. When interacting with locals, a polite greeting and a friendly demeanor go a long way. Additionally, when camping or parking your campervan, always seek permission if you're on private land and adhere to local regulations regarding waste disposal and noise levels."
+          }
+        }
+      }
+    },
+    "poland": {
+      "name": "Poland",
+      "flag": "🇵🇱",
+      "heroImageAlt": "View of Gdansk, Poland from above",
+      "routeMetadata": {
+        "dates": "🗓️ 4. July 2025 - 12. July 2025",
+        "timeSpent": "🕒 Time spent: 7 d 17 h 37 m",
+        "distance": "🚐 Distance driven: 1268 km",
+        "avgSpeed": "💨 Average speed: 63 km/h",
+        "maxElevation": "🗻 Max elevation: 716 m",
+        "overnights": "📍 Overnight locations: 5"
+      },
+      "guide": {
+        "camping": {
+          "title": "🛣️ Camping & Overnighting",
+          "freeCamping": {
+            "title": "Free Camping Availability",
+            "content": "It was very easy to find free campsites. The Polish seem to enjoy camping quite a bit, too."
+          },
+          "paidCampsites": {
+            "title": "Paid Campsites",
+            "content": "We cannot comment."
+          },
+          "infrastructure": {
+            "title": "Motorhome Infrastructure",
+            "content": "It was very easy to find fresh water and dumpsites."
+          }
+        },
+        "connectivity": {
+          "title": "📶 Connectivity",
+          "mobileInternet": {
+            "title": "Mobile Internet Quality",
+            "content": "4G/5G signal strength is exceptional in most places and we didn't have any issues at all."
+          },
+          "wifi": {
+            "title": "Wi-Fi Availability",
+            "content": "We did not pay too much attention, but noticed public Wi-Fis every now and then, even city-run networks."
+          }
+        },
+        "costs": {
+          "title": "💶 Cost of Living / Budgeting",
+          "groceries": {
+            "title": "Groceries & Dining Out",
+            "content": "Groceries are a bit cheaper than in Germany, but it depends on what you buy."
+          },
+          "fuel": {
+            "title": "Fuel Prices",
+            "content": "Diesel is a lot cheaper than we are used to from Germany. At the time of traveling it ranged around 1.35€/l. LPG was ~ 0.80€/l"
+          },
+          "camping": {
+            "title": "Camping Costs",
+            "content": "Unknown."
+          },
+          "laundry": {
+            "title": "Laundry",
+            "content": "We didn't do any laundry in Poland."
+          }
+        },
+        "logistics": {
+          "title": "🧭 Travel Logistics",
+          "roads": {
+            "title": "Road Quality & Driving Conditions",
+            "content": "Road conditions are mostly excellent, however, there are many construction sites (to make the roads this awesome)."
+          },
+          "tolls": {
+            "title": "Toll Roads & Vignettes",
+            "content": "There are no toll roads (at least not for <3.5t)."
+          },
+          "borders": {
+            "title": "Border Crossings",
+            "content": "Poland is part of the Schengen are, meaning no border checks when you enter from another Schengen country."
+          },
+          "police": {
+            "title": "Police Attitude & Checks",
+            "content": "We did not have any experience with the police."
+          }
+        },
+        "dailyLife": {
+          "title": "🛒 Daily Life & Convenience",
+          "water": {
+            "title": "Water Access",
+            "content": "Easy to find either at official camp spots or gas stations. On highways watch out for \"WC BUS\" signs."
+          },
+          "dumps": {
+            "title": "Dump Stations & Toilets",
+            "content": "Since we only use environmentally friendly products and a dry composting toilet, it was very easy for us to find dump stations as we do not rely on those capable of handling chemical waste water. I wouldn't expect you to have any issues even with a chemical toilet though. On highways watch out for \"WC BUS\" signs."
+          },
+          "shopping": {
+            "title": "Shopping & Supplies",
+            "content": "Easily accessible, there are many supermarkets, even LIDL."
+          },
+          "laundromats": {
+            "title": "Laundromats",
+            "content": "Can't comment."
+          }
+        },
+        "climate": {
+          "title": "☀️ Climate & Seasons",
+          "bestTime": {
+            "title": "Best Time to Visit",
+            "content": "I'd say pretty much all year round, it's your typical mid-European weather: wet in Winter without any real extremes,  somewhat hot yet also wet in Summer."
+          },
+          "extremes": {
+            "title": "Weather Extremes",
+            "content": "Nothing worth mentioning."
+          },
+          "bugs": {
+            "title": "Bug/Mosquito Factor",
+            "content": "When you are close to open waters you will find bugs/mosquitos, but far from Scotland levels ;)"
+          }
+        },
+        "culture": {
+          "title": "🧘 Comfort & Culture",
+          "safety": {
+            "title": "Safety",
+            "content": "No concerns, we felt super safe."
+          },
+          "attitudes": {
+            "title": "Local Attitudes Toward Campers",
+            "content": "We didn't feel especially welcome nor unwelcome - our impression was that people just don't care about it. Most people are super friendly once you start having a chat."
+          },
+          "noise": {
+            "title": "Noise & Peacefulness",
+            "content": "You can find both, however, we traveled during high season and most Polish people were on vacation themselves, so our experience is a little skewed."
+          },
+          "highlights": {
+            "title": "Cultural Highlights",
+            "content": "Pierogi!"
+          },
+          "language": {
+            "title": "Language & Communication",
+            "content": "English will get you far in cities, outside you might run into trouble, however, we always managed to communicate somehow."
+          }
+        },
+        "tips": {
+          "title": "🗺️ Pro Tips or Anecdotes",
+          "gems": {
+            "title": "Hidden Gems or Disappointments",
+            "content": "Check out the Masurian Lake District as well as the WWII museum in Gdansk!"
+          },
+          "apps": {
+            "title": "Apps That Helped",
+            "content": "Park4Night"
+          }
+        }
+      }
+    },
+    "belgium": {
+      "name": "Belgium",
+      "flag": "🇧🇪",
+      "heroImageAlt": "Sunset over lovely fields and meados in Oostende, Belgium",
+      "routeMetadata": {
+        "dates": "🗓️ 7. June 2025 - 29. June 2025",
+        "timeSpent": "🕒 Time spent: 21 d 21 h 57 m",
+        "distance": "🚐 Distance driven: 784 km",
+        "avgSpeed": "💨 Average speed: 53 km/h",
+        "maxElevation": "🗻 Max elevation: 346 m",
+        "overnights": "📍 Overnight locations: 7"
+      },
+      "guide": {
+        "camping": {
+          "title": "🛣️ Camping & Overnighting",
+          "freeCamping": {
+            "title": "Free Camping Availability",
+            "content": "We had little to no issues finding free sites to stay. We were very surprised to find many fellow campers who offered to stay on their grounds for free or at a (voluntary) donation."
+          },
+          "paidCampsites": {
+            "title": "Paid Campsites",
+            "content": "You can easily find lots of paid campsites or smaller sites run by private individuals. The cost varies a lot."
+          },
+          "infrastructure": {
+            "title": "Motorhome Infrastructure",
+            "content": "It was very easy to find fresh water and dumpsites. Getting rid of trash, however, proved tricky at times."
+          }
+        },
+        "connectivity": {
+          "title": "📶 Connectivity",
+          "mobileInternet": {
+            "title": "Mobile Internet Quality",
+            "content": "4G/5G signal strength is exceptional in most places. We only broke out Starlink once and that was for its unlimited bandwidth feature, not due to connectivity issues."
+          },
+          "simCard": {
+            "title": "SIM Card Access",
+            "content": "You can find them pretty much at every corner."
+          },
+          "wifi": {
+            "title": "Wi-Fi Availability",
+            "content": "We did not pay too much attention, but noticed public Wi-Fis every now and then, even city-run networks."
+          }
+        },
+        "costs": {
+          "title": "💶 Cost of Living / Budgeting",
+          "groceries": {
+            "title": "Groceries & Dining Out",
+            "content": "Groceries are quite expensive compared to the rest of Europe as is dining out. You will need some extra budget for Belgium."
+          },
+          "fuel": {
+            "title": "Fuel Prices",
+            "content": "Diesel - to our surprise - is slightly less expensive than we are used to from Germany. At the time of traveling it ranged around 1.50€/l. LPG was ~ 0.95€/l"
+          },
+          "camping": {
+            "title": "Camping Costs",
+            "content": "15€ and upwards"
+          },
+          "laundry": {
+            "title": "Laundry",
+            "content": "We did not have any issues finding great laundry services. We paid €8 for one load of laundry and one load in the dryer."
+          }
+        },
+        "logistics": {
+          "title": "🧭 Travel Logistics",
+          "roads": {
+            "title": "Road Quality & Driving Conditions",
+            "content": "Road conditions are mostly excellent until you enter Wallonia, you can find some very nasty roads there."
+          },
+          "tolls": {
+            "title": "Toll Roads & Vignettes",
+            "content": "There are no toll roads (at least not for <3.5t)."
+          },
+          "borders": {
+            "title": "Border Crossings",
+            "content": "Belgium is part of the Schengen are, meaning no border checks when you enter from another Schengen country."
+          },
+          "police": {
+            "title": "Police Attitude & Checks",
+            "content": "We did not have any experience with the police."
+          }
+        },
+        "dailyLife": {
+          "title": "🛒 Daily Life & Convenience",
+          "water": {
+            "title": "Water Access",
+            "content": "Easy to find either at official camp spots or gas stations."
+          },
+          "dumps": {
+            "title": "Dump Stations & Toilets",
+            "content": "Since we only use environmentally friendly products and a dry composting toilet, it was very easy for us to find dump stations as we do not rely on those capable of handling chemical waste water. I wouldn't expect you to have any issues even with a chemical toilet though."
+          },
+          "shopping": {
+            "title": "Shopping & Supplies",
+            "content": "No issues at all here, it's Europe, you get everything everywhere any time."
+          },
+          "laundromats": {
+            "title": "Laundromats",
+            "content": "Very easy to find good ones with plenty of machines."
+          }
+        },
+        "climate": {
+          "title": "☀️ Climate & Seasons",
+          "bestTime": {
+            "title": "Best Time to Visit",
+            "content": "I'd say pretty much all year round, it's your typical mid-European weather: wet in Winter without any real extremes,  somewhat hot yet also wet in Summer."
+          },
+          "extremes": {
+            "title": "Weather Extremes",
+            "content": "Nothing worth mentioning."
+          },
+          "bugs": {
+            "title": "Bug/Mosquito Factor",
+            "content": "When you are close to open waters you will find bugs/mosquitos, but far from Scotland levels ;)"
+          }
+        },
+        "culture": {
+          "title": "🧘 Comfort & Culture",
+          "safety": {
+            "title": "Safety",
+            "content": "No concerns, we felt super safe."
+          },
+          "attitudes": {
+            "title": "Local Attitudes Toward Campers",
+            "content": "Belgians are a great camper nation themselves, so their attitude towards campers is very welcoming. You will easily get in touch with locals. We even had someone on a bike stop for a chat - a proper chat!"
+          },
+          "noise": {
+            "title": "Noise & Peacefulness",
+            "content": "We did not have any issues, however, be aware wild camping is not allowed and it will vary from place to place. As always, leave a spot cleaner than you found it!"
+          },
+          "highlights": {
+            "title": "Cultural Highlights",
+            "content": "Well, it's obvious isn't it? Belgian waffles and double-fried French fries with any of the many outstanding local beers! I'd personally suggest a Kwak!"
+          },
+          "language": {
+            "title": "Language & Communication",
+            "content": "Belgium has three official languages: Dutch, French and German. You will find that most speak Dutch and French, German is a bit more rare. While generally English will get you around, you might run into issues in Wallonia."
+          }
+        },
+        "tips": {
+          "title": "🗺️ Pro Tips or Anecdotes",
+          "gems": {
+            "title": "Hidden Gems or Disappointments",
+            "content": "Oostende and Westende host a couple of amazing events during summer time right at the beach, don't miss them!"
+          },
+          "apps": {
+            "title": "Apps That Helped",
+            "content": "Park4Night"
+          },
+          "etiquette": {
+            "title": "Local Etiquette",
+            "content": "No tipping in Belgium, but you would round up to the next \"even\" amount."
+          }
+        }
+      }
+    },
+    "slovakia": {
+      "name": "Slovakia",
+      "flag": "🇸🇰",
+      "heroImageAlt": "View of a mountain range in Tatra National Park, Slovakia",
+      "routeMetadata": {
+        "dates": "🗓️ 12. July 2025 - 16. July 2025",
+        "timeSpent": "🕒 Time spent: 4 d 5 h 4 m",
+        "distance": "🚐 Distance driven: 424 km",
+        "avgSpeed": "💨 Average speed: 62 km/h",
+        "maxElevation": "🗻 Max elevation: 1095 m",
+        "overnights": "📍 Overnight locations: 3"
+      },
+      "guide": {
+        "camping": {
+          "title": "🛣️ Camping & Overnighting",
+          "freeCamping": {
+            "title": "Free Camping Availability",
+            "content": "We had little to no issues finding free sites to stay. We were very surprised to find many fellow campers who offered to stay on their grounds for free or at a (voluntary) donation."
+          },
+          "paidCampsites": {
+            "title": "Paid Campsites",
+            "content": "You can easily find lots of paid campsites or smaller sites run by private individuals. The cost varies a lot."
+          },
+          "infrastructure": {
+            "title": "Motorhome Infrastructure",
+            "content": "It was very easy to find fresh water and dumpsites. Getting rid of trash, however, proved tricky at times."
+          }
+        },
+        "connectivity": {
+          "title": "📶 Connectivity",
+          "mobileInternet": {
+            "title": "Mobile Internet Quality",
+            "content": "4G/5G signal strength is exceptional in most places. We only broke out Starling once and that was for its unlimited bandwidth feature, not due to connectivity issues."
+          },
+          "simCard": {
+            "title": "SIM Card Access",
+            "content": "You can find them pretty much at every corner."
+          },
+          "wifi": {
+            "title": "Wi-Fi Availability",
+            "content": "We did not pay too much attention, but noticed public Wi-Fis every now and then, even city-run networks."
+          }
+        },
+        "costs": {
+          "title": "💶 Cost of Living / Budgeting",
+          "groceries": {
+            "title": "Groceries & Dining Out",
+            "content": "Prices are comparable to the ones found in Germany."
+          },
+          "fuel": {
+            "title": "Fuel Prices",
+            "content": "Diesel - to our surprise - is slightly less expensive than we are used to from Germany. At the time of traveling it ranged around 1.50€/l. LPG was ~ 0.95€/l"
+          },
+          "camping": {
+            "title": "Camping Costs",
+            "content": "15€ and upwards"
+          },
+          "laundry": {
+            "title": "Laundry",
+            "content": "We didn't use any laundry facilities and thus cannot comment."
+          }
+        },
+        "logistics": {
+          "title": "🧭 Travel Logistics",
+          "roads": {
+            "title": "Road Quality & Driving Conditions",
+            "content": "Road conditions are very good."
+          },
+          "tolls": {
+            "title": "Toll Roads & Vignettes",
+            "content": "There are a few toll roads and It seems random at times, but it's ~10€ for a week and you get a reminder before it expires. Easily purchased only."
+          },
+          "borders": {
+            "title": "Border Crossings",
+            "content": "Slovakia is part of the Schengen area, meaning no border checks when you enter from another Schengen country."
+          },
+          "police": {
+            "title": "Police Attitude & Checks",
+            "content": "We did not have any experience with the police."
+          }
+        },
+        "dailyLife": {
+          "title": "🛒 Daily Life & Convenience",
+          "water": {
+            "title": "Water Access",
+            "content": "Easy to find either at official camp spots or gas stations."
+          },
+          "dumps": {
+            "title": "Dump Stations & Toilets",
+            "content": "Since we only use environmentally friendly products and a dry composting toilet, it was very easy for us to find dump stations as we do not rely on those capable of handling chemical waste water. I wouldn't expect you to have any issues even with a chemical toilet though."
+          },
+          "shopping": {
+            "title": "Shopping & Supplies",
+            "content": "No issues at all here, it's Europe, you get everything everywhere any time."
+          },
+          "laundromats": {
+            "title": "Laundromats",
+            "content": "Very easy to find good ones with plenty of machines."
+          }
+        },
+        "climate": {
+          "title": "☀️ Climate & Seasons",
+          "bestTime": {
+            "title": "Best Time to Visit",
+            "content": "I'd say pretty much all year round, it's your typical mid-European weather: wet in Winter without any real extremes,  somewhat hot yet also wet in Summer."
+          },
+          "extremes": {
+            "title": "Weather Extremes",
+            "content": "Nothing worth mentioning."
+          },
+          "bugs": {
+            "title": "Bug/Mosquito Factor",
+            "content": "When you are close to open waters you will find bugs/mosquitos, but far from Scotland levels ;)"
+          }
+        },
+        "culture": {
+          "title": "🧘 Comfort & Culture",
+          "safety": {
+            "title": "Safety",
+            "content": "No concerns, we felt super safe."
+          },
+          "attitudes": {
+            "title": "Local Attitudes Toward Campers",
+            "content": "Slovak people seemed exceptionally kind and we easily got into some great conversations with locals."
+          },
+          "noise": {
+            "title": "Noise & Peacefulness",
+            "content": "The Tatra mountains is incredibly peaceful!"
+          },
+          "highlights": {
+            "title": "Cultural Highlights",
+            "content": "Hmm, hard to tell - going by Bratislava apparently, it's ice cream?!"
+          },
+          "language": {
+            "title": "Language & Communication",
+            "content": "No issues at all, English seems to be widely spoken."
+          }
+        },
+        "tips": {
+          "title": "🗺️ Pro Tips or Anecdotes",
+          "gems": {
+            "title": "Hidden Gems or Disappointments",
+            "content": "The Tatra Mountains!"
+          },
+          "apps": {
+            "title": "Apps That Helped",
+            "content": "Park4Night"
+          },
+          "etiquette": {
+            "title": "Local Etiquette",
+            "content": "Nothing to mention, but as always take your trash and leave nothing but footprints behind."
+          }
+        }
+      }
+    },
+    "austria": {
+      "name": "Austria",
+      "flag": "🇦🇹",
+      "heroImageAlt": "View of a beautiful building in Vienna, Austria",
+      "routeMetadata": {
+        "dates": "🗓️ 16. July 2025 - 23. July 2025",
+        "timeSpent": "🕒 Time spent: 6 d 23 h 35 m",
+        "distance": "🚐 Distance driven: 573 km",
+        "avgSpeed": "💨 Average speed: 66 km/h",
+        "maxElevation": "🗻 Max elevation: 653 m",
+        "overnights": "📍 Overnight locations: 4"
+      },
+      "guide": {
+        "camping": {
+          "title": "🛣️ Camping & Overnighting",
+          "freeCamping": {
+            "title": "Free Camping Availability",
+            "content": "We found it exceptionally hard to find spots. Mostly, because the spots that once existed are now prohibited due to the usual reason: Some campers ruin it for all of us. Let's all please follow the basic rules and leave spots cleaner than we found them!"
+          },
+          "paidCampsites": {
+            "title": "Paid Campsites",
+            "content": "You can easily find lots of paid campsites or smaller sites run by private individuals. The cost varies a lot and in our opinion is way too high - some charge upwards of 40€ for a simple pitch with no services."
+          },
+          "infrastructure": {
+            "title": "Motorhome Infrastructure",
+            "content": "Also quite difficult at times and we didn't really find a \"trick\" we can share."
+          }
+        },
+        "connectivity": {
+          "title": "📶 Connectivity",
+          "mobileInternet": {
+            "title": "Mobile Internet Quality",
+            "content": "4G/5G signal strength is exceptional in most places."
+          },
+          "simCard": {
+            "title": "SIM Card Access",
+            "content": "We can't comment.."
+          },
+          "wifi": {
+            "title": "Wi-Fi Availability",
+            "content": "Didn't seem like there is a lot of free Wi-Fi going around."
+          }
+        },
+        "costs": {
+          "title": "💶 Cost of Living / Budgeting",
+          "groceries": {
+            "title": "Groceries & Dining Out",
+            "content": "Groceries and dinner are OK mostly. Some items are on the more expensive side."
+          },
+          "fuel": {
+            "title": "Fuel Prices",
+            "content": "Diesel - I'd say \"standard\" mid-European prices. Watch out on highways though - they will charge a premium of up to 0,50€ extra just because it's on the highway."
+          },
+          "camping": {
+            "title": "Camping Costs",
+            "content": "40€ and upwards"
+          },
+          "laundry": {
+            "title": "Laundry",
+            "content": "Depending on size of the machine somewhere between 6€ and 12€.."
+          }
+        },
+        "logistics": {
+          "title": "🧭 Travel Logistics",
+          "roads": {
+            "title": "Road Quality & Driving Conditions",
+            "content": "Road conditions are  quite good. They should be as you pay a toll!"
+          },
+          "tolls": {
+            "title": "Toll Roads & Vignettes",
+            "content": "Highways are toll roads and you must purchase before entering otherwise you will face steep fines. You can purchase online and it's priced ok."
+          },
+          "borders": {
+            "title": "Border Crossings",
+            "content": "Austria is part of the Schengen are, meaning no border checks when you enter from another Schengen country."
+          },
+          "police": {
+            "title": "Police Attitude & Checks",
+            "content": "We did not have any experience with the police."
+          }
+        },
+        "dailyLife": {
+          "title": "🛒 Daily Life & Convenience",
+          "water": {
+            "title": "Water Access",
+            "content": "Sometimes a bit tricky to find fresh water."
+          },
+          "dumps": {
+            "title": "Dump Stations & Toilets",
+            "content": "Also a bit tricky, best to plan ahead a little.."
+          },
+          "shopping": {
+            "title": "Shopping & Supplies",
+            "content": "No issues at all here, it's Europe, you get everything everywhere any time."
+          },
+          "laundromats": {
+            "title": "Laundromats",
+            "content": "Very easy to find good ones with plenty of machines."
+          }
+        },
+        "climate": {
+          "title": "☀️ Climate & Seasons",
+          "bestTime": {
+            "title": "Best Time to Visit",
+            "content": "I'd say pretty much all year round, it's your typical mid-European weather: wet in Winter without any real extremes,  somewhat hot yet also wet in Summer."
+          },
+          "extremes": {
+            "title": "Weather Extremes",
+            "content": "Nothing worth mentioning."
+          },
+          "bugs": {
+            "title": "Bug/Mosquito Factor",
+            "content": "When you are close to open waters you will find bugs/mosquitos, but far from Scotland levels ;)"
+          }
+        },
+        "culture": {
+          "title": "🧘 Comfort & Culture",
+          "safety": {
+            "title": "Safety",
+            "content": "No concerns, we felt super safe."
+          },
+          "attitudes": {
+            "title": "Local Attitudes Toward Campers",
+            "content": "Mixed - some areas are clearly fed up with us campers (due to our own fault of course). But some are very open and we even found a couple who run a free campsite!"
+          },
+          "noise": {
+            "title": "Noise & Peacefulness",
+            "content": "It's usually very quite once you leave bigger cities."
+          },
+          "highlights": {
+            "title": "Cultural Highlights",
+            "content": "Wiener Schnitzel (so we heard - we are vegetarians) and Apfelstrudel!"
+          },
+          "language": {
+            "title": "Language & Communication",
+            "content": "English is widely accepted."
+          }
+        },
+        "tips": {
+          "title": "🗺️ Pro Tips or Anecdotes",
+          "gems": {
+            "title": "Hidden Gems or Disappointments",
+            "content": "Biggest disappointment was the cost of camping!"
+          },
+          "apps": {
+            "title": "Apps That Helped",
+            "content": "Park4Night"
+          }
+        }
+      }
+    }
+  },
+  "canadaRoadTrip2023": {
+    "title": "Canada road trip 2023",
+    "heroImageAlt": "View of Maligne Lake and surrounding mountains in Jasper National Park, Canada",
+    "introTitle": "Intro to the tour",
+    "intro": {
+      "paragraph1": "We hired a campervan to travel British Columbia and parts of Alberta in September and October 2023.",
+      "paragraph2": "After thorough research we decided to rent a smaller van (C-Small) from Fraserway RV. We were told that these weren't as run down as vans from other rental companies and that should proof to be true.",
+      "paragraph3": "We chose this time of year as we really wanted to see the lovely fall colours.",
+      "paragraph4": "However, about 4-6 weeks before the departure date news arrived about really bad forest fires and parts of our planned route were affected. It wasn't clear up until the actual date of departure whether we would be able to travel the intended route.",
+      "paragraph5": "While passing flying over Canada we could actually see very high smoke stacks from many forest fires and were quite worried. We did get lucky though and were able to drive the entire route. Locals, however, told us that just weeks before the areas where clouded by thick smoke and we could see huge areas of burned down trees.",
+      "paragraph6": "We opted for pre-booking all the campsites as we saw that they were filling up rather quickly and we had no idea how independent the campervan would be. Initially we wanted to remain as flexible as possible, but in key locations we waned to make sure we would definitely be able to visit. As a consequence we pre-booked the entire route. In the end it was more important to us to experience the locations rather than remain fully flexible. Ultimately, we could still depart a location early and switch if we didn't like it (spoiler: and we did, because holy {swearword} those Canadian cargo trains honk their horns all night and at some campsites you sleep right next to the tracks!).",
+      "paragraph7": "We hope you enjoy our little blog about the trip!",
+      "swearword": "swearword"
+    },
+    "rvImageAlt": "Fraserway RV C-Small camper van in a parking lot",
+    "routeTitle": "The route",
+    "routeImageAlt": "Full route map of our Canada road trip 2023",
+    "browseAllPosts": "Browse all posts",
+    "noPosts": "No stories published yet. Check back soon."
+  },
+  "denmarkRoadTrip2024": {
+    "title": "Denmark road trip 2024",
+    "heroImageAlt": "Image of five colorful fishing boats on the beach in Denmark",
+    "browseAllPosts": "Browse all posts",
+    "noPosts": "No stories published yet. Check back soon."
+  },
+  "wilma": {
+    "title": "Base vehicle",
+    "heroImageAlt": "Image of our black campervan Wilma on a beach in Denmark.",
+    "paragraph1": "We chose the Summit Prime model, because we really liked the solution for the bathroom and it comes with plenty of actually usable kitchen space. In addition there was no compromise with the bed size as many vehicles have rather short beds, but this one has \"fully\" sized beds for maximum comfort.",
+    "paragraph2": "The interiour was also very pleasing as was the overall size and the base weight.",
+    "paragraph3": "Wilma is a 2024 Pössl Summit Prime 640 model.",
+    "paragraph4": "The chassis is a FIAT Ducato L4H2",
+    "facts": [
+      "179hp/132kW engine",
+      "black metallic",
+      "636 cm long",
+      "H2 height",
+      "16\" tyres",
+      "SkyRoof (forward facing roof window)",
+      "1x roof hatch in the front",
+      "1x Maxxfan Deluxe in the back"
+    ]
+  },
+  "wilmaGas": {
+    "title": "Gas",
+    "heroImageAlt": "View of the Somarøy island from the hilltop.",
+    "background": {
+      "title": "Background",
+      "paragraph1": "We use gas in our van for cooking, heating and warm water. As such gas is a critical resource that we don't want to run out of. Our gas compartment can hold up to two 11kg gas bottles.",
+      "paragraph2": "In cold weather (winter) we can make 1 bottle last about 4-5 days - depending on the temperature. In summer time it's pretty much endless as we don't use the heater and cooking barely uses any gas. Warm water is only needed for a cozy shower.",
+      "paragraph3": "During our very first winter trip we made the experience that it can be tricky to get your gas bottles filled or exchanged for full bottles.",
+      "paragraph4": "This is especially true as we had two bottles from \"Alugas\" as they weigh much less than the standard steel ones. Unfortunately though, they are harder to come by even in Germany.",
+      "paragraph5": "Another challenge is that German gas bottles don't come with the 80% shut off safety valve and thus getting them filled outside of Germany is a real challenge.",
+      "paragraph6": "Lastly, we vacationed over Christmas and New Years when many shops are closed.",
+      "paragraph7": "So, we figured this isn't a sustainable situation and we don't want to be limited in range by the proximity of the nearest available gas filling/exchange station!"
+    },
+    "solution": {
+      "title": "Solution",
+      "paragraph1": "Gas tank bottles (\"Gastankflaschen\") i.e. gas bottles that do have the 80% safety shut off valve and can be filled at any LPG/Autogas gas station.",
+      "paragraph2": "These bottles are extremely convenient. You can fill them at any gas station that sells LPG/Autogas and it's completely safe. Even better: you can fill them at any time, you don't have to wait for a bottle to be completely empty (like you would if you had to exchange it). That means when you come by a station with LPG/Autogas, just top up your bottle and you are pretty much never running out of gas again.",
+      "paragraph3": "I know many people at this point will raise their finger 👆 and comment on TÜV and the general legal situation for gas tank bottles. I won't address this any further as there are many articles and YouTube videos about it and it is ever changing. You have to come to your own conclusion.",
+      "paragraph4": "The installation should be done by a certified professional as you are making changes to your gas infrastructure. Don't cheap out on sensible areas! It is usually done within a day or two and the price is well worth the reward. Since we are close (ish) to Cologne, we had our installation done by Ralf Kohl from <link>https://www.wohnmobil-elektronik.de/</link>. The service and consultation was great and the installation only took a couple of hours. Ralf also gave us a thoroguh introduction and step-by-step instructions how to use the system safely.",
+      "paragraph5": "We opted to change both bottles after some consideration. Initially we figured let's go with just one bottle in case a country doesn't have LPG/Autogas gas stations, but we dismissed the thought after checking all the countries we want to travel to."
+    },
+    "findingStations": {
+      "title": "Finding gas stations that sell LPG/Autogas",
+      "paragraph": "Initially it was a bit tricky to find gas stations with our usual map and navigation applications until we found <link>myLPG.eu</link>. It's a well maintained app that shows LPG/Autogas gas stations across Europe - exactly what we needed. We can highly recommend this app!"
+    },
+    "images": {
+      "gasBottles": "Installed gas tank bottles inside the gas compartment of the van",
+      "hose": "Image showing the hose connecting the gas bottles to the external nozzle",
+      "externalNozzle": "Image of the external gas nozzle connector",
+      "externalNozzleCoverRemoved": "Image of the external gas nozzle connector with the cover removed",
+      "nozzleAdapters": "Image showing different gas nozzle adapters for various countries"
+    }
+  },
+  "wilmaBikeCarrier": {
+    "title": "Bike carrier",
+    "heroImageAlt": "Image of our black campervan Wilma on a beach in Denmark.",
+    "content": {
+      "paragraph1": "We have added a neat bike carrier from <link>PUSHComponents</link>. We chose this solution, because of its weight - we want to save as much weight as possible.",
+      "paragraph2": "The carrier weighs <5kg in total!"
+    },
+    "images": {
+      "noBikes": "Bike carrier mounted on the back of our campervan Wilma",
+      "withBikes": "Close-up of the bike carrier mounted on the back of our campervan Wilma"
+    }
+  },
+  "wilmaToilet": {
+    "title": "Toilet",
+    "heroImageAlt": "Image of cow standing in a field during sunset in Oostende, Belgium",
+    "bioTioo": {
+      "title": "BioTioo",
+      "paragraph1": "We decided to get rid of the chemical toilette pretty much from the beginning. Why? We do not want to use any chemicals and try to only use natural things. In addition the chemical toilette is a huge issue if you want to be independent. It can only be emptied as special locations and causes real problems if it is full at the wrong moment.",
+      "paragraph2": "So, we removed the checmical toilette and replaced it with a dry composting toilet. After thorough research we decided for <link>BioTioo (formerly known as BioToi)</link>, because you do not need to add anything after each visit to the toilette. It has a very handy stirring mechanism that mixes fecal matter with the coconut fibres.",
+      "paragraph3": "It also has a ventilator which we will install a little later."
+    },
+    "images": {
+      "cables": "Image of the cables of the old chemical toilet",
+      "toiletBase": "Image showing the base where the new composting toilet will be installed",
+      "oldToilet": "Image of the old chemical toilet that was removed",
+      "toiletBasePrepared": "Image showing the prepared base for the new composting toilet",
+      "toiletInstalled": "Image of the newly installed composting toilet"
+    }
+  },
+  "wilmaInternet": {
+    "title": "Internet",
+    "heroImageAlt": "Image of snow capped mountains in the Allgäu region in Germany",
+    "background": {
+      "title": "Background",
+      "paragraph1": "There are probably countless videos and articles on the internet about getting access to the internet while travelling with a van/campervan/motorhome. We watched some of those and came to the conclusion there is not \"best\" solution. Most end in the \"recommendation\" to have both a cellular antenna and router as well as Starlink if you truly want coverage and connectivity anywhere*.",
+      "paragraph2": "Initially we thought \"that's overkill\" and decided to go with just Starlink. It worked pretty well and we generally have few complaints. However, just 1 month in Starlink upped their prices (to 72€/month at the time of writing this article) and we overlooked one very important factor:",
+      "paragraph3": "Starlink needs an unobstructed view especially for our use case which is a lot of video calls. You can get away with obstructions for uploads, streaming and surfing no problem. But if you do a lot of video calls then any obstruction will make you very unhappy.",
+      "paragraph4": "Since we don't always want to stay in the middle of a random field to have an unobstructed view, but we also want to be able to stay in say a a forest area, we decided to beef up our internet setup and add a 5G router as well as a 5G antenna."
+    },
+    "setup": {
+      "title": "Our setup",
+      "list": [
+        "Starlink V4/3rd Gen (i.e. the \"big dish\" without self-adjustment and the standard RJ45 connections).",
+        "Teltonika RUTC50 5G Router",
+        "12V to 48V/56V inverter from LinkGear",
+        "YAOSHENG 200W passive POE injector",
+        "2 simple power switches",
+        "An external RJ45 outlet (professionally installed for free)",
+        "Starlink Pivot Mount",
+        "5G antenna"
+      ]
+    },
+    "wiring": {
+      "title": "Wiring schematics",
+      "paragraph1": "The battery delivers 12V to the router as well as the inverter which steps it up to 48V (Starlink requires this voltage). The POE injector adds the power to the ethernet connection going to the Starlink dish. This generation of dish uses a standard RJ45 connector. The LAN port of the POE injector delivers the internet signal via ethernet to the WAN port on the 5G router. Since the modem is built into the dish there is very little configuration required to make this work.",
+      "paragraph2": "The 5G router is connected to a 5G antenna mounted to the roof of our van. It can hold up to 2 SIMs and you can seamlessly switch between Starlink or cellular internet.",
+      "paragraph3": "The two power switches control Starlink and the router independently. When we use Starlink we do need both, however, when we run on cellular we can switch Starlink off and save a lot of power.",
+      "schematicAlt": "Wiring schematic for Starlink and 5G router setup in van"
+    },
+    "starlinkStats": {
+      "title": "Starlink statistics",
+      "paragraph1": "Average time to set up: 5 mins (including booting Starlink and aligning it - which is probably not even necessary).",
+      "paragraph2": "Average power draw while in use with 2 laptops: 33 Watts.",
+      "powerDrawImageAlt": "Starlink power draw with 2 laptops connected"
+    },
+    "routerStats": {
+      "title": "Teltonika RUTC50 5G router statistics",
+      "paragraph": "The router draws around 4.5W (0.38A @ 12V) when idle and with a maximum power draw of 13.5W (1.12A @ 12V)."
+    },
+    "images": {
+      "wallboard": "The wallboard where the router will be mounted",
+      "routerWithMounts": "Router with mounts",
+      "routerMounted": "Router mounted on wallboard",
+      "switch": "Switch to control the router",
+      "switchesInstalled": "2 switches installed",
+      "wiring": "Wiring for the switches done",
+      "poeInjector": "Unboxing the 200W POE injector",
+      "antennaMounted": "Antenna mounted",
+      "cables": "Lots of cables",
+      "connectingAntenna": "Connecting the antenna to the router",
+      "everythingConnected": "Everything connected and installed",
+      "running": "It's running!",
+      "antennaAndStarlink": "5G antenna and Starlink dish",
+      "antennaCloseup": "5G antenna up close",
+      "ethernetOutlet": "Ethernet outlet",
+      "starlinkPluggedIn": "Starlink plugged in"
+    }
+  },
+  "wilmaOutdoor": {
+    "title": "Outdoor",
+    "heroImageAlt": "Image of Wilma parked at a quay in Waasmunster, Belgium",
+    "toolboard": {
+      "title": "Toolboard",
+      "paragraph1": "We wanted to have a way to secure our sandboards to the exteriour of the vehicle. These boards will (hopefully) be used seldom and when they're used they will be super dirty afterwards.",
+      "paragraph2": "So, we looked around for a screw-frew solution and found the toolboard from STYYL. It uses the existing heads on the roof of the car and very strong magnets."
+    },
+    "images": {
+      "mounts": "Image of the mounts on top the van to fix the toolboard",
+      "toolboard": "Image of the installed toolboard on the side of the van"
+    }
+  },
+  "wilmaElectricity": {
+    "title": "Electricity",
+    "heroImageAlt": "Image of our new battery a BullTron 540Ah connected to our campervan Wilma",
+    "main": {
+      "title": "Wilma has plenty of power!"
+    },
+    "battery": {
+      "title": "Battery",
+      "paragraph": "BullTron 540Ah 12.8V Polar (6912Wh) capable of sustaining a load of 150A and 300A peak."
+    },
+    "charging": {
+      "title": "Charging",
+      "paragraph1": "When connected to shore power the battery is charged by the EBL (18A) in parallel to a Victron Energy Blue Smart IP22 Charger delivering 30A.",
+      "paragraph2": "When driving the EBL delivers 18A in addition to the Victron Energy Orion XS 12/12-50A DC-DC battery charger adding another 50A on top.",
+      "paragraph3": "When harvesting the sun, we are using a Wattstunde WS340SF+ foldable solar panel delivering 340Wp controlled by a Victron Energy BlueSolar MPPT 100/30 30A solar charge controller."
+    },
+    "readFullPost": "Read the full build post"
+  },
+  "wilmaEquipmentList": {
+    "title": "Equipment list",
+    "heroImageAlt": "Image of Wilma and some of our equipment laid out in front of her.",
+    "intro": "Below is a list of the equipment we currently have in our van Wilma. This list is constantly evolving as we acquire new gear and replace old items. If you have any questions about specific items or would like recommendations, feel free to reach out!",
+    "equipment": {
+      "title": "Equipment"
+    },
+    "categories": {
+      "electronics": "Electronics",
+      "kitchen": "Kitchen",
+      "other": "Other",
+      "outdoor": "Outdoor",
+      "security": "Security"
+    },
+    "items": {
+      "electronics": [
+        { "name": "CEE 25m cable", "url": "https://amzn.to/426Uanp" },
+        {
+          "name": "JBL Flip 6 Bluetooth Speaker",
+          "url": "https://amzn.to/4gNFrSh"
+        },
+        {
+          "name": "Set of CEE power adaptors",
+          "url": "https://amzn.to/4gOvYdh"
+        },
+        {
+          "name": "Victron Engery Orion XS 12V DCDC charger 50A",
+          "url": "https://amzn.to/4grPWLn"
+        },
+        {
+          "name": "Victron Energy Blue Smart 230V ACDC charger 30A",
+          "url": "https://amzn.to/4fDhrQB"
+        },
+        {
+          "name": "Victron Energy MPPT Solar charger 30A",
+          "url": "https://amzn.to/4gtkLPN"
+        },
+        {
+          "name": "Wattstunde 340WP solar panels",
+          "url": "https://amzn.to/49NAh6B"
+        }
+      ],
+      "kitchen": [
+        { "name": "Comfortable chair", "url": "https://amzn.to/407kIDl" },
+        { "name": "Spray bottles", "url": "https://amzn.to/3P8rOB8" },
+        { "name": "Set of pots and pans", "url": "https://amzn.to/3VSz48c" },
+        { "name": "Macerator", "url": "https://amzn.to/3VOBNj6" },
+        { "name": "Ultra light kettle", "url": "https://amzn.to/41UESlc" },
+        {
+          "name": "Styyl inset for Omnia stove",
+          "url": "https://amzn.to/41IXXXG"
+        },
+        {
+          "name": "Styyl silicone cap for Omnia stove",
+          "url": "https://amzn.to/4fwk5Yz"
+        },
+        { "name": "Omnia stove", "url": "https://amzn.to/3DEh8rs" },
+        { "name": "Clear koziol tumbler", "url": "https://amzn.to/4gPiJJC" },
+        { "name": "Koziol plates", "url": "https://amzn.to/4gJfPWr" },
+        { "name": "Koziol soup plates", "url": "https://amzn.to/3ZGviQw" },
+        { "name": "Koziol bowls", "url": "https://amzn.to/4iFuTX4" },
+        { "name": "Koziol organic waste bin", "url": "https://amzn.to/4iAhSOq" }
+      ],
+      "other": [
+        {
+          "name": "Window vacuum cleaner (vacuums condensate)",
+          "url": "https://amzn.to/4gFFK1C"
+        },
+        { "name": "Foldable bucket", "url": "https://amzn.to/4gR8vYT" },
+        { "name": "Gas adaptor set", "url": "https://amzn.to/4iTHs1d" },
+        { "name": "Suction hooks", "url": "https://amzn.to/4gNGiCt" },
+        { "name": "Drinkwater safe hose", "url": "https://amzn.to/4iNW422" },
+        {
+          "name": "Truma heating exhaust adaptor for condensate",
+          "url": "https://amzn.to/4gnMG3s"
+        },
+        { "name": "Set of jumper cables", "url": "https://amzn.to/3Duy0RC" },
+        { "name": "Styyl magentic plate", "url": "https://amzn.to/3DvuC91" }
+      ],
+      "outdoor": [
+        {
+          "name": "Broom for de-icing / de-snowing the van",
+          "url": "https://amzn.to/3VTcBro"
+        },
+        { "name": "Small ladder", "url": "https://amzn.to/3BJBGOQ" },
+        { "name": "Snow chains", "url": "https://amzn.to/3P7EFUr" },
+        { "name": "Foldable shovel", "url": "https://amzn.to/4iOtoFY" },
+        {
+          "name": "Small yet powerful torchlight",
+          "url": "https://amzn.to/3PahxEE"
+        },
+        { "name": "Small axe", "url": "https://amzn.to/3PeBzOc" },
+        { "name": "Sandboards", "url": "https://amzn.to/3Dwy1EI" },
+        { "name": "Outdoor 2-hob gas stove", "url": "https://amzn.to/3VNsZcX" }
+      ],
+      "security": [
+        {
+          "name": "Lock for rear doors (Ducato)",
+          "url": "https://amzn.to/3Pb9Ii8"
+        },
+        { "name": "Prickstop (Ducato)", "url": "https://amzn.to/4gMqv6X" },
+        {
+          "name": "Fire extinguisher for grease fires",
+          "url": "https://amzn.to/3P7QERM"
+        },
+        {
+          "name": "Lock for AdBlue tank (Ducato)",
+          "url": "https://amzn.to/409TXyl"
+        },
+        { "name": "Gas detector", "url": "https://amzn.to/4gNGSA9" }
+      ]
+    },
+    "note": "All links marked with * are Amazon affiliate links."
+  },
+  "metadata": {
+    "home": {
+      "title": "VanVentures – Van Life Stories & Guides",
+      "description": "Follow Kathrin & Stefan on European van life adventures, complete with practical route ideas, overnight tips, and honest stories from the road.",
+      "heroImageAlt": "Our van Wilma parked at a Danish beach during sunrise"
+    },
+    "vanLife": {
+      "title": "Van Life Blog",
+      "description": "Field-tested travel stories, van build lessons, and off-grid guides from our life on the road.",
+      "heroImageAlt": "View from above of Somarøy in Norway"
+    },
+    "vanLifeMap": {
+      "title": "Our travel map",
+      "description": "Follow the GPX tracks of our van life adventures. We keep adding routes as we refine them on the road."
+    },
+    "aboutUs": {
+      "title": "About Us",
+      "description": "Meet Stefan and Kathrin, an adventurous couple from Germany exploring Europe in their campervan Wilma. Discover their passion for travel, hiking, and nature.",
+      "heroImageAlt": "Image of two ice cream cones"
+    },
+    "sustainability": {
+      "title": "Sustainability",
+      "description": "Our goal is to be as sustainable and environmentally responsible as possible. For us \"leave no trace\" also includes trying to keep our waste water as organic as possible.",
+      "heroImageAlt": "Image of a majestic waterfall in Whistler, Canada"
+    },
+    "friendsAndPartners": {
+      "title": "Friends & Partners",
+      "description": "Meet our friends and partners who share our passion for sustainable travel and van life.",
+      "heroImageAlt": "Sunset over the ocean in Canada"
+    },
+    "wilma": {
+      "title": "Wilma - Our Van",
+      "description": "All about our van Wilma: build, equipment, and technical details."
+    },
+    "wilmaGas": {
+      "title": "Gas - Wilma",
+      "description": "Our gas setup and how we installed an LPG system in our van to be independent of gas bottle swaps"
+    },
+    "wilmaBikeCarrier": {
+      "title": "Bike carrier - Wilma",
+      "description": "We installed a lightweight bike carrier on the back of our campervan Wilma to carry our bikes on our adventures."
+    },
+    "wilmaToilet": {
+      "title": "Toilet - Wilma",
+      "description": "Replacing the chemical toilet with a dry composting toilet in our van Wilma."
+    },
+    "wilmaInternet": {
+      "title": "Internet - Wilma",
+      "description": "Our solution for reliable internet connectivity while living in a van."
+    },
+    "wilmaOutdoor": {
+      "title": "Outdoor - Wilma",
+      "description": "Our outdoor additions and modifications to the van to make life easier while camping and traveling."
+    },
+    "wilmaElectricity": {
+      "title": "Electricity - Wilma",
+      "description": "Our electricity setup and how we upgraded Wilma's power system with a BullTron 540Ah battery and other components to ensure sufficient energy for our van life adventures."
+    },
+    "wilmaEquipmentList": {
+      "title": "Equipment list - Wilma",
+      "description": "A comprehensive list of all the equipment we have in our campervan Wilma, from electronics to kitchen gear and outdoor essentials."
+    },
+    "imprint": {
+      "title": "Imprint",
+      "description": "Legal imprint and disclaimer for VanVentures.blog, providing information about content responsibility and external links."
+    },
+    "privacyPolicy": {
+      "title": "Privacy Policy",
+      "description": "This Privacy Policy outlines how we collect, use, and protect your personal data when you visit our website vanventures.blog. We are committed to ensuring your privacy and data security."
+    },
+    "canadaRoadTrip2023": {
+      "title": "Canada Road Trip 2023",
+      "description": "Our 4 week road trip through Canada in 2023: travel stories, van life tips, and off-grid guides."
+    },
+    "denmarkRoadTrip2024": {
+      "title": "Denmark Road Trip 2024",
+      "description": "Travel stories, van life tips, and off-grid guides from our September 2024 road trip through Denmark."
+    }
+  },
+  "privacyPolicy": {
+    "eyebrow": "Legal",
+    "title": "Privacy Policy",
+    "heroImageAlt": "Snow-covered alpine ridge at golden hour",
+    "section1": {
+      "title": "1. General Information",
+      "paragraph1": "Protecting your personal data is of utmost importance to us. In this Privacy Policy, we provide information about what data we collect, how we use it, and your rights regarding your data. This Privacy Policy applies to the use of our website vanventures.blog, hosted on the Cloudflare worker platform (hereinafter referred to as \\\"Website\\\")."
+    },
+    "section2": {
+      "title": "2. Controller",
+      "paragraph1": "The controller responsible for data processing on this website within the meaning of the General Data Protection Regulation (GDPR) is:",
+      "paragraph2": "Stefan de Lange<br/>c/o Block Services<br/>Stuttgarter Str. 106<br/>70736 Fellbach<br/><a href=\"mailto:hello@vanventures.blog\">hello@vanventures.blog</a>"
+    },
+    "section3": {
+      "title": "3. Collection and Storage of Personal Data and the Nature and Purpose of its Use",
+      "itemA": "<strong>a) Visiting the Website</strong><br/>When you access our website, the browser used on your device automatically sends information to the server of our website. This information is temporarily stored in a so-called log file. The following information is collected without your intervention and stored until it is automatically deleted:<br/>• IP address of the requesting computer<br/>• Date and time of access<br/>• Name and URL of the retrieved file<br/>• Website from which the access occurred (referrer URL)<br/>• Browser used, and, if applicable, the operating system of your computer, as well as the name of your access provider.<br/>The data mentioned is processed by us for the following purposes:<br/>• Ensuring a smooth connection to the website<br/>• Ensuring convenient use of our website<br/>• Evaluating system security and stability, and<br/>• For further administrative purposes.<br/>The legal basis for data processing is Article 6(1)(f) GDPR. Our legitimate interest follows from the purposes for data collection listed above.",
+      "itemB": "<strong>b) Google Fonts</strong><br/>Our website uses Google Fonts, a service by Google LLC, to ensure uniform font display. When accessing a page, your browser loads the required fonts from Google's servers into its cache. During this process, data such as your IP address and the requested URL are transmitted to Google. This is based on Article 6(1)(f) GDPR, with our legitimate interest being the appealing design of our website. For more information, visit: <a href=\"https://developers.google.com/fonts/faq\" target=\"_blank\" rel=\"noopener noreferrer\">https://developers.google.com/fonts/faq</a>.",
+      "itemC": "<strong>c) Amazon Affiliate Links</strong><br/>We participate in the Amazon EU affiliate program. Links to Amazon are embedded on our site, through which we can earn commissions. Amazon uses cookies to trace the origin of orders. This allows Amazon to recognize that you clicked the affiliate link on our website. The storage of Amazon cookies is based on Article 6(1)(f) GDPR. Our legitimate interest lies in correctly accounting for affiliate earnings. For more information, visit <a href=\"https://www.amazon.de/gp/help/customer/display.html?nodeId=201909010\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.amazon.de/gp/help/customer/display.html?nodeId=201909010</a>.",
+      "itemD": "<strong>d) Contact Form</strong><br/>When you submit inquiries via our website's contact form, your information, including contact details (e.g., name, email address, message), is stored to process your inquiry and for potential follow-up questions. The data is forwarded via email to our address hosted on Apple's iCloud service and processed there.<br/>Data processing is based on your consent (Article 6(1)(a) GDPR). You can revoke your consent at any time by informal email notification. The legality of data processing until revocation remains unaffected.",
+      "itemE": "<strong>e) Note on Data Transfer to the USA and Other Third Countries</strong><br/>We use tools from companies based in the USA or other non-secure third countries regarding data protection. These tools may transfer your data to such countries for processing. Please note that the level of data protection in these countries may not be equivalent to the EU standard. For example, U.S. authorities may access your data without judicial recourse.",
+      "itemF": "<strong>f) SSL or TLS Encryption</strong><br/>For security purposes and to protect the transmission of sensitive information (e.g., inquiries or orders), this website uses SSL or TLS encryption. You can recognize encrypted connections by the change in the browser's address bar from \"http://\" to \"https://\" and by the lock icon. Encrypted data cannot be accessed by third parties."
+    },
+    "section4": {
+      "title": "4. Cookies",
+      "intro": "Our website uses cookies. Cookies are small text files stored on your device by your browser to make our offering more user-friendly, effective, and secure.",
+      "necessary": "<strong>a) Necessary Cookies</strong><br/>These cookies are essential for the website's operation and cannot be disabled in our systems. These necessary and required cookies are always used to securely serve this website to you.",
+      "optional": "<strong>b) Optional Cookies</strong><br/>Optional cookies help us analyze user behavior to improve our offering. These cookies are only set with your explicit consent (Article 6(1)(a) GDPR). These analytics and performance cookies are used on this website, as described below, only when you acknowledge our cookie banner. This website uses analytics and performance cookies to view site traffic, activity, and other data.",
+      "settings": "<strong>c) Cookie Settings</strong><br/>Different browsers offer various methods for managing and deleting cookies. Below are links to support documents for major browsers:<br/>• <a href=\"https://support.google.com/accounts/answer/32050\" target=\"_blank\" rel=\"noopener noreferrer\">Chrome</a><br/>• <a href=\"https://support.apple.com/en-in/guide/safari/sfri11471/mac\" target=\"_blank\" rel=\"noopener noreferrer\">Safari</a><br/>• <a href=\"https://support.mozilla.org/en-US/kb/clear-cookies-and-site-data-firefox?redirectslug=delete-cookies-remove-info-websites-stored&redirectlocale=en-US\" target=\"_blank\" rel=\"noopener noreferrer\">Firefox</a><br/>• <a href=\"https://support.microsoft.com/en-us/topic/how-to-delete-cookie-files-in-internet-explorer-bca9446f-d873-78de-77ba-d42645fa52fc\" target=\"_blank\" rel=\"noopener noreferrer\">Internet Explorer</a><br/>For other browsers, refer to their official support documentation."
+    },
+    "section5": {
+      "title": "5. Third-Party Services and Tools",
+      "googleFonts": "a) Google Fonts – see Section 3b.",
+      "amazon": "b) Amazon Affiliate Program – see Section 3c."
+    },
+    "section6": {
+      "title": "6. Your Rights",
+      "intro": "You have the right to:",
+      "right1": "Request access to your data (Article 15 GDPR)",
+      "right2": "Request rectification of incorrect data (Article 16 GDPR)",
+      "right3": "Request deletion of your data, except where processing is required to fulfill legal obligations (Article 17 GDPR)",
+      "right4": "Request restriction of processing (Article 18 GDPR)",
+      "right5": "Receive your data in a structured, commonly used format or transfer it to another controller (Article 20 GDPR)",
+      "right6": "Withdraw your consent at any time (Article 7(3) GDPR)",
+      "right7": "Lodge a complaint with a supervisory authority (Article 77 GDPR)"
+    },
+    "section7": {
+      "title": "7. Updates and Changes to this Privacy Policy",
+      "paragraph1": "This Privacy Policy is effective as of December 18, 2024. We reserve the right to update it to reflect legal requirements or changes to our services."
+    }
+  }
+}
