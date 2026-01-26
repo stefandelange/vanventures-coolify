@@ -49,6 +49,23 @@ Nixpacks nutzt `npm ci`, was bei Next.js manchmal zu Version-Konflikten führt (
 
 Da deine Assets bereits im Bunny Storage liegen, brauchst du **keine Origin-Konfiguration**. Die Pull Zone liefert direkt aus dem Storage aus.
 
+### Erforderliche Dateien im Bunny Storage
+
+Folgende Dateien müssen im Bunny Storage liegen:
+
+**Logos/Icons (aus `public/`):**
+- `/vanventures-logo-192.png`
+- `/vanventures-logo-512.png`
+- `/apple-touch-icon.png`
+- `/apple-touch-icon-precomposed.png`
+- `/vanventures-logo-200.png`
+
+**Content Assets:**
+- `/images/` - Alle Blog-Bilder
+- `/videos/` - Alle Videos
+
+Diese werden automatisch vom CDN geladen dank der zentralen Config in [src/config/cdn.ts](src/config/cdn.ts).
+
 ### Bunny Optimizer - Standard Konfiguration
 Die Standard-Konfiguration sollte ausreichen. Falls du spezifische Anpassungen brauchst:
 
@@ -97,7 +114,8 @@ Stelle sicher, dass folgende DNS Records existieren:
   - Importiert CDN URL aus zentraler Config
 
 - `src/app/layout.tsx` und `src/app/manifest.ts`:
-  - Nutzen zentrale CDN Config für Icons
+  - Icons/Logos werden vom CDN geladen (aus Bunny Storage)
+  - Alle Assets (Content-Bilder, Videos, Icons) nutzen den CDN
 
 - `tsconfig.json`:
   - Entfernt: Cloudflare types Referenz
