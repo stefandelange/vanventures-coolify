@@ -1,5 +1,4 @@
-const CDN_URL = process.env.NEXT_PUBLIC_CDN_URL;
-const SITE_URL = "https://vanventures.blog";
+import { CDN_URL } from "@/config/cdn";
 
 const normalizeSrc = (src: string) => {
   return src.startsWith("/") ? src.slice(1) : src;
@@ -28,7 +27,7 @@ export default function bunnyImageLoader({
     quality: String(quality ?? 75),
   });
 
-  const resizeHost = CDN_URL ?? SITE_URL;
+  const resizeHost = CDN_URL;
   const isAbsolute = /^https?:\/\//i.test(src);
 
   if (isAbsolute) {

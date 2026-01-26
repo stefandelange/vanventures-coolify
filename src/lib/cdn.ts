@@ -1,7 +1,7 @@
-const CDN_URL = process.env.NEXT_PUBLIC_CDN_URL;
+import { CDN_URL } from "@/config/cdn";
 
 export function cdnUrl(path: string): string {
-  if (CDN_URL && (path.startsWith("/images/") || path.startsWith("/videos/"))) {
+  if (path.startsWith("/images/") || path.startsWith("/videos/")) {
     return `${CDN_URL}${path}`;
   }
   return path;

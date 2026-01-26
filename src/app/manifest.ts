@@ -1,4 +1,5 @@
 import { MetadataRoute } from "next";
+import { CDN_URL } from "@/config/cdn";
 
 export default function manifest(): MetadataRoute.Manifest {
   return {
@@ -13,19 +14,19 @@ export default function manifest(): MetadataRoute.Manifest {
     orientation: "portrait-primary",
     icons: [
       {
-        src: "/vanventures-logo-192.png",
+        src: `${CDN_URL}/vanventures-logo-192.png`,
         sizes: "192x192",
         type: "image/png",
         purpose: "any",
       },
       {
-        src: "/vanventures-logo-512.png",
+        src: `${CDN_URL}/vanventures-logo-512.png`,
         sizes: "512x512",
         type: "image/png",
         purpose: "any",
       },
       {
-        src: "/vanventures-logo-512.png",
+        src: `${CDN_URL}/vanventures-logo-512.png`,
         sizes: "512x512",
         type: "image/png",
         purpose: "maskable",

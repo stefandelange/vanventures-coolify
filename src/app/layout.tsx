@@ -4,6 +4,7 @@
 import { Roboto } from "next/font/google";
 import type { Metadata, Viewport } from "next";
 import "./globals.css";
+import { CDN_URL } from "@/config/cdn";
 
 const roboto = Roboto({
   variable: "--font-roboto",
@@ -34,13 +35,13 @@ export const metadata: Metadata = {
   },
   icons: {
     icon: [
-      { url: "/vanventures-logo-192.png", sizes: "192x192" },
-      { url: "vanventures-logo-512.png", sizes: "512x512" },
+      { url: `${CDN_URL}/vanventures-logo-192.png`, sizes: "192x192" },
+      { url: `${CDN_URL}/vanventures-logo-512.png`, sizes: "512x512" },
     ],
-    shortcut: "/vanventures-logo-192.png",
+    shortcut: `${CDN_URL}/vanventures-logo-192.png`,
     apple: [
-      { url: "/apple-touch-icon.png", sizes: "192x192" },
-      { url: "/vanventures-logo-512.png", sizes: "512x512" },
+      { url: `${CDN_URL}/apple-touch-icon.png`, sizes: "192x192" },
+      { url: `${CDN_URL}/vanventures-logo-512.png`, sizes: "512x512" },
     ],
   },
   openGraph: {

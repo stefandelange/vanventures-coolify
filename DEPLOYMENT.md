@@ -13,17 +13,21 @@ Dieses Projekt wurde von Cloudflare auf Hetzner/Coolify mit Bunny CDN migriert.
 - **Is it a SPA?** → NEIN (nicht anhaken)
 - **Port**: 3000
 
-### 2. Environment Variables in Coolify setzen
+### 2. CDN Konfiguration
 
-**Wichtig:** Folgende Environment Variable muss in Coolify konfiguriert werden:
+Die CDN URL ist direkt im Code konfiguriert in [src/config/cdn.ts](src/config/cdn.ts):
 
+```typescript
+export const CDN_URL = "https://cdn-eu.vanventures.blog";
+export const SITE_URL = "https://vanventures.blog";
 ```
-NEXT_PUBLIC_CDN_URL=https://cdn-eu.vanventures.blog
-```
 
-Diese Variable wird für:
-- Image Optimization über Bunny CDN
-- Static Asset Delivery (CSS, JS, Bilder)
+**Um den CDN zu ändern:**
+1. Bearbeite `src/config/cdn.ts`
+2. Commit und Push zu GitHub
+3. Coolify baut automatisch neu (oder manuell triggern)
+
+Keine Environment Variables in Coolify notwendig!
 
 ### 3. Build Konfiguration
 
@@ -77,6 +81,11 @@ Stelle sicher, dass folgende DNS Records existieren:
   - Multi-stage Build für Next.js standalone
   - Umgeht npm ci Issues mit Nixpacks
 
+- **`src/config/cdn.ts`** (NEU):
+  - Zentrale CDN Konfiguration
+  - Keine Environment Variables notwendig
+  - Einfach zu ändern per Code
+
 - `next.config.ts`:
   - Entfernt: Cloudflare initialization
   - Hinzugefügt: `output: "standalone"` für optimiertes Deployment
@@ -85,9 +94,10 @@ Stelle sicher, dass folgende DNS Records existieren:
 - `src/lib/bunny-image-loader.ts`:
   - Nutzt Bunny CDN Query Parameter statt Cloudflare Image API
   - Format: `https://cdn-eu.vanventures.blog/images/foto.jpg?width=1200&quality=75`
+  - Importiert CDN URL aus zentraler Config
 
-- `.env.production`:
-  - CDN URL von `cdn.vanventures.blog` zu `cdn-eu.vanventures.blog`
+- `src/app/layout.tsx` und `src/app/manifest.ts`:
+  - Nutzen zentrale CDN Config für Icons
 
 - `tsconfig.json`:
   - Entfernt: Cloudflare types Referenz
@@ -100,11 +110,18 @@ Der `prebuild` Hook generiert automatisch die Posts. Falls das fehlschlägt:
 npm run generate:posts
 ```
 
-### Images werden nicht optimiert
-Prüfe:
-- Environment Variable `NEXT_PUBLIC_CDN_URL` ist in Coolify gesetzt
-- Bunny Pull Zone ist aktiv
-- Assets existieren im Bunny Storage unter dem richtigen Pfad
+### Images werden nicht optimiert / laden von falscher URL
+**Symptom:** Images laden von falscher URL statt `cdn-eu.vanventures.blog`
+
+**Lösung:**
+1. Prüfe [src/config/cdn.ts](src/config/cdn.ts) - ist die CDN_URL korrekt?
+2. Falls geändert: Commit, Push, und Rebuild in Coolify
+3. Im Browser Network Tab: Prüfe ob Images von der richtigen CDN URL laden
+
+**Falls immer noch falsch:**
+- Bunny Pull Zone ist aktiv?
+- Assets existieren im Bunny Storage unter dem richtigen Pfad?
+- DNS für `cdn-eu.vanventures.blog` korrekt?
 
 ### 404 auf Static Assets
 - Prüfe, ob Assets im Bunny Storage unter dem richtigen Pfad liegen
