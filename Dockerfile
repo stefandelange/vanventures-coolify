@@ -49,7 +49,8 @@ ENV PORT=3000
 ENV HOSTNAME="0.0.0.0"
 
 # Health check - checks if server responds on root path
+# Uses $PORT variable to work with Coolify's dynamic port assignment
 HEALTHCHECK --interval=30s --timeout=3s --start-period=5s --retries=3 \
-  CMD curl -f http://localhost:3000/ || exit 1
+  CMD curl -f http://localhost:${PORT:-3000}/ || exit 1
 
 CMD ["node", "server.js"]
