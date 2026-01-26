@@ -36,9 +36,16 @@ Das Projekt nutzt einen **Dockerfile** für den Build:
 - Automatische Post-Generierung via `npm run generate:posts`
 - Next.js Standalone Output
 - Production-optimiert mit Node 20 Alpine
+- **Docker Native Healthcheck**: Prüft alle 30s ob Server antwortet
 
 **Warum Dockerfile und nicht Nixpacks?**
 Nixpacks nutzt `npm ci`, was bei Next.js manchmal zu Version-Konflikten führt (z.B. `@swc/helpers`). Der Dockerfile nutzt `npm install`, was robuster ist.
+
+**Healthcheck Details:**
+- Interval: 30 Sekunden
+- Timeout: 3 Sekunden
+- Start Period: 5 Sekunden (Zeit zum Hochfahren)
+- Retries: 3 fehlgeschlagene Checks → Container wird als unhealthy markiert
 
 ## Bunny CDN Setup
 
@@ -97,6 +104,7 @@ Stelle sicher, dass folgende DNS Records existieren:
 - **`Dockerfile`** und **`.dockerignore`**:
   - Multi-stage Build für Next.js standalone
   - Umgeht npm ci Issues mit Nixpacks
+  - Docker native healthcheck (alle 30s)
 
 - **`src/config/cdn.ts`** (NEU):
   - Zentrale CDN Konfiguration
