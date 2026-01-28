@@ -36,7 +36,8 @@
     "vanVentures": "VanVentures",
     "copyright": "© {year} Vanventures. Built on the road in Wilma.",
     "imprint": "Imprint",
-    "privacyPolicy": "Privacy policy"
+    "privacyPolicy": "Privacy policy",
+    "cookiePolicy": "Cookie policy"
   },
   "common": {
     "readMore": "Continue reading",
@@ -1377,6 +1378,10 @@
       "title": "Privacy Policy",
       "description": "This Privacy Policy outlines how we collect, use, and protect your personal data when you visit our website vanventures.blog. We are committed to ensuring your privacy and data security."
     },
+    "cookiePolicy": {
+      "title": "Cookie Policy",
+      "description": "This website does not use cookies. Learn more about how we handle your data and what third-party services we use."
+    },
     "canadaRoadTrip2023": {
       "title": "Canada Road Trip 2023",
       "description": "Our 4 week road trip through Canada in 2023: travel stories, van life tips, and off-grid guides."
@@ -1390,50 +1395,91 @@
     "eyebrow": "Legal",
     "title": "Privacy Policy",
     "heroImageAlt": "Snow-covered alpine ridge at golden hour",
+    "lastUpdated": "Last updated: January 28, 2026",
     "section1": {
-      "title": "1. General Information",
-      "paragraph1": "Protecting your personal data is of utmost importance to us. In this Privacy Policy, we provide information about what data we collect, how we use it, and your rights regarding your data. This Privacy Policy applies to the use of our website vanventures.blog, hosted on the Cloudflare worker platform (hereinafter referred to as \\\"Website\\\")."
+      "title": "1. Controller and Data Protection Officer",
+      "controller": "<strong>Controller:</strong><br/>Stefan de Lange<br/>c/o Block Services<br/>Stuttgarter Str. 106<br/>70736 Fellbach<br/>Germany",
+      "contact": "<strong>Contact for privacy matters:</strong><br/><a href=\"mailto:data@dlng.io\">data@dlng.io</a>"
     },
     "section2": {
-      "title": "2. Controller",
-      "paragraph1": "The controller responsible for data processing on this website within the meaning of the General Data Protection Regulation (GDPR) is:",
-      "paragraph2": "Stefan de Lange<br/>c/o Block Services<br/>Stuttgarter Str. 106<br/>70736 Fellbach<br/><a href=\"mailto:hello@vanventures.blog\">hello@vanventures.blog</a>"
+      "title": "2. General Information",
+      "paragraph1": "We take the protection of your personal data very seriously. We treat your personal data confidentially and in accordance with the statutory data protection regulations and this privacy policy.",
+      "paragraph2": "When you use our website, various personal data are collected. Personal data are data with which you can be personally identified. This privacy policy explains what data we collect and what we use it for. It also explains how and for what purpose this is done."
     },
     "section3": {
-      "title": "3. Collection and Storage of Personal Data and the Nature and Purpose of its Use",
-      "itemA": "<strong>a) Visiting the Website</strong><br/>When you access our website, the browser used on your device automatically sends information to the server of our website. This information is temporarily stored in a so-called log file. The following information is collected without your intervention and stored until it is automatically deleted:<br/>• IP address of the requesting computer<br/>• Date and time of access<br/>• Name and URL of the retrieved file<br/>• Website from which the access occurred (referrer URL)<br/>• Browser used, and, if applicable, the operating system of your computer, as well as the name of your access provider.<br/>The data mentioned is processed by us for the following purposes:<br/>• Ensuring a smooth connection to the website<br/>• Ensuring convenient use of our website<br/>• Evaluating system security and stability, and<br/>• For further administrative purposes.<br/>The legal basis for data processing is Article 6(1)(f) GDPR. Our legitimate interest follows from the purposes for data collection listed above.",
-      "itemB": "<strong>b) Google Fonts</strong><br/>Our website uses Google Fonts, a service by Google LLC, to ensure uniform font display. When accessing a page, your browser loads the required fonts from Google's servers into its cache. During this process, data such as your IP address and the requested URL are transmitted to Google. This is based on Article 6(1)(f) GDPR, with our legitimate interest being the appealing design of our website. For more information, visit: <a href=\"https://developers.google.com/fonts/faq\" target=\"_blank\" rel=\"noopener noreferrer\">https://developers.google.com/fonts/faq</a>.",
-      "itemC": "<strong>c) Amazon Affiliate Links</strong><br/>We participate in the Amazon EU affiliate program. Links to Amazon are embedded on our site, through which we can earn commissions. Amazon uses cookies to trace the origin of orders. This allows Amazon to recognize that you clicked the affiliate link on our website. The storage of Amazon cookies is based on Article 6(1)(f) GDPR. Our legitimate interest lies in correctly accounting for affiliate earnings. For more information, visit <a href=\"https://www.amazon.de/gp/help/customer/display.html?nodeId=201909010\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.amazon.de/gp/help/customer/display.html?nodeId=201909010</a>.",
-      "itemD": "<strong>d) Contact Form</strong><br/>When you submit inquiries via our website's contact form, your information, including contact details (e.g., name, email address, message), is stored to process your inquiry and for potential follow-up questions. The data is forwarded via email to our address hosted on Apple's iCloud service and processed there.<br/>Data processing is based on your consent (Article 6(1)(a) GDPR). You can revoke your consent at any time by informal email notification. The legality of data processing until revocation remains unaffected.",
-      "itemE": "<strong>e) Note on Data Transfer to the USA and Other Third Countries</strong><br/>We use tools from companies based in the USA or other non-secure third countries regarding data protection. These tools may transfer your data to such countries for processing. Please note that the level of data protection in these countries may not be equivalent to the EU standard. For example, U.S. authorities may access your data without judicial recourse.",
-      "itemF": "<strong>f) SSL or TLS Encryption</strong><br/>For security purposes and to protect the transmission of sensitive information (e.g., inquiries or orders), this website uses SSL or TLS encryption. You can recognize encrypted connections by the change in the browser's address bar from \"http://\" to \"https://\" and by the lock icon. Encrypted data cannot be accessed by third parties."
+      "title": "3. Data Collection on Our Website",
+      "hosting": {
+        "title": "3.1 Hosting",
+        "intro": "Our website is hosted by <strong>Hetzner Online GmbH</strong>.",
+        "provider": "<strong>Service Provider:</strong><br/>Hetzner Online GmbH<br/>Industriestraße 25<br/>91710 Gunzenhausen<br/>Germany",
+        "dataProcessed": "<strong>Data Processed:</strong><ul><li>IP addresses</li><li>Date and time of access</li><li>Browser type and version</li><li>Operating system</li><li>Referrer URL</li><li>Hostname of the accessing computer</li><li>Request data (page requested, access status/HTTP status code, amount of data transferred)</li></ul>",
+        "legalBasis": "<strong>Legal Basis:</strong><br/>Art. 6(1)(f) GDPR (legitimate interests). Our legitimate interest lies in the provision, security, and optimization of our website.",
+        "storageDuration": "<strong>Storage Duration:</strong><br/>Server logs are automatically deleted after 30 days.",
+        "dpa": "<strong>Data Processing Agreement:</strong><br/>We have concluded a data processing agreement with Hetzner in accordance with Art. 28 GDPR.",
+        "serverLocation": "<strong>Server Location:</strong><br/>Germany (EU)",
+        "moreInfo": "<strong>Further Information:</strong><br/>Hetzner's privacy policy: <a href=\"https://www.hetzner.com/legal/privacy-policy\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.hetzner.com/legal/privacy-policy</a>"
+      },
+      "cdn": {
+        "title": "3.2 Content Delivery Network (CDN)",
+        "intro": "We use the CDN service of <strong>bunny.net</strong> to deliver website content faster and more securely.",
+        "provider": "<strong>Service Provider:</strong><br/>BunnyWay d.o.o.<br/>Cesta komandanta Staneta 4A<br/>1215 Medvode<br/>Slovenia",
+        "dataProcessed": "<strong>Data Processed:</strong><ul><li>IP addresses</li><li>Date and time of access</li><li>Browser type (User Agent)</li><li>Referrer URL</li><li>Requested content/files</li></ul>",
+        "legalBasis": "<strong>Legal Basis:</strong><br/>Art. 6(1)(f) GDPR (legitimate interests). Our legitimate interest lies in the fast and secure delivery of our website content.",
+        "storageDuration": "<strong>Storage Duration:</strong><br/>Logs are kept in memory only and automatically deleted after 20-30 seconds.",
+        "dpa": "<strong>Data Processing Agreement:</strong><br/>We have concluded a data processing agreement with bunny.net in accordance with Art. 28 GDPR.",
+        "moreInfo": "<strong>Further Information:</strong><br/>bunny.net's privacy policy: <a href=\"https://bunny.net/privacy/\" target=\"_blank\" rel=\"noopener noreferrer\">https://bunny.net/privacy/</a>"
+      }
     },
     "section4": {
-      "title": "4. Cookies",
-      "intro": "Our website uses cookies. Cookies are small text files stored on your device by your browser to make our offering more user-friendly, effective, and secure.",
-      "necessary": "<strong>a) Necessary Cookies</strong><br/>These cookies are essential for the website's operation and cannot be disabled in our systems. These necessary and required cookies are always used to securely serve this website to you.",
-      "optional": "<strong>b) Optional Cookies</strong><br/>Optional cookies help us analyze user behavior to improve our offering. These cookies are only set with your explicit consent (Article 6(1)(a) GDPR). These analytics and performance cookies are used on this website, as described below, only when you acknowledge our cookie banner. This website uses analytics and performance cookies to view site traffic, activity, and other data.",
-      "settings": "<strong>c) Cookie Settings</strong><br/>Different browsers offer various methods for managing and deleting cookies. Below are links to support documents for major browsers:<br/>• <a href=\"https://support.google.com/accounts/answer/32050\" target=\"_blank\" rel=\"noopener noreferrer\">Chrome</a><br/>• <a href=\"https://support.apple.com/en-in/guide/safari/sfri11471/mac\" target=\"_blank\" rel=\"noopener noreferrer\">Safari</a><br/>• <a href=\"https://support.mozilla.org/en-US/kb/clear-cookies-and-site-data-firefox?redirectslug=delete-cookies-remove-info-websites-stored&redirectlocale=en-US\" target=\"_blank\" rel=\"noopener noreferrer\">Firefox</a><br/>• <a href=\"https://support.microsoft.com/en-us/topic/how-to-delete-cookie-files-in-internet-explorer-bca9446f-d873-78de-77ba-d42645fa52fc\" target=\"_blank\" rel=\"noopener noreferrer\">Internet Explorer</a><br/>For other browsers, refer to their official support documentation."
+      "title": "4. Your Rights",
+      "intro": "You have the following rights regarding your personal data:",
+      "rights": "<ul><li><strong>Right of access</strong> (Art. 15 GDPR): You have the right to obtain confirmation as to whether personal data concerning you are being processed.</li><li><strong>Right to rectification</strong> (Art. 16 GDPR): You have the right to have inaccurate personal data corrected.</li><li><strong>Right to erasure</strong> (Art. 17 GDPR): You have the right to have your personal data deleted under certain circumstances.</li><li><strong>Right to restriction of processing</strong> (Art. 18 GDPR): You have the right to request restriction of processing under certain circumstances.</li><li><strong>Right to data portability</strong> (Art. 20 GDPR): You have the right to receive your data in a structured, commonly used format.</li><li><strong>Right to object</strong> (Art. 21 GDPR): You have the right to object to processing based on legitimate interests.</li></ul>",
+      "complaint": "<strong>Right to lodge a complaint:</strong><br/>You have the right to lodge a complaint with a supervisory authority if you believe that the processing of your personal data violates data protection regulations."
     },
     "section5": {
-      "title": "5. Third-Party Services and Tools",
-      "googleFonts": "a) Google Fonts – see Section 3b.",
-      "amazon": "b) Amazon Affiliate Program – see Section 3c."
+      "title": "5. Contact",
+      "paragraph1": "If you have any questions about data protection, please contact us at:",
+      "email": "<a href=\"mailto:data@dlng.io\">data@dlng.io</a>"
     },
-    "section6": {
-      "title": "6. Your Rights",
-      "intro": "You have the right to:",
-      "right1": "Request access to your data (Article 15 GDPR)",
-      "right2": "Request rectification of incorrect data (Article 16 GDPR)",
-      "right3": "Request deletion of your data, except where processing is required to fulfill legal obligations (Article 17 GDPR)",
-      "right4": "Request restriction of processing (Article 18 GDPR)",
-      "right5": "Receive your data in a structured, commonly used format or transfer it to another controller (Article 20 GDPR)",
-      "right6": "Withdraw your consent at any time (Article 7(3) GDPR)",
-      "right7": "Lodge a complaint with a supervisory authority (Article 77 GDPR)"
+    "note": "<strong>Note:</strong> This privacy policy applies only to our website. If you follow links to other websites, please inform yourself about how your data is handled there by reviewing the respective privacy policies."
+  },
+  "cookiePolicy": {
+    "eyebrow": "Legal",
+    "title": "Cookie Policy",
+    "heroImageAlt": "Snow-covered alpine ridge at golden hour",
+    "lastUpdated": "Last updated: January 28, 2026",
+    "section1": {
+      "title": "What are Cookies?",
+      "paragraph1": "Cookies are small text files that are stored on your device (computer, tablet, or mobile phone) when you visit a website. They are widely used to make websites work more efficiently and to provide information to website owners."
     },
-    "section7": {
-      "title": "7. Updates and Changes to this Privacy Policy",
-      "paragraph1": "This Privacy Policy is effective as of December 18, 2024. We reserve the right to update it to reflect legal requirements or changes to our services."
-    }
+    "section2": {
+      "title": "Our Use of Cookies",
+      "paragraph1": "<strong>We do not use cookies on this website.</strong>",
+      "paragraph2": "Our website functions without the use of cookies or similar tracking technologies. We do not store any information on your device, and we do not track your browsing behavior."
+    },
+    "section3": {
+      "title": "Third-Party Services",
+      "intro": "While we ourselves do not use cookies, please note that we use the following services to operate our website:",
+      "hosting": {
+        "title": "Hosting (Hetzner Online GmbH)",
+        "paragraph1": "Our hosting provider does not set cookies in your browser. Technical data such as IP addresses are processed in server logs for security and technical purposes only."
+      },
+      "cdn": {
+        "title": "Content Delivery Network (bunny.net)",
+        "paragraph1": "Our CDN provider does not set cookies in your browser. The service processes technical data (IP addresses, request data) temporarily to deliver website content efficiently."
+      },
+      "moreInfo": "For more information about data processing by these services, please refer to our <a href=\"/privacy-policy\">Privacy Policy</a>."
+    },
+    "section4": {
+      "title": "Your Rights",
+      "paragraph1": "Since we do not use cookies, you do not need to manage cookie preferences on our website. Your browser settings remain unchanged by visiting our site.",
+      "paragraph2": "If you have concerns about data processing in general, please refer to our Privacy Policy or contact us at:",
+      "contact": "<strong>Contact:</strong><br/>Stefan de Lange<br/><a href=\"mailto:data@dlng.io\">data@dlng.io</a>"
+    },
+    "section5": {
+      "title": "Changes to This Cookie Policy",
+      "paragraph1": "We may update this Cookie Policy from time to time. The current version is always available on this page, and the date of the last update is shown at the top."
+    },
+    "summary": "<strong>Summary:</strong> This website does not use cookies. No data is stored on your device through our website."
   }
 }

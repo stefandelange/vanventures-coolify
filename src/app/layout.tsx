@@ -1,15 +1,36 @@
 // This is the ROOT layout - it MUST have html/body tags per Next.js requirements
 // The locale-specific layout with header/footer is in [locale]/layout.tsx
 
-import { Roboto } from "next/font/google";
+import localFont from "next/font/local";
 import type { Metadata, Viewport } from "next";
 import "./globals.css";
 import { CDN_URL } from "@/config/cdn";
 
-const roboto = Roboto({
+const roboto = localFont({
+  src: [
+    {
+      path: "../../public/fonts/roboto-v50-latin-300.woff2",
+      weight: "300",
+      style: "normal",
+    },
+    {
+      path: "../../public/fonts/roboto-v50-latin-regular.woff2",
+      weight: "400",
+      style: "normal",
+    },
+    {
+      path: "../../public/fonts/roboto-v50-latin-500.woff2",
+      weight: "500",
+      style: "normal",
+    },
+    {
+      path: "../../public/fonts/roboto-v50-latin-700.woff2",
+      weight: "700",
+      style: "normal",
+    },
+  ],
   variable: "--font-roboto",
-  subsets: ["latin"],
-  weight: ["300", "400", "500", "700"],
+  display: "swap",
 });
 
 export const viewport: Viewport = {

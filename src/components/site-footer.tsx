@@ -146,6 +146,12 @@ export function SiteFooter() {
             >
               {tFooter("privacyPolicy")}
             </Link>
+            <Link
+              href="/cookie-policy"
+              className="hover:text-[var(--color-mist)]"
+            >
+              {tFooter("cookiePolicy")}
+            </Link>
           </div>
         </div>
       </div>

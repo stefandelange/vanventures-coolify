@@ -36,7 +36,8 @@
     "vanVentures": "VanVentures",
     "copyright": "© {year} Vanventures. Erstellt unterwegs in Wilma.",
     "imprint": "Impressum",
-    "privacyPolicy": "Datenschutz"
+    "privacyPolicy": "Datenschutz",
+    "cookiePolicy": "Cookie-Richtlinie"
   },
   "common": {
     "readMore": "Weiterlesen",
@@ -1386,6 +1387,10 @@
       "title": "Datenschutzerklärung",
       "description": "Diese Datenschutzerklärung erläutert, wie wir Ihre personenbezogenen Daten erfassen, verwenden und schützen, wenn Sie unsere Website vanventures.blog besuchen. Wir verpflichten uns, Ihre Privatsphäre und Datensicherheit zu gewährleisten."
     },
+    "cookiePolicy": {
+      "title": "Cookie-Richtlinie",
+      "description": "Diese Website verwendet keine Cookies. Erfahren Sie mehr darüber, wie wir Ihre Daten handhaben und welche Dienste von Drittanbietern wir nutzen."
+    },
     "canadaRoadTrip2023": {
       "title": "Kanada Roadtrip 2023",
       "description": "Unser 4-wöchiger Roadtrip durch Kanada im Jahr 2023: Reisegeschichten, Van-Life-Tipps und Off-Grid-Ratgeber."
@@ -1399,50 +1404,91 @@
     "eyebrow": "Rechtliches",
     "title": "Datenschutzerklärung",
     "heroImageAlt": "Schneebedeckter alpiner Grat in der goldenen Stunde",
+    "lastUpdated": "Stand: 28. Januar 2026",
     "section1": {
-      "title": "1. Allgemeine Informationen",
-      "paragraph1": "Der Schutz Ihrer personenbezogenen Daten ist uns sehr wichtig. In dieser Datenschutzerklärung informieren wir Sie darüber, welche Daten wir erheben, wie wir sie verwenden und welche Rechte Sie bezüglich Ihrer Daten haben. Diese Datenschutzerklärung gilt für die Nutzung unserer Website vanventures.blog, die auf der Cloudflare Worker-Plattform gehostet wird (im Folgenden als \\\"Website\\\" bezeichnet)."
+      "title": "1. Verantwortlicher und Datenschutzbeauftragter",
+      "controller": "<strong>Verantwortlicher:</strong><br/>Stefan de Lange<br/>c/o Block Services<br/>Stuttgarter Str. 106<br/>70736 Fellbach<br/>Deutschland",
+      "contact": "<strong>Kontakt für Datenschutzfragen:</strong><br/><a href=\"mailto:data@dlng.io\">data@dlng.io</a>"
     },
     "section2": {
-      "title": "2. Verantwortlicher",
-      "paragraph1": "Verantwortlich für die Datenverarbeitung auf dieser Website im Sinne der Datenschutz-Grundverordnung (DSGVO) ist:",
-      "paragraph2": "Stefan de Lange<br/>c/o Block Services<br/>Stuttgarter Str. 106<br/>70736 Fellbach<br/><a href=\"mailto:hello@vanventures.blog\">hello@vanventures.blog</a>"
+      "title": "2. Allgemeine Hinweise",
+      "paragraph1": "Wir nehmen den Schutz Ihrer persönlichen Daten sehr ernst. Wir behandeln Ihre personenbezogenen Daten vertraulich und entsprechend den gesetzlichen Datenschutzvorschriften sowie dieser Datenschutzerklärung.",
+      "paragraph2": "Wenn Sie unsere Website besuchen, werden verschiedene personenbezogene Daten erhoben. Personenbezogene Daten sind Daten, mit denen Sie persönlich identifiziert werden können. Die vorliegende Datenschutzerklärung erläutert, welche Daten wir erheben und wofür wir sie nutzen. Sie erläutert auch, wie und zu welchem Zweck das geschieht."
     },
     "section3": {
-      "title": "3. Erfassung und Speicherung personenbezogener Daten sowie Art und Zweck von deren Verwendung",
-      "itemA": "<strong>a) Besuch der Website</strong><br/>Wenn Sie auf unsere Website zugreifen, sendet der von Ihnen verwendete Browser automatisch Informationen an den Server unserer Website. Diese Informationen werden vorübergehend in einer sogenannten Protokolldatei gespeichert. Folgende Informationen werden ohne Ihr Zutun erfasst und bis zur automatischen Löschung gespeichert:<br/>• IP-Adresse des anfragenden Rechners<br/>• Datum und Uhrzeit des Zugriffs<br/>• Name und URL der abgerufenen Datei<br/>• Website, von der aus der Zugriff erfolgt (Referrer-URL)<br/>• Verwendeter Browser und ggf. das Betriebssystem Ihres Rechners sowie der Name Ihres Access-Providers.<br/>Die genannten Daten werden durch uns zu folgenden Zwecken verarbeitet:<br/>• Gewährleistung eines reibungslosen Verbindungsaufbaus der Website<br/>• Gewährleistung einer komfortablen Nutzung unserer Website<br/>• Auswertung der Systemsicherheit und -stabilität sowie<br/>• zu weiteren administrativen Zwecken.<br/>Die Rechtsgrundlage für die Datenverarbeitung ist Art. 6 Abs. 1 S. 1 lit. f DSGVO. Unser berechtigtes Interesse folgt aus den oben aufgelisteten Zwecken zur Datenerhebung.",
-      "itemB": "<strong>b) Google Fonts</strong><br/>Unsere Website nutzt Google Fonts, einen Dienst der Google LLC, um eine einheitliche Schriftartendarstellung zu gewährleisten. Beim Aufrufen einer Seite lädt Ihr Browser die benötigten Schriftarten von den Servern von Google in seinen Cache. Dabei werden Daten wie Ihre IP-Adresse und die angeforderte URL an Google übermittelt. Dies erfolgt auf Grundlage von Art. 6 Abs. 1 S. 1 lit. f DSGVO, wobei unser berechtigtes Interesse in der ansprechenden Gestaltung unserer Website liegt. Weitere Informationen finden Sie unter: <a href=\"https://developers.google.com/fonts/faq\" target=\"_blank\" rel=\"noopener noreferrer\">https://developers.google.com/fonts/faq</a>.",
-      "itemC": "<strong>c) Amazon Affiliate-Links</strong><br/>Wir nehmen am Amazon EU-Partnerprogramm teil. Auf unserer Website sind Links zu Amazon eingebunden, über die wir Provisionen verdienen können. Amazon verwendet Cookies, um die Herkunft von Bestellungen nachzuverfolgen. Dadurch kann Amazon erkennen, dass Sie den Affiliate-Link auf unserer Website angeklickt haben. Die Speicherung von Amazon-Cookies erfolgt auf Grundlage von Art. 6 Abs. 1 S. 1 lit. f DSGVO. Unser berechtigtes Interesse liegt in der korrekten Abrechnung von Affiliate-Einnahmen. Weitere Informationen finden Sie unter <a href=\"https://www.amazon.de/gp/help/customer/display.html?nodeId=201909010\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.amazon.de/gp/help/customer/display.html?nodeId=201909010</a>.",
-      "itemD": "<strong>d) Kontaktformular</strong><br/>Wenn Sie Anfragen über das Kontaktformular unserer Website absenden, werden Ihre Angaben einschließlich der Kontaktdaten (z. B. Name, E-Mail-Adresse, Nachricht) gespeichert, um Ihre Anfrage zu bearbeiten und für mögliche Anschlussfragen. Die Daten werden per E-Mail an unsere bei Apples iCloud-Dienst gehostete Adresse weitergeleitet und dort verarbeitet.<br/>Die Datenverarbeitung basiert auf Ihrer Einwilligung (Art. 6 Abs. 1 S. 1 lit. a DSGVO). Sie können Ihre Einwilligung jederzeit durch eine formlose E-Mail-Benachrichtigung widerrufen. Die Rechtmäßigkeit der bis zum Widerruf erfolgten Datenverarbeitung bleibt davon unberührt.",
-      "itemE": "<strong>e) Hinweis zur Datenweitergabe in die USA und andere Drittländer</strong><br/>Wir verwenden Tools von Unternehmen mit Sitz in den USA oder anderen im Hinblick auf den Datenschutz nicht sicheren Drittländern. Diese Tools können Ihre Daten zur Verarbeitung in solche Länder übertragen. Bitte beachten Sie, dass das Datenschutzniveau in diesen Ländern möglicherweise nicht dem EU-Standard entspricht. Beispielsweise können US-Behörden ohne gerichtliche Rechtsbehelfe auf Ihre Daten zugreifen.",
-      "itemF": "<strong>f) SSL- oder TLS-Verschlüsselung</strong><br/>Aus Sicherheitsgründen und zum Schutz der Übertragung vertraulicher Informationen (z. B. Anfragen oder Bestellungen) verwendet diese Website eine SSL- oder TLS-Verschlüsselung. Eine verschlüsselte Verbindung erkennen Sie an der Änderung der Adresszeile Ihres Browsers von \"http://\" zu \"https://\" und am Schloss-Symbol. Verschlüsselte Daten können von Dritten nicht eingesehen werden."
+      "title": "3. Datenerfassung auf unserer Website",
+      "hosting": {
+        "title": "3.1 Hosting",
+        "intro": "Unsere Website wird bei <strong>Hetzner Online GmbH</strong> gehostet.",
+        "provider": "<strong>Dienstanbieter:</strong><br/>Hetzner Online GmbH<br/>Industriestraße 25<br/>91710 Gunzenhausen<br/>Deutschland",
+        "dataProcessed": "<strong>Verarbeitete Daten:</strong><ul><li>IP-Adressen</li><li>Datum und Uhrzeit des Zugriffs</li><li>Browsertyp und -version</li><li>Betriebssystem</li><li>Referrer URL</li><li>Hostname des zugreifenden Rechners</li><li>Anfragedaten (angefragte Seite, Zugriffsstatus/HTTP-Statuscode, übertragene Datenmenge)</li></ul>",
+        "legalBasis": "<strong>Rechtsgrundlage:</strong><br/>Art. 6 Abs. 1 lit. f DSGVO (berechtigte Interessen). Unser berechtigtes Interesse liegt in der Bereitstellung, Sicherheit und Optimierung unserer Website.",
+        "storageDuration": "<strong>Speicherdauer:</strong><br/>Server-Logfiles werden nach 30 Tagen automatisch gelöscht.",
+        "dpa": "<strong>Auftragsverarbeitungsvertrag:</strong><br/>Wir haben mit Hetzner einen Auftragsverarbeitungsvertrag gemäß Art. 28 DSGVO abgeschlossen.",
+        "serverLocation": "<strong>Serverstandort:</strong><br/>Deutschland (EU)",
+        "moreInfo": "<strong>Weitere Informationen:</strong><br/>Datenschutzerklärung von Hetzner: <a href=\"https://www.hetzner.com/de/legal/privacy-policy\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.hetzner.com/de/legal/privacy-policy</a>"
+      },
+      "cdn": {
+        "title": "3.2 Content Delivery Network (CDN)",
+        "intro": "Wir nutzen den CDN-Dienst von <strong>bunny.net</strong>, um Website-Inhalte schneller und sicherer auszuliefern.",
+        "provider": "<strong>Dienstanbieter:</strong><br/>BunnyWay d.o.o.<br/>Cesta komandanta Staneta 4A<br/>1215 Medvode<br/>Slowenien",
+        "dataProcessed": "<strong>Verarbeitete Daten:</strong><ul><li>IP-Adressen</li><li>Datum und Uhrzeit des Zugriffs</li><li>Browsertyp (User Agent)</li><li>Referrer URL</li><li>Angefragte Inhalte/Dateien</li></ul>",
+        "legalBasis": "<strong>Rechtsgrundlage:</strong><br/>Art. 6 Abs. 1 lit. f DSGVO (berechtigte Interessen). Unser berechtigtes Interesse liegt in der schnellen und sicheren Auslieferung unserer Website-Inhalte.",
+        "storageDuration": "<strong>Speicherdauer:</strong><br/>Logs werden nur im Arbeitsspeicher gehalten und nach 20-30 Sekunden automatisch gelöscht.",
+        "dpa": "<strong>Auftragsverarbeitungsvertrag:</strong><br/>Wir haben mit bunny.net einen Auftragsverarbeitungsvertrag gemäß Art. 28 DSGVO abgeschlossen.",
+        "moreInfo": "<strong>Weitere Informationen:</strong><br/>Datenschutzerklärung von bunny.net: <a href=\"https://bunny.net/privacy/\" target=\"_blank\" rel=\"noopener noreferrer\">https://bunny.net/privacy/</a>"
+      }
     },
     "section4": {
-      "title": "4. Cookies",
-      "intro": "Unsere Website verwendet Cookies. Cookies sind kleine Textdateien, die von Ihrem Browser auf Ihrem Gerät gespeichert werden, um unser Angebot benutzerfreundlicher, effektiver und sicherer zu machen.",
-      "necessary": "<strong>a) Notwendige Cookies</strong><br/>Diese Cookies sind für den Betrieb der Website unerlässlich und können in unseren Systemen nicht deaktiviert werden. Diese notwendigen und erforderlichen Cookies werden immer verwendet, um Ihnen diese Website sicher bereitzustellen.",
-      "optional": "<strong>b) Optionale Cookies</strong><br/>Optionale Cookies helfen uns, das Nutzerverhalten zu analysieren, um unser Angebot zu verbessern. Diese Cookies werden nur mit Ihrer ausdrücklichen Einwilligung gesetzt (Art. 6 Abs. 1 S. 1 lit. a DSGVO). Diese Analyse- und Performance-Cookies werden auf dieser Website nur verwendet, wenn Sie unseren Cookie-Banner bestätigen. Diese Website verwendet Analyse- und Performance-Cookies, um Website-Traffic, Aktivität und andere Daten anzuzeigen.",
-      "settings": "<strong>c) Cookie-Einstellungen</strong><br/>Verschiedene Browser bieten unterschiedliche Methoden zur Verwaltung und Löschung von Cookies. Nachfolgend finden Sie Links zu Supportdokumenten für gängige Browser:<br/>• <a href=\"https://support.google.com/accounts/answer/32050\" target=\"_blank\" rel=\"noopener noreferrer\">Chrome</a><br/>• <a href=\"https://support.apple.com/de-de/guide/safari/sfri11471/mac\" target=\"_blank\" rel=\"noopener noreferrer\">Safari</a><br/>• <a href=\"https://support.mozilla.org/de/kb/cookies-und-website-daten-in-firefox-loschen\" target=\"_blank\" rel=\"noopener noreferrer\">Firefox</a><br/>• <a href=\"https://support.microsoft.com/de-de/topic/l%C3%B6schen-und-verwalten-von-cookies-168dab11-0753-043d-7c16-ede5947fc64d\" target=\"_blank\" rel=\"noopener noreferrer\">Internet Explorer</a><br/>Bei anderen Browsern konsultieren Sie bitte die offizielle Supportdokumentation."
+      "title": "4. Ihre Rechte",
+      "intro": "Sie haben bezüglich Ihrer personenbezogenen Daten folgende Rechte:",
+      "rights": "<ul><li><strong>Auskunftsrecht</strong> (Art. 15 DSGVO): Sie haben das Recht, Auskunft darüber zu verlangen, ob und welche personenbezogenen Daten über Sie verarbeitet werden.</li><li><strong>Recht auf Berichtigung</strong> (Art. 16 DSGVO): Sie haben das Recht, die Berichtigung unrichtiger personenbezogener Daten zu verlangen.</li><li><strong>Recht auf Löschung</strong> (Art. 17 DSGVO): Sie haben das Recht, unter bestimmten Umständen die Löschung Ihrer personenbezogenen Daten zu verlangen.</li><li><strong>Recht auf Einschränkung der Verarbeitung</strong> (Art. 18 DSGVO): Sie haben das Recht, unter bestimmten Umständen die Einschränkung der Verarbeitung zu verlangen.</li><li><strong>Recht auf Datenübertragbarkeit</strong> (Art. 20 DSGVO): Sie haben das Recht, Ihre Daten in einem strukturierten, gängigen Format zu erhalten.</li><li><strong>Widerspruchsrecht</strong> (Art. 21 DSGVO): Sie haben das Recht, gegen die Verarbeitung aufgrund berechtigter Interessen Widerspruch einzulegen.</li></ul>",
+      "complaint": "<strong>Beschwerderecht:</strong><br/>Sie haben das Recht, sich bei einer Aufsichtsbehörde zu beschweren, wenn Sie der Ansicht sind, dass die Verarbeitung Ihrer personenbezogenen Daten gegen Datenschutzvorschriften verstößt."
     },
     "section5": {
-      "title": "5. Dienste und Tools von Drittanbietern",
-      "googleFonts": "a) Google Fonts – siehe Abschnitt 3b.",
-      "amazon": "b) Amazon Partnerprogramm – siehe Abschnitt 3c."
+      "title": "5. Kontakt",
+      "paragraph1": "Bei Fragen zum Datenschutz können Sie sich jederzeit an uns wenden:",
+      "email": "<a href=\"mailto:data@dlng.io\">data@dlng.io</a>"
     },
-    "section6": {
-      "title": "6. Ihre Rechte",
-      "intro": "Sie haben das Recht:",
-      "right1": "Auskunft über Ihre Daten zu verlangen (Art. 15 DSGVO)",
-      "right2": "Berichtigung unrichtiger Daten zu verlangen (Art. 16 DSGVO)",
-      "right3": "Löschung Ihrer Daten zu verlangen, außer wenn die Verarbeitung zur Erfüllung gesetzlicher Verpflichtungen erforderlich ist (Art. 17 DSGVO)",
-      "right4": "Einschränkung der Verarbeitung zu verlangen (Art. 18 DSGVO)",
-      "right5": "Ihre Daten in einem strukturierten, gängigen Format zu erhalten oder sie an einen anderen Verantwortlichen zu übermitteln (Art. 20 DSGVO)",
-      "right6": "Ihre Einwilligung jederzeit zu widerrufen (Art. 7 Abs. 3 DSGVO)",
-      "right7": "Beschwerde bei einer Aufsichtsbehörde einzulegen (Art. 77 DSGVO)"
+    "note": "<strong>Hinweis:</strong> Diese Datenschutzerklärung gilt nur für unsere Website. Wenn Sie Links zu anderen Websites folgen, informieren Sie sich bitte dort über den jeweiligen Umgang mit Ihren Daten durch Einsichtnahme in die dortigen Datenschutzerklärungen."
+  },
+  "cookiePolicy": {
+    "eyebrow": "Rechtliches",
+    "title": "Cookie-Richtlinie",
+    "heroImageAlt": "Schneebedeckter alpiner Grat in der goldenen Stunde",
+    "lastUpdated": "Stand: 28. Januar 2026",
+    "section1": {
+      "title": "Was sind Cookies?",
+      "paragraph1": "Cookies sind kleine Textdateien, die auf Ihrem Gerät (Computer, Tablet oder Mobiltelefon) gespeichert werden, wenn Sie eine Website besuchen. Sie werden häufig verwendet, um Websites effizienter zu machen und um Website-Betreibern Informationen bereitzustellen."
     },
-    "section7": {
-      "title": "7. Aktualisierungen und Änderungen dieser Datenschutzerklärung",
-      "paragraph1": "Diese Datenschutzerklärung ist gültig ab dem 18. Dezember 2024. Wir behalten uns das Recht vor, sie zu aktualisieren, um rechtliche Anforderungen oder Änderungen an unseren Diensten widerzuspiegeln."
-    }
+    "section2": {
+      "title": "Unsere Verwendung von Cookies",
+      "paragraph1": "<strong>Wir verwenden auf dieser Website keine Cookies.</strong>",
+      "paragraph2": "Unsere Website funktioniert ohne die Verwendung von Cookies oder ähnlichen Tracking-Technologien. Wir speichern keine Informationen auf Ihrem Gerät und verfolgen Ihr Surfverhalten nicht."
+    },
+    "section3": {
+      "title": "Dienste von Drittanbietern",
+      "intro": "Obwohl wir selbst keine Cookies verwenden, nutzen wir die folgenden Dienste zum Betrieb unserer Website:",
+      "hosting": {
+        "title": "Hosting (Hetzner Online GmbH)",
+        "paragraph1": "Unser Hosting-Anbieter setzt keine Cookies in Ihrem Browser. Technische Daten wie IP-Adressen werden in Server-Logs ausschließlich zu Sicherheits- und technischen Zwecken verarbeitet."
+      },
+      "cdn": {
+        "title": "Content Delivery Network (bunny.net)",
+        "paragraph1": "Unser CDN-Anbieter setzt keine Cookies in Ihrem Browser. Der Dienst verarbeitet technische Daten (IP-Adressen, Anfragedaten) temporär, um Website-Inhalte effizient auszuliefern."
+      },
+      "moreInfo": "Weitere Informationen zur Datenverarbeitung durch diese Dienste finden Sie in unserer <a href=\"/datenschutzerklaerung\">Datenschutzerklärung</a>."
+    },
+    "section4": {
+      "title": "Ihre Rechte",
+      "paragraph1": "Da wir keine Cookies verwenden, müssen Sie auf unserer Website keine Cookie-Einstellungen verwalten. Ihre Browser-Einstellungen bleiben durch den Besuch unserer Website unverändert.",
+      "paragraph2": "Wenn Sie Bedenken bezüglich der Datenverarbeitung im Allgemeinen haben, lesen Sie bitte unsere Datenschutzerklärung oder kontaktieren Sie uns unter:",
+      "contact": "<strong>Kontakt:</strong><br/>Stefan de Lange<br/><a href=\"mailto:data@dlng.io\">data@dlng.io</a>"
+    },
+    "section5": {
+      "title": "Änderungen dieser Cookie-Richtlinie",
+      "paragraph1": "Wir können diese Cookie-Richtlinie von Zeit zu Zeit aktualisieren. Die aktuelle Version ist immer auf dieser Seite verfügbar, und das Datum der letzten Aktualisierung wird oben angezeigt."
+    },
+    "summary": "<strong>Zusammenfassung:</strong> Diese Website verwendet keine Cookies. Es werden keine Daten durch unsere Website auf Ihrem Gerät gespeichert."
   }
 }
