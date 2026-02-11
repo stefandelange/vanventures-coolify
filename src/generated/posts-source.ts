@@ -2079,7 +2079,7 @@ export const postsSource = [
     "relativePath": "van-life/2026-01-18-insulating-water-infrastructure.en.md"
   },
   {
-    "slug": "2026-01-25-2026-01-25-fantastic-beach-views-and-sleepless-nights",
+    "slug": "2026-01-25-fantastic-beach-views-and-sleepless-nights",
     "locale": "de",
     "data": {
       "title": "Fantastische Strände und schlaflose Nächte",
@@ -2100,10 +2100,10 @@ export const postsSource = [
     "collectionSegments": [
       "van-life"
     ],
-    "relativePath": "van-life/2026-01-25-2026-01-25-fantastic-beach-views-and-sleepless-nights.de.md"
+    "relativePath": "van-life/2026-01-25-fantastic-beach-views-and-sleepless-nights.de.md"
   },
   {
-    "slug": "2026-01-25-2026-01-25-fantastic-beach-views-and-sleepless-nights",
+    "slug": "2026-01-25-fantastic-beach-views-and-sleepless-nights",
     "locale": "en",
     "data": {
       "title": "Fantastic beach views and sleepless nights",
@@ -2124,6 +2124,54 @@ export const postsSource = [
     "collectionSegments": [
       "van-life"
     ],
-    "relativePath": "van-life/2026-01-25-2026-01-25-fantastic-beach-views-and-sleepless-nights.en.md"
+    "relativePath": "van-life/2026-01-25-fantastic-beach-views-and-sleepless-nights.en.md"
+  },
+  {
+    "slug": "2026-02-11-northern-lights-vik",
+    "locale": "de",
+    "data": {
+      "title": "Nordlichter am Strand von Vik und Haukland",
+      "slug": "2026-02-11-northern-lights-vik",
+      "date": "2026-02-11",
+      "author": "Stefan",
+      "excerpt": "Einer unserer letzten Stopps auf den Lofoten war Vik und Haukland Beach – zwei Strände direkt nebeneinander. Angeblich unter den schönsten der Lofoten, und sie halten was sie versprechen: weißer Sand in einer Bucht umgeben von Bergen, perfekt gelegen für traumhafte Sonnenuntergänge.",
+      "categories": [
+        "🇳🇴 Norway",
+        "🚐 Van life",
+        "🌅 On the road"
+      ],
+      "heroImage": "/images/van-life/vik/2025-10-01 17.19.58_Vik_4096.jpg",
+      "heroImageAlt": "Image of Vik/Haukland beach in golden sunlight",
+      "status": "published"
+    },
+    "content": "\nEiner unserer letzten Stopps auf den Lofoten war Vik und Haukland Beach – zwei Strände direkt nebeneinander. Angeblich unter den schönsten der Lofoten, und sie halten was sie versprechen: weißer Sand in einer Bucht umgeben von Bergen, perfekt gelegen für traumhafte Sonnenuntergänge.\n\n:::gallery\n/images/van-life/vik/2025-10-01 17.03.33_Vik_4096.jpg\n/images/van-life/vik/2025-10-01 17.22.08_Vik_4096.jpg\n/images/van-life/vik/2025-10-01 17.36.42_Vik_4096.jpg\n/images/van-life/vik/2025-10-01 18.03.52_Vik_4096.jpg\n/images/van-life/vik/2025-10-01 18.11.36_Vik_4096.jpg\n/images/van-life/vik/2025-10-01 18.18.51_Vik_4096.jpg\n:::\n\nDas Wetter hat mitgespielt und wir haben die Sonne bei einem langen Spaziergang an der Küste genossen. Einen Schlafplatz zu finden war gar nicht so einfach – fast alles war schon belegt. Den letzten freien Platz haben wir uns noch geschnappt und den Abend genossen. Nach einer Weile fiel uns auf, dass sich immer mehr Fotografen am Strand aufbauten: ein klares Zeichen, dass etwas passieren würde.\nAlso schnell die Polarlicht-Apps gecheckt – und tatsächlich, die Chancen standen gut.\n\nKurz darauf zeigten sich die ersten grünen Schleier am klaren Nachthimmel und es wurde Zeit, die Kamera zu schnappen und sich zu den anderen am Strand zu gesellen.\n\n:::gallery\n/images/van-life/vik/2025-10-01 21.13.58_Vik_4096.jpg\n/images/van-life/vik/2025-10-01 21.15.54_Vik_4096.jpg\n/images/van-life/vik/2025-10-01 21.45.26_Vik_4096.jpg\n/images/van-life/vik/2025-10-01 22.00.09_Vik_4096.jpg\n/images/van-life/vik/2025-10-01 22.10.21_Vik_4096.jpg\n/images/van-life/vik/2025-10-01 22.18.09_Vik_4096.jpg\n:::\n\nWir hatten auf der Reise schon Nordlichter in vielen Farben gesehen und dachten, wir wüssten was uns erwartet. Falsch gedacht. Was wir in dieser Nacht erlebt haben, lässt sich nur als Lichtexplosion beschreiben. Für etwa 15 Sekunden war der Himmel heller als am Tag, das Grün tanzte wild und rasend schnell über uns hinweg und die \"oooooohhhhh\"s und \"wooooooow\"s am Strand sagten alles: das hier war etwas ganz Besonderes.\nLeider war meine Kamera auf eine viel zu lange Belichtungszeit eingestellt – die meisten Fotos von diesem Moment sind einfach nur weiß. Naja, manche Dinge soll man wohl einfach nur erleben.\n\n:::gallery\ncolumns=2\nratio=1:1\n/images/van-life/vik/2025-10-01 22.18.52_Vik_4096.jpg\n/images/van-life/vik/2025-10-01 22.19.23_Vik_4096.jpg\n/images/van-life/vik/2025-10-01 22.21.48_Vik_4096.jpg\n/images/van-life/vik/2025-10-01 22.27.35_Vik_4096.jpg\n:::\n\n...dieser Abend wird uns noch sehr lange in Erinnerung bleiben.\n",
+    "collectionSegments": [
+      "van-life"
+    ],
+    "relativePath": "van-life/2026-02-11-northern-lights-vik.de.md"
+  },
+  {
+    "slug": "2026-02-11-northern-lights-vik",
+    "locale": "en",
+    "data": {
+      "title": "Northern Lights at Vik beach and Haukland beach",
+      "slug": "2026-02-11-northern-lights-vik",
+      "date": "2026-02-11",
+      "author": "Stefan",
+      "excerpt": "One of our last stops on the Lofoten was Vik beach and Haukland beach (they are right next to each other). Supposed to be one of Lofoten's most beautiful beaches it doesn't disappoint. Beautiful white sand in a bay surrounded by mountains and perfectly oriented to allow for wonderful sunsets.",
+      "categories": [
+        "🇳🇴 Norway",
+        "🚐 Van life",
+        "🌅 On the road"
+      ],
+      "heroImage": "/images/van-life/vik/2025-10-01 17.19.58_Vik_4096.jpg",
+      "heroImageAlt": "Image of Vik/Haukland beach in golden sunlight",
+      "status": "published"
+    },
+    "content": "\nOne of our last stops on the Lofoten was Vik beach and Haukland beach (they are right next to each other). Supposed to be one of Lofoten's most beautiful beaches it doesn't disappoint. Beautiful white sand in a bay surrounded by mountains and perfectly oriented to allow for wonderful sunsets.\n\n:::gallery\n/images/van-life/vik/2025-10-01 17.03.33_Vik_4096.jpg\n/images/van-life/vik/2025-10-01 17.22.08_Vik_4096.jpg\n/images/van-life/vik/2025-10-01 17.36.42_Vik_4096.jpg\n/images/van-life/vik/2025-10-01 18.03.52_Vik_4096.jpg\n/images/van-life/vik/2025-10-01 18.11.36_Vik_4096.jpg\n/images/van-life/vik/2025-10-01 18.18.51_Vik_4096.jpg\n:::\n\nWe were lucky with the weather and bathed the sun in on a long walk along the coastline. Finding a spot to sleep proved a challenge as many spots were already taken. We were able to get the last available spot and proceeded to enjoy the evening. After a while we noticed that groups of photographers started setting up on the beach: a sure sign for something must be about to happen.\nSo, we checked the apps for aurora borealis predictions and saw that there was a decent chance.\n\nNot much later the first rays of green started to appear on the clear night sky and it was time to grab the photography gear and join all the others on the beach.\n\n:::gallery\n/images/van-life/vik/2025-10-01 21.13.58_Vik_4096.jpg\n/images/van-life/vik/2025-10-01 21.15.54_Vik_4096.jpg\n/images/van-life/vik/2025-10-01 21.45.26_Vik_4096.jpg\n/images/van-life/vik/2025-10-01 22.00.09_Vik_4096.jpg\n/images/van-life/vik/2025-10-01 22.10.21_Vik_4096.jpg\n/images/van-life/vik/2025-10-01 22.18.09_Vik_4096.jpg\n:::\n\nHaving seen northern lights already with many colors we figured we knew what we were in for. We could not have been more wrong. This night we experienced what we can only describe as an explosion of light. For about 15 seconds the sky was brighter than daylight, the green danced hectically and very fast and the \"oooooohhhhh\"s and \"wooooooow\"s on the beach underlined: this was special.\nOf course my camera was dialed in for too long an exposure and thus most photos of this moment turned out to be just white. Well, some things are only meant to be remembered.\n\n:::gallery\ncolumns=2\nratio=1:1\n/images/van-life/vik/2025-10-01 22.18.52_Vik_4096.jpg\n/images/van-life/vik/2025-10-01 22.19.23_Vik_4096.jpg\n/images/van-life/vik/2025-10-01 22.21.48_Vik_4096.jpg\n/images/van-life/vik/2025-10-01 22.27.35_Vik_4096.jpg\n:::\n\n...this evening will surely stay in our memories for a very long time.\n",
+    "collectionSegments": [
+      "van-life"
+    ],
+    "relativePath": "van-life/2026-02-11-northern-lights-vik.en.md"
   }
 ] satisfies PostSourceRecord[];
