@@ -39,6 +39,13 @@ Not much later the first rays of green started to appear on the clear night sky 
 :::
 
 Having seen northern lights already with many colors we figured we knew what we were in for. We could not have been more wrong. This night we experienced what we can only describe as an explosion of light. For about 15 seconds the sky was brighter than daylight, the green danced hectically and very fast and the "oooooohhhhh"s and "wooooooow"s on the beach underlined: this was special.
+
+:::video
+src=/videos/vik/vik-aurora.mov
+poster=/images/van-life/vik/2025-10-01 22.45.44_Vik_4096.jpg
+caption=Northern Lights micro-timelapse
+:::
+
 Of course my camera was dialed in for too long an exposure and thus most photos of this moment turned out to be just white. Well, some things are only meant to be remembered.
 
 :::gallery

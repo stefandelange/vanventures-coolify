@@ -39,6 +39,13 @@ Kurz darauf zeigten sich die ersten grünen Schleier am klaren Nachthimmel und e
 :::
 
 Wir hatten auf der Reise schon Nordlichter in vielen Farben gesehen und dachten, wir wüssten was uns erwartet. Falsch gedacht. Was wir in dieser Nacht erlebt haben, lässt sich nur als Lichtexplosion beschreiben. Für etwa 15 Sekunden war der Himmel heller als am Tag, das Grün tanzte wild und rasend schnell über uns hinweg und die "oooooohhhhh"s und "wooooooow"s am Strand sagten alles: das hier war etwas ganz Besonderes.
+
+:::video
+src=/videos/vik/vik-aurora.mov
+poster=/images/van-life/vik/2025-10-01 22.45.44_Vik_4096.jpg
+caption=Northern Lights micro-timelapse
+:::
+
 Leider war meine Kamera auf eine viel zu lange Belichtungszeit eingestellt – die meisten Fotos von diesem Moment sind einfach nur weiß. Naja, manche Dinge soll man wohl einfach nur erleben.
 
 :::gallery
