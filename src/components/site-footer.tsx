@@ -26,7 +26,11 @@ const footerColumns: FooterColumn[] = [
       { labelKey: "belgium", href: "/van-life-countries/belgium", icon: "🇧🇪" },
       { labelKey: "norway", href: "/van-life-countries/norway", icon: "🇳🇴" },
       { labelKey: "poland", href: "/van-life-countries/poland", icon: "🇵🇱" },
-      { labelKey: "slovakia", href: "/van-life-countries/slovakia", icon: "🇸🇰" },
+      {
+        labelKey: "slovakia",
+        href: "/van-life-countries/slovakia",
+        icon: "🇸🇰",
+      },
     ],
   },
   {
@@ -51,6 +55,11 @@ const footerColumns: FooterColumn[] = [
       { labelKey: "sustainability", href: "/sustainability" },
       { labelKey: "friendsAndPartners", href: "/friends-and-partners" },
       { labelKey: "aboutUs", href: "/about-us" },
+      {
+        labelKey: "polarsteps",
+        href: "https://www.polarsteps.com/VanVenturesBlog",
+        icon: "↗",
+      },
     ],
   },
   {
@@ -95,12 +104,8 @@ export function SiteFooter() {
             <h3 className="text-xl font-medium tracking-tight text-[var(--color-charcoal)] sm:text-2xl">
               {tFooter("socialMediaTitle")}
             </h3>
-            <p className="text-sm">
-              {tFooter("socialMediaText")}
-            </p>
-            <p className="text-xl italic">
-              {tFooter("socialMediaQuote")}
-            </p>
+            <p className="text-sm">{tFooter("socialMediaText")}</p>
+            <p className="text-xl italic">{tFooter("socialMediaQuote")}</p>
           </div>
           <NewsletterForm />
         </div>
