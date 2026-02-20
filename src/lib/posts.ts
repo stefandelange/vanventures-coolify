@@ -1,6 +1,7 @@
 import { cache } from "react";
 import { marked } from "marked";
 import { postsSource, type PostSourceRecord } from "@/generated/posts-source";
+import { loadWpPosts } from "./wp-posts";
 
 type GalleryImage = {
   src: string;
@@ -371,8 +372,10 @@ function mapToSummary(record: PostSourceRecord): PostSummary {
   };
 }
 
-const loadAllPostFiles = cache(async () => {
-  const posts = postsSource
+type PostRecord = { summary: PostSummary; content: string; readingMinutes: number };
+
+async function loadAllPostFiles(): Promise<PostRecord[]> {
+  const markdownPosts = postsSource
     .filter((entry) => {
       // Only include posts with status: published
       const frontMatter = entry.data as Record<string, unknown>;
@@ -388,12 +391,19 @@ const loadAllPostFiles = cache(async () => {
       };
     });
 
-  return posts.sort(
+  const rawWpPosts = await loadWpPosts();
+  const wpPosts = rawWpPosts.map(({ summary, rawContent }) => ({
+    summary,
+    content: rawContent,
+    readingMinutes: calculateReadingMinutes(rawContent),
+  }));
+
+  return [...markdownPosts, ...wpPosts].sort(
     (a, b) =>
       new Date(b.summary.date).getTime() -
       new Date(a.summary.date).getTime(),
   );
-});
+}
 
 function matchesCollection(summary: PostSummary, collectionSegments: string[]) {
   if (collectionSegments.length === 0) {
