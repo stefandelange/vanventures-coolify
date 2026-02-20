@@ -13,14 +13,6 @@ export default function bunnyImageLoader({
   width: number;
   quality?: number;
 }) {
-  if (process.env.NODE_ENV === "development") {
-    const searchParams = new URLSearchParams({
-      width: String(width),
-      quality: String(quality ?? 75),
-    });
-    return `${src}?${searchParams.toString()}`;
-  }
-
   // Bunny CDN Optimizer uses query parameters
   const searchParams = new URLSearchParams({
     width: String(width),

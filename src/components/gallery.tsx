@@ -3,6 +3,7 @@
 import { useCallback, useEffect, useRef, useState } from "react";
 import type { CSSProperties } from "react";
 import Image from "next/image";
+import { CDN_URL } from "@/config/cdn";
 
 type GalleryImage = {
   src: string;
@@ -151,7 +152,7 @@ export function Gallery({
       }
 
       const preloadImage = new window.Image();
-      preloadImage.src = image.src;
+      preloadImage.src = image.src.startsWith("/") ? `${CDN_URL}${image.src}` : image.src;
       preloadedImages.current.add(image.src);
     };
 
@@ -198,7 +199,7 @@ export function Gallery({
           <button
             type="button"
             onClick={closeLightbox}
-            className="absolute right-4 top-4 z-[100] flex h-12 w-12 items-center justify-center rounded-full bg-white/15 text-3xl font-semibold text-white shadow-lg backdrop-blur-sm transition hover:bg-white/30 hover:text-white sm:right-6 sm:top-6 sm:h-14 sm:w-14 sm:text-5xl"
+            className="absolute right-4 top-4 z-[100] flex h-12 w-12 cursor-pointer items-center justify-center rounded-full bg-white/15 text-3xl font-semibold text-white shadow-lg backdrop-blur-sm transition hover:bg-white/30 hover:text-white sm:right-6 sm:top-6 sm:h-14 sm:w-14 sm:text-5xl"
             aria-label="Close gallery"
           >
             &times;
