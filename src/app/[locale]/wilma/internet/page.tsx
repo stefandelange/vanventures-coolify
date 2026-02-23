@@ -191,7 +191,7 @@ export default async function InternetPage({ params }: PageProps) {
               alt={t("starlinkStats.powerDrawImageAlt")}
               width={600}
               height={400}
-              className="my-4 rounded-lg"
+              className="my-4 rounded-xl"
             />
           </div>
           <div>

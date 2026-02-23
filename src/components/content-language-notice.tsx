@@ -18,7 +18,7 @@ export function ContentLanguageNotice({
   }
 
   return (
-    <div className="rounded-lg bg-blue-50 border border-blue-200 p-4 text-sm text-blue-900 mb-6">
+    <div className="rounded-xl bg-blue-50 border border-blue-200 p-4 text-sm text-blue-900 mb-6">
       <p>{t('contentAvailableInEnglishOnly')}</p>
     </div>
   );

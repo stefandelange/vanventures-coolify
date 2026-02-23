@@ -92,7 +92,7 @@ export default async function FriendsAndPartnersPage({ params }: PageProps) {
                     href={partner.url}
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="inline-flex items-center gap-2 rounded-lg bg-[var(--color-slate)] px-6 py-3 text-sm font-medium text-white transition hover:bg-[var(--color-charcoal)]"
+                    className="inline-flex items-center gap-2 rounded-xl bg-[var(--color-slate)] px-6 py-3 text-sm font-medium text-white transition hover:bg-[var(--color-charcoal)]"
                   >
                     {t("visitWebsite")}
                     <span aria-hidden="true">&rarr;</span>
@@ -102,7 +102,7 @@ export default async function FriendsAndPartnersPage({ params }: PageProps) {
                 {/* Image - always first on mobile */}
                 <div className="order-1 flex-1 md:order-none">
                   <div
-                    className="overflow-hidden rounded-2xl p-6"
+                    className="overflow-hidden rounded-xl p-6"
                     style={{ backgroundColor: partner.bgColor || "#ffffff" }}
                   >
                     <Image

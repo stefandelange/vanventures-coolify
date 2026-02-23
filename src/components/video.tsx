@@ -13,7 +13,7 @@ export function Video({ src, poster, caption }: VideoProps) {
         controls
         preload="metadata"
         poster={poster ? cdnUrl(poster) : undefined}
-        className="w-full rounded-lg"
+        className="w-full rounded-xl"
       >
         <source src={cdnUrl(src)} type="video/mp4" />
         Your browser does not support the video tag.

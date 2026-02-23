@@ -63,7 +63,7 @@ export function LanguageSwitcher({ variant = 'dark' }: LanguageSwitcherProps) {
       : 'absolute right-0 top-full z-50 mt-2 flex min-w-[13rem] flex-col gap-1 rounded-xl bg-[rgba(43,43,43,0.8)] p-3 text-sm text-white shadow-xl';
 
   const itemBaseClass =
-    'flex items-center gap-2 rounded-lg px-3 py-2 transition cursor-pointer';
+    'flex items-center gap-2 rounded-xl px-3 py-2 transition cursor-pointer';
   const itemClass = (locale: Locale) =>
     variant === 'light'
       ? `${itemBaseClass} hover:bg-slate-100 ${

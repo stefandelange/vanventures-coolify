@@ -3,9 +3,8 @@ import {
   Accordion,
   type AccordionSections,
 } from "@/components/accordion";
-import { formatPostDate, getPostsByCategory } from "@/lib/posts";
-import Image from "next/image";
-import { Link } from "@/i18n/routing";
+import { getPostsByCategory } from "@/lib/posts";
+import { PostCard } from "@/components/post-card";
 import type { Metadata } from "next";
 import { createPageMetadata } from "@/lib/seo";
 import { getTranslations } from "next-intl/server";
@@ -44,6 +43,7 @@ export default async function SlovakiaPage({ params }: PageProps) {
   const { locale } = await params;
   const t = await getTranslations({ locale, namespace: "vanLifeCountries.slovakia" });
   const tCommon = await getTranslations({ locale, namespace: "vanLifeCountries.common" });
+  const tGlobal = await getTranslations({ locale, namespace: "common" });
 
   const countryName = t("name");
   const countryFlag = t("flag");
@@ -128,14 +128,14 @@ export default async function SlovakiaPage({ params }: PageProps) {
               {tCommon("sections.ourRoute")}
             </h2>
             <div className="grid gap-8 lg:grid-cols-[minmax(0,2fr)_minmax(0,1fr)]">
-              <div className="overflow-hidden rounded-3xl">
+              <div className="overflow-hidden rounded-xl">
                 <iframe
                   src="https://share.trackiwi.com/gQ5U4A22nnZ"
                   width="100%"
                   height="500"
                 ></iframe>
               </div>
-              <div className="space-y-4 rounded-3xl bg-white p-6 text-slate-800 shadow-xl lg:p-8">
+              <div className="space-y-4 rounded-xl bg-white p-6 text-slate-800 shadow-xl lg:p-8">
                 <h3 className="text-xl font-semibold">{tCommon("sections.tripStats")}</h3>
                 <ul className="space-y-3 text-base leading-relaxed">
                   {routeMetadata.map((label) => (
@@ -156,42 +156,12 @@ export default async function SlovakiaPage({ params }: PageProps) {
           </h2>
           <div className="grid gap-6">
             {posts.map((post) => (
-              <Link key={post.slug} href={post.path}>
-                <article className="flex flex-col overflow-hidden rounded-3xl border border-slate-200 bg-white shadow-sm transition hover:-translate-y-1 hover:shadow-lg">
-                  <div className="relative h-[50vh] w-full">
-                    <Image
-                      src={post.heroImage}
-                      alt={post.heroImageAlt}
-                      fill
-                      className="object-cover"
-                      sizes="(max-width: 768px) 100vw, 1024px"
-                    />
-                  </div>
-                  <div className="flex flex-1 flex-col gap-4 p-6">
-                    <div className="flex flex-wrap gap-2 text-[0.7rem] font-semibold uppercase tracking-[0.3em] text-[var(--color-charcoal)]">
-                      {post.categories.map((category) => (
-                        <span
-                          key={`${post.slug}-${category}`}
-                          className="rounded-full bg-[var(--color-charcoal)] px-3 py-1 text-white"
-                        >
-                          {category}
-                        </span>
-                      ))}
-                    </div>
-                    <span className="text-xl font-semibold text-slate-900 transition hover:text-[var(--color-clay)]">
-                      {post.title}
-                    </span>
-                    <p className="text-sm leading-relaxed text-slate-600">
-                      {post.excerpt}
-                    </p>
-                    <div className="mt-auto flex items-center gap-3 text-xs uppercase tracking-[0.2em] text-slate-500">
-                      <span>{formatPostDate(post.date, locale)}</span>
-                      <span aria-hidden>•</span>
-                      <span>{post.author}</span>
-                    </div>
-                  </div>
-                </article>
-              </Link>
+              <PostCard
+                key={post.slug}
+                post={post}
+                locale={locale}
+                readMoreLabel={tGlobal("readMore")}
+              />
             ))}
           </div>
         </div>
@@ -203,7 +173,7 @@ export default async function SlovakiaPage({ params }: PageProps) {
               {tCommon("sections.whatYouNeedToKnow", { country: countryName })}
             </h2>
           </div>
-          <div className="bg-white p-8 rounded-3xl">
+          <div className="bg-white p-8 rounded-xl">
             <Accordion sections={countryGuideSections} />
           </div>
         </div>

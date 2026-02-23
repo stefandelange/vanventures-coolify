@@ -68,7 +68,7 @@ export function NewsletterForm() {
   );
 
   return (
-    <div className="w-full rounded-2xl bg-white/60 p-6 backdrop-blur sm:p-8">
+    <div className="w-full rounded-xl bg-white/60 p-6 backdrop-blur sm:p-8">
       <div className="mb-6 space-y-3">
         <h3 className="text-xl font-medium tracking-tight text-[var(--color-charcoal)] sm:text-2xl">
           {t("title")}

@@ -70,7 +70,7 @@ export default async function AboutUsPage({ params }: PageProps) {
               {t("intro.paragraph2")}
             </p>
           </div>
-          <div className="relative aspect-[4/5] overflow-hidden rounded-2xl shadow-lg">
+          <div className="relative aspect-[4/5] overflow-hidden rounded-xl shadow-lg">
             <Image
               src="/images/general/Kathrin-Stefan-Jasper.jpeg"
               alt={t("heroImageAlt")}
@@ -85,10 +85,10 @@ export default async function AboutUsPage({ params }: PageProps) {
           {travellers.map((traveller) => (
             <div
               key={traveller.key}
-              className="space-y-3 rounded-3xl bg-[var(--color-slate)] p-8"
+              className="space-y-3 rounded-xl bg-[var(--color-slate)] p-8"
             >
               <h2 className="text-xl font-semibold">{t(`${traveller.key}.title`)}</h2>
-              <div className="relative aspect-[4/5] overflow-hidden rounded-2xl shadow-lg">
+              <div className="relative aspect-[4/5] overflow-hidden rounded-xl shadow-lg">
                 <Image
                   src={traveller.imageSrc}
                   alt={t(`${traveller.key}.imageAlt`)}

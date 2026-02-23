@@ -1,7 +1,6 @@
-import Image from "next/image";
-import { Link } from "@/i18n/routing";
 import type { Metadata } from "next";
-import { formatPostDate, getPostsByCollection } from "@/lib/posts";
+import { getPostsByCollection } from "@/lib/posts";
+import { PostCard } from "@/components/post-card";
 import { PageHero } from "@/components/page-hero";
 import { createPageMetadata } from "@/lib/seo";
 import { Paragraph, Title } from "@/components/typography";
@@ -42,6 +41,7 @@ const ROUTE_IMAGE_SRC = "/images/road-trips/canada-2023/Full-Route.png";
 export default async function RoadTripCanadaIndexPage({ params }: PageProps) {
   const { locale } = await params;
   const t = await getTranslations({ locale, namespace: "canadaRoadTrip2023" });
+  const tCommon = await getTranslations({ locale, namespace: "common" });
 
   const posts = await getPostsByCollection(
     locale,
@@ -123,42 +123,12 @@ export default async function RoadTripCanadaIndexPage({ params }: PageProps) {
           </h2>
           <div className="grid gap-6 sm:grid-cols-2">
             {posts.map((post) => (
-              <Link key={post.slug} href={post.path}>
-                <article className="flex flex-col overflow-hidden rounded-3xl border border-slate-200 bg-white shadow-sm transition hover:-translate-y-1 hover:shadow-lg">
-                  <div className="relative h-56 w-full">
-                    <Image
-                      src={post.heroImage}
-                      alt={post.heroImageAlt}
-                      fill
-                      className="object-cover"
-                      sizes="(max-width: 768px) 100vw, 400px"
-                    />
-                  </div>
-                  <div className="flex flex-1 flex-col gap-4 p-6">
-                    <div className="flex flex-wrap gap-2 text-[0.7rem] font-semibold uppercase tracking-[0.3em] text-[var(--color-charcoal)]">
-                      {post.categories.map((category) => (
-                        <span
-                          key={`${post.slug}-${category}`}
-                          className="rounded-full bg-[var(--color-charcoal)] px-3 py-1 text-white"
-                        >
-                          {category}
-                        </span>
-                      ))}
-                    </div>
-                    <span className="text-xl font-semibold text-slate-900 transition hover:text-[var(--color-clay)]">
-                      {post.title}
-                    </span>
-                    <p className="text-sm leading-relaxed text-slate-600">
-                      {post.excerpt}
-                    </p>
-                    <div className="mt-auto flex items-center gap-3 text-xs uppercase tracking-[0.2em] text-slate-500">
-                      <span>{formatPostDate(post.date, locale)}</span>
-                      <span aria-hidden>•</span>
-                      <span>{post.author}</span>
-                    </div>
-                  </div>
-                </article>
-              </Link>
+              <PostCard
+                key={post.slug}
+                post={post}
+                locale={locale}
+                readMoreLabel={tCommon("readMore")}
+              />
             ))}
           </div>
           {posts.length === 0 && (

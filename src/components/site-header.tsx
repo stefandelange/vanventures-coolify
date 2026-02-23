@@ -348,7 +348,7 @@ export function SiteHeader() {
                           key={child.href}
                           href={child.href}
                           className={classNames(
-                            "flex items-center gap-2 rounded-lg px-3 py-2 transition hover:bg-white/10",
+                            "flex items-center gap-2 rounded-xl px-3 py-2 transition hover:bg-white/10",
                             isActive(child.href) &&
                               "bg-white/10 text-[var(--color-mist)]"
                           )}
@@ -434,7 +434,7 @@ export function SiteHeader() {
                               key={child.href}
                               href={child.href}
                               className={classNames(
-                                "flex items-center gap-2 rounded-lg px-3 py-2 transition hover:bg-slate-100",
+                                "flex items-center gap-2 rounded-xl px-3 py-2 transition hover:bg-slate-100",
                                 isActive(child.href) &&
                                   "bg-slate-100 text-[var(--color-charcoal)]"
                               )}

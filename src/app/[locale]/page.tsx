@@ -1,6 +1,8 @@
 import Image from "next/image";
 import { Link } from "@/i18n/routing";
-import { formatPostDate, getPostsByCollection } from "@/lib/posts";
+import { getPostsByCollection } from "@/lib/posts";
+import { PostCardFeatured } from "@/components/post-card-featured";
+import { PostCard } from "@/components/post-card";
 import type { Metadata } from "next";
 import { createPageMetadata } from "@/lib/seo";
 import { getTranslations } from "next-intl/server";
@@ -121,56 +123,27 @@ export default async function Home({ params }: PageProps) {
               {t("vanLifeBlog.browseAll")} →
             </Link>
           </div>
-          {posts ? (
-            posts.map((post) => (
-              <div
-                key={post.slug}
-                className="mt-10 grid gap-10 lg:grid-cols-[1.15fr,0.85fr]"
-              >
-                <Link href={post.path}>
-                  <article className="overflow-hidden rounded-3xl border border-[var(--color-mist)]/40 bg-[var(--color-mist)]/15 shadow-sm">
-                    <div className="relative h-72 w-full sm:h-80">
-                      <Image
-                        src={post.heroImage}
-                        alt={post.heroImageAlt}
-                        fill
-                        className="object-cover"
-                        sizes="(max-width: 768px) 100vw, 560px"
-                        priority
-                      />
-                    </div>
-                    <div className="flex flex-col gap-4 p-6 text-[var(--color-charcoal)] sm:p-8">
-                      <div className="flex flex-wrap gap-2 text-xs font-semibold uppercase tracking-[0.3em] text-[var(--color-slate)]/70">
-                        {post.categories.map((category) => (
-                          <span
-                            key={`${post.slug}-${category}`}
-                            className="rounded-full bg-[var(--color-charcoal)] px-3 py-1 text-white"
-                          >
-                            {category}
-                          </span>
-                        ))}
-                      </div>
-                      <span className="text-3xl font-medium leading-snug tracking-tight transition hover:text-[var(--color-clay)] sm:text-[2.15rem]">
-                        {post.title}
-                      </span>
-                      <p className="text-base leading-relaxed text-[var(--color-slate)]">
-                        {post.excerpt}
-                      </p>
-                      <div className="mt-2 flex flex-wrap items-center gap-3 text-xs uppercase tracking-[0.2em] text-[var(--color-slate)]/80">
-                        <span>{formatPostDate(post.date, locale)}</span>
-                        <span aria-hidden>•</span>
-                        <span>{post.author}</span>
-                      </div>
-                      <div className="pt-2">
-                        <span className="inline-flex items-center gap-2 rounded-full bg-[var(--color-charcoal)] px-5 py-3 text-sm font-medium text-white transition hover:bg-black">
-                          {tCommon("readMore")} <span aria-hidden>→</span>
-                        </span>
-                      </div>
-                    </div>
-                  </article>
-                </Link>
-              </div>
-            ))
+          {posts && posts.length > 0 ? (
+            <div className="mt-10">
+              <PostCardFeatured
+                post={posts[0]}
+                locale={locale}
+                readMoreLabel={tCommon("readMore")}
+                priority
+              />
+              {posts.length > 1 && (
+                <div className="mt-8 grid gap-6 sm:grid-cols-2">
+                  {posts.slice(1).map((post) => (
+                    <PostCard
+                      key={post.slug}
+                      post={post}
+                      locale={locale}
+                      readMoreLabel={tCommon("readMore")}
+                    />
+                  ))}
+                </div>
+              )}
+            </div>
           ) : (
             <p className="mt-10 text-sm text-[var(--color-slate)]">
               {t("vanLifeBlog.noPosts")}
@@ -211,7 +184,7 @@ export default async function Home({ params }: PageProps) {
             {roadTripBlogs.map((trip) => (
               <article
                 key={trip.href}
-                className="relative overflow-hidden rounded-3xl border border-white/10 bg-white/5 shadow-lg"
+                className="relative overflow-hidden rounded-xl border border-white/10 bg-white/5 shadow-lg"
               >
                 <div className="absolute inset-0">
                   <Image

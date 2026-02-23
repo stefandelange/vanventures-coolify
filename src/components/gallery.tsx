@@ -176,7 +176,7 @@ export function Gallery({
             key={`${image.src}-${index}`}
             type="button"
             onClick={() => handleActivateImage(index)}
-            className="group relative block cursor-pointer overflow-hidden rounded-2xl border border-slate-200 bg-slate-100"
+            className="group relative block cursor-pointer overflow-hidden rounded-xl border border-slate-200 bg-slate-100"
           >
             <div
               className={`relative w-full${aspectRatioStyle ? "" : ` ${defaultHeightClass}`}`}

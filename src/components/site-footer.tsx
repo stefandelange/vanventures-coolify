@@ -100,7 +100,7 @@ export function SiteFooter() {
           </p>
         </div>
         <div className="grid gap-8 lg:grid-cols-2 lg:gap-12">
-          <div className="w-full rounded-2xl bg-white/60 p-6 backdrop-blur sm:p-8 text-[var(--color-charcoal)] space-y-3">
+          <div className="w-full rounded-xl bg-white/60 p-6 backdrop-blur sm:p-8 text-[var(--color-charcoal)] space-y-3">
             <h3 className="text-xl font-medium tracking-tight text-[var(--color-charcoal)] sm:text-2xl">
               {tFooter("socialMediaTitle")}
             </h3>

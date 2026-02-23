@@ -62,7 +62,7 @@ export default async function ImprintPage({ params }: PageProps) {
         title={t("title")}
       />
       <section className="mx-auto max-w-5xl px-6 py-16 sm:px-8 sm:py-20">
-        <div className="space-y-12 rounded-3xl border border-[var(--color-mist)]/60 bg-white/90 p-6 shadow-sm sm:p-10">
+        <div className="space-y-12 rounded-xl border border-[var(--color-mist)]/60 bg-white/90 p-6 shadow-sm sm:p-10">
           <div className="space-y-6">
             <Title as="h2" className="text-2xl">
               {t("responsibilityTitle")}
