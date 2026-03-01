@@ -30,16 +30,19 @@ export default async function WorldTravelMapPage({ params }: PageProps) {
   ];
 
   return (
-    <main className="bg-[var(--color-charcoal)] text-white">
-      <div className="space-y-6 px-6 pb-8 pt-36 sm:px-12 sm:pt-44 lg:px-20">
-        <h1 className="mx-auto max-w-5xl text-3xl font-medium tracking-tight sm:text-4xl">
+    <main>
+      <div className="bg-[var(--color-charcoal)] pt-36 sm:pt-44" />
+      <section className="bg-white px-6 py-8 sm:px-12 lg:px-20">
+        <h1 className="mx-auto max-w-5xl text-3xl font-medium tracking-tight text-[var(--color-charcoal)] sm:text-4xl">
           {t("title")}
         </h1>
-        <WorldTravelMapClient
-          legendTitle={t("legend")}
-          legendItems={legendItems}
-        />
-      </div>
+        <div className="mt-6">
+          <WorldTravelMapClient
+            legendTitle={t("legend")}
+            legendItems={legendItems}
+          />
+        </div>
+      </section>
     </main>
   );
 }
