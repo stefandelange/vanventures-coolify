@@ -32,7 +32,7 @@ export function WorldTravelMapClient({ legendTitle, legendItems }: Props) {
       className={
         fullscreen
           ? "fixed inset-0 z-50 bg-slate-100"
-          : "relative z-0 h-[85vh] w-full overflow-hidden rounded-xl"
+          : "relative z-0 h-[80vh] w-full overflow-hidden rounded-xl"
       }
     >
       <WorldTravelMap />

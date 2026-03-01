@@ -1,7 +1,7 @@
 "use client";
 
 import { useCallback, useEffect, useMemo, useState } from "react";
-import { MapContainer, TileLayer, GeoJSON, Marker } from "react-leaflet";
+import { MapContainer, TileLayer, GeoJSON, Marker, Pane } from "react-leaflet";
 import L, { type PathOptions } from "leaflet";
 import type { Feature, FeatureCollection } from "geojson";
 import {
@@ -59,6 +59,8 @@ export default function WorldTravelMap() {
     for (const feat of features) {
       const props = feat.properties as Record<string, unknown>;
       const iso = getIsoCode(props);
+      // USA, Canada and France have dedicated layers with their own markers
+      if (iso === "USA" || iso === "CAN" || iso === "FRA") continue;
       const visitor = countryVisits[iso];
       if (visitor && props.LABEL_X != null && props.LABEL_Y != null) {
         markers.push({
@@ -163,21 +165,24 @@ export default function WorldTravelMap() {
           return { fillColor: fill, fillOpacity, color: border, weight: 1.5 };
         }}
       />
-      {[
-        ...countryMarkers,
-        ...stateMarkers,
-        ...provinceMarkers,
-        {
-          position: [46.2, 2.2] as [number, number],
-          visitor: countryVisits["FRA"],
-        },
-      ].map(({ position, visitor }, i) => (
-        <Marker
-          key={`${visitor}-${i}`}
-          position={position}
-          icon={createProfileIcon(visitor)}
-        />
-      ))}
+      <Pane name="profile-markers" style={{ zIndex: 700 }}>
+        {[
+          ...countryMarkers,
+          ...stateMarkers,
+          ...provinceMarkers,
+          {
+            position: [46.2, 2.2] as [number, number],
+            visitor: countryVisits["FRA"],
+          },
+        ].map(({ position, visitor }, i) => (
+          <Marker
+            key={`${visitor}-${i}`}
+            position={position}
+            icon={createProfileIcon(visitor)}
+            pane="profile-markers"
+          />
+        ))}
+      </Pane>
     </MapContainer>
   );
 }
