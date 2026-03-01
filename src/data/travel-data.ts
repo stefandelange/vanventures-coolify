@@ -46,7 +46,6 @@ export const countryVisits: Record<string, Visitor> = {
 
   // Kathrin only
   GRC: "kathrin", // Greece
-  FRA: "kathrin", // France
   CZE: "kathrin", // Czech Republic
   LUX: "kathrin", // Luxembourg
 
@@ -73,6 +72,7 @@ export const countryVisits: Record<string, Visitor> = {
   GBR: "both", // United Kingdom — covers England, Wales, Scotland
   VGB: "both", // British Virgin Islands — Tortola
   TUR: "both", // Turkey
+  FRA: "both", // France
 };
 
 /**
@@ -82,8 +82,6 @@ export const stateVisits: Record<string, Visitor> = {
   // Stefan only
   Ohio: "stefan",
   Oregon: "stefan",
-  Illinois: "stefan", // Chicago
-  Washington: "stefan", // Seattle
 
   // Kathrin & Stefan
   "New York": "both",
