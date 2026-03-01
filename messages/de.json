@@ -25,7 +25,13 @@
     "friendsAndPartners": "Freunde & Partner",
     "openNavigation": "Navigation öffnen",
     "closeNavigation": "Navigation schließen",
-    "polarsteps": "Polarsteps"
+    "polarsteps": "Polarsteps",
+    "scratchMap": "Rubbelkarte",
+    "kathrinAndStefan": "Kathrin & Stefan"
+  },
+  "scratchMapPage": {
+    "title": "Unsere Rubbelkarte",
+    "legend": "Legende"
   },
   "footer": {
     "tagline": "Wo das Abenteuer beginnt.",

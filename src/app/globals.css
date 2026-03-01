@@ -1,4 +1,10 @@
 @import "tailwindcss";
+@import "leaflet/dist/leaflet.css";
+
+/* Ensure profile picture markers always render above country fills */
+.leaflet-marker-pane {
+  z-index: 650 !important;
+}
 
 :root {
   --page-background: #ffffff;
