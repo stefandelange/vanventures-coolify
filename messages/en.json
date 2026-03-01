@@ -25,7 +25,13 @@
     "friendsAndPartners": "Friends & Partners",
     "openNavigation": "Open navigation",
     "closeNavigation": "Close navigation",
-    "polarsteps": "Polarsteps"
+    "polarsteps": "Polarsteps",
+    "scratchMap": "Scratch Map",
+    "kathrinAndStefan": "Kathrin & Stefan"
+  },
+  "scratchMapPage": {
+    "title": "Our Scratch Map",
+    "legend": "Legend"
   },
   "footer": {
     "tagline": "Where the adventure starts.",

@@ -54,7 +54,8 @@ const footerColumns: FooterColumn[] = [
       { labelKey: "equipmentList", href: "/wilma/equipment-list" },
       { labelKey: "sustainability", href: "/sustainability" },
       { labelKey: "friendsAndPartners", href: "/friends-and-partners" },
-      { labelKey: "aboutUs", href: "/about-us" },
+      { labelKey: "kathrinAndStefan", href: "/about-us" },
+      { labelKey: "scratchMap", href: "/world-travel-map" },
       {
         labelKey: "polarsteps",
         href: "https://www.polarsteps.com/VanVenturesBlog",
