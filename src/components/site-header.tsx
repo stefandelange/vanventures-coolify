@@ -82,7 +82,7 @@ const navigation: NavigationItem[] = [
     labelKey: "aboutUs",
     children: [
       { id: "kathrin-stefan", labelKey: "kathrinAndStefan", href: "/about-us", icon: "👥" },
-      { id: "world-travel-map", labelKey: "scratchMap", href: "/world-travel-map", icon: "🗺️" },
+      { id: "world-travel-map", labelKey: "scratchMap", href: "/scratch-map", icon: "🗺️" },
     ],
   },
   {
