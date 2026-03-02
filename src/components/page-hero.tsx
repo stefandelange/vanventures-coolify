@@ -1,5 +1,6 @@
 import Image from "next/image";
 import type { ReactNode } from "react";
+import { getBlurDataURL } from "@/lib/get-blur-data-url";
 
 type PageHeroProps = {
   imageSrc: string;
@@ -13,7 +14,7 @@ type PageHeroProps = {
 
 const DEFAULT_HEIGHT = "min-h-[26rem] sm:min-h-[32rem] lg:min-h-[36rem]";
 
-export function PageHero({
+export async function PageHero({
   imageSrc,
   imageAlt,
   eyebrow,
@@ -23,6 +24,7 @@ export function PageHero({
   className = "object-cover"
 }: PageHeroProps) {
   const formattedSrc = encodeURI(imageSrc);
+  const blurDataURL = await getBlurDataURL(imageSrc);
 
   return (
     <section
@@ -42,6 +44,8 @@ export function PageHero({
           className={className}
           sizes="100vw"
           priority
+          placeholder="blur"
+          blurDataURL={blurDataURL}
         />
         <div className="absolute inset-0 bg-black/15" />
       </div>

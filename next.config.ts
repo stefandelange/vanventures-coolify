@@ -8,8 +8,6 @@ const nextConfig: NextConfig = {
   images: {
     loader: "custom",
     loaderFile: "./src/lib/bunny-image-loader.ts",
-    formats: ["image/avif", "image/webp"],
-    minimumCacheTTL: 31536000, // 1 year - images are immutable
   },
 };
 

@@ -4,6 +4,7 @@ import { Link } from "@/i18n/routing";
 import { notFound } from "next/navigation";
 import { Gallery } from "@/components/gallery";
 import { Video } from "@/components/video";
+import { getBlurDataURL } from "@/lib/get-blur-data-url";
 import {
   formatPostDate,
   getPostsByCollection,
@@ -110,6 +111,8 @@ export default async function PostPage({ params }: PostPageProps) {
     return notFound();
   }
 
+  const heroBlurDataURL = await getBlurDataURL(post.heroImage);
+
   const t = await getTranslations({ locale, namespace: "common" });
 
   const allPosts = await getPostsByCollection(locale, "van-life");
@@ -134,6 +137,8 @@ export default async function PostPage({ params }: PostPageProps) {
               priority
               className="object-cover"
               sizes="100vw"
+              placeholder="blur"
+              blurDataURL={heroBlurDataURL}
             />
             <div className="absolute inset-0 bg-black/10" />
           </div>

@@ -6,6 +6,7 @@ import { PostCard } from "@/components/post-card";
 import type { Metadata } from "next";
 import { createPageMetadata } from "@/lib/seo";
 import { getTranslations } from "next-intl/server";
+import { getBlurDataURL } from "@/lib/get-blur-data-url";
 
 type PageProps = {
   params: Promise<{ locale: string }>;
@@ -51,6 +52,7 @@ const roadTripBlogs = [
 
 export default async function Home({ params }: PageProps) {
   const { locale } = await params;
+  const heroBlurDataURL = await getBlurDataURL(HOME_HERO_IMAGE_SRC);
   const allPosts = await getPostsByCollection(locale, "van-life");
   const posts = allPosts.slice(0, 3);
   const t = await getTranslations({ locale, namespace: "home" });
@@ -67,6 +69,8 @@ export default async function Home({ params }: PageProps) {
           priority
           className="object-cover"
           sizes="100vw"
+          placeholder="blur"
+          blurDataURL={heroBlurDataURL}
         />
         <div className="absolute inset-0 bg-black/10" />
         <div className="relative mx-auto flex w-full max-w-5xl flex-col gap-6 px-6 pb-28 pt-40 sm:px-8 lg:pt-48">

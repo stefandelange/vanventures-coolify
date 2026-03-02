@@ -3,7 +3,8 @@
 import { useCallback, useEffect, useRef, useState } from "react";
 import type { CSSProperties } from "react";
 import Image from "next/image";
-import { CDN_URL } from "@/config/cdn";
+import bunnyImageLoader from "@/lib/bunny-image-loader";
+import { STATIC_BLUR_PLACEHOLDER } from "@/lib/get-blur-data-url";
 
 type GalleryImage = {
   src: string;
@@ -152,7 +153,7 @@ export function Gallery({
       }
 
       const preloadImage = new window.Image();
-      preloadImage.src = image.src.startsWith("/") ? `${CDN_URL}${image.src}` : image.src;
+      preloadImage.src = bunnyImageLoader({ src: image.src, width: 1920, quality: 85 });
       preloadedImages.current.add(image.src);
     };
 
@@ -188,6 +189,8 @@ export function Gallery({
                 fill
                 className="object-cover transition duration-300 group-hover:scale-105"
                 sizes={`(max-width: 640px) 100vw, ${desktopSize}`}
+                placeholder="blur"
+                blurDataURL={STATIC_BLUR_PLACEHOLDER}
               />
             </div>
           </button>
