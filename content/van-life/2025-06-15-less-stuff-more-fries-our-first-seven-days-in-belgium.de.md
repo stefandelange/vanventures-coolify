@@ -8,7 +8,7 @@ categories:
   - 🇧🇪 Belgien
   - 🚐 Van life
   - 🌅 On the road
-heroImage: "/images/van-life/brugge/2025-06-13 13.17.20_Brugge_4096.jpg"
+heroImage: "/images/van-life/brugge/2025-06-13 13.17.20_Brugge_2048.jpg"
 heroImageAlt: "Blick auf ein Flussufer in Brügge"
 status: published
 ---
@@ -36,17 +36,17 @@ Natürlich haben wir auch Pommes gegessen. Wie hätten wir widerstehen können? 
 Später zogen wir an einen neuen Ort am Flussufer in Waasmunster, wo wir hausgemachten, gesunden Brokkoli-Feta-Auflauf genossen und uns nett mit einem älteren Mann unterhielten, der mit dem Fahrrad vorbeikam. Belgien, du Charmeur!
 
 :::gallery
-/images/van-life/antwerp/2025-06-08 13.41.41_Antwerp_4096.jpg
-/images/van-life/antwerp/2025-06-07 14.57.16_Antwerp_4096.jpg
-/images/van-life/antwerp/2025-06-07 14.43.01_Antwerp_4096.jpg
-/images/van-life/antwerp/2025-06-08 13.50.06_Antwerp_4096.jpg
-/images/van-life/antwerp/2025-06-07 16.16.26_Antwerp_4096.jpg
-/images/van-life/antwerp/2025-06-08 13.45.38_Antwerp_4096.jpg
-/images/van-life/antwerp/2025-06-08 13.46.08_Antwerp_4096.jpg
-/images/van-life/antwerp/2025-06-08 13.46.44_Antwerp_4096.jpg
-/images/van-life/antwerp/2025-06-07 16.06.41_Antwerp_4096.jpg
-/images/van-life/antwerp/2025-06-07 16.17.19_Antwerp_4096.jpg
-/images/van-life/antwerp/2025-06-07 16.32.41_Antwerp_4096.jpg
+/images/van-life/antwerp/2025-06-08 13.41.41_Antwerp_2048.jpg
+/images/van-life/antwerp/2025-06-07 14.57.16_Antwerp_2048.jpg
+/images/van-life/antwerp/2025-06-07 14.43.01_Antwerp_2048.jpg
+/images/van-life/antwerp/2025-06-08 13.50.06_Antwerp_2048.jpg
+/images/van-life/antwerp/2025-06-07 16.16.26_Antwerp_2048.jpg
+/images/van-life/antwerp/2025-06-08 13.45.38_Antwerp_2048.jpg
+/images/van-life/antwerp/2025-06-08 13.46.08_Antwerp_2048.jpg
+/images/van-life/antwerp/2025-06-08 13.46.44_Antwerp_2048.jpg
+/images/van-life/antwerp/2025-06-07 16.06.41_Antwerp_2048.jpg
+/images/van-life/antwerp/2025-06-07 16.17.19_Antwerp_2048.jpg
+/images/van-life/antwerp/2025-06-07 16.32.41_Antwerp_2048.jpg
 :::
 
 ## Tag 3 & 4: Unsere Nachbarn … Pferde
@@ -60,11 +60,11 @@ Authentisches Van Life? 100 %.
 Als zusätzlicher Bonus waren die Menschen, die wir hier mitten im Nirgendwo trafen, wirklich freundlich und hilfsbereit, von den Landbesitzern bis hin zu zufälligen Passanten, die uns mit einem fröhlichen „Goeiemiddag!” begrüßten.
 
 :::gallery
-/images/van-life/waasmunster/2025-06-08 18.21.22_Waasmunster_4096.jpg
-/images/van-life/waasmunster/2025-06-08 19.28.17_Waasmunster_4096.jpg
-/images/van-life/waasmunster/2025-06-08 19.22.10_Waasmunster_4096.jpg
-/images/van-life/waasmunster/2025-06-08 19.57.22_Waasmunster_4096.jpg
-/images/van-life/waasmunster/2025-06-08 19.45.22_Waasmunster_4096.jpg
+/images/van-life/waasmunster/2025-06-08 18.21.22_Waasmunster_2048.jpg
+/images/van-life/waasmunster/2025-06-08 19.28.17_Waasmunster_2048.jpg
+/images/van-life/waasmunster/2025-06-08 19.22.10_Waasmunster_2048.jpg
+/images/van-life/waasmunster/2025-06-08 19.57.22_Waasmunster_2048.jpg
+/images/van-life/waasmunster/2025-06-08 19.45.22_Waasmunster_2048.jpg
 /images/van-life/waasmunster/Horse+spot.jpeg
 :::
 
@@ -77,12 +77,12 @@ Dann passierte das Unglück. Einer von Stefans Turnschuhen – den wir an meinen
 Wir wollten schon eine Polizeimeldung 🚓 beim Meer machen, aber zum Glück tauchte er nur ein paar Schritte entfernt im Sand wieder auf. Krise abgewendet.
 
 :::gallery
-/images/van-life/oostende/2025-06-14 14.09.58_Oostende_4096.jpg
-/images/van-life/oostende/2025-06-11 17.51.26_Oostende_4096.jpg
-/images/van-life/oostende/2025-06-11 17.50.58_Oostende_4096.jpg
-/images/van-life/oostende/2025-06-11 18.30.36_Oostende_4096.jpg
-/images/van-life/oostende/2025-06-13 19.33.41_Oostende_4096.jpg
-/images/van-life/oostende/2025-06-12 19.12.36_Oostende_4096.jpg
+/images/van-life/oostende/2025-06-14 14.09.58_Oostende_2048.jpg
+/images/van-life/oostende/2025-06-11 17.51.26_Oostende_2048.jpg
+/images/van-life/oostende/2025-06-11 17.50.58_Oostende_2048.jpg
+/images/van-life/oostende/2025-06-11 18.30.36_Oostende_2048.jpg
+/images/van-life/oostende/2025-06-13 19.33.41_Oostende_2048.jpg
+/images/van-life/oostende/2025-06-12 19.12.36_Oostende_2048.jpg
 :::
 
 ## Tag 6: (Absichtlich) in Brügge verloren gehen
@@ -93,50 +93,50 @@ Wir schlenderten durch die Altstadt, aßen noch mehr Pommes (weil, na ja ... Bel
 :::gallery
 columns=4
 ratio=1:1
-/images/van-life/brugge/2025-06-13 14.15.11_Brugge_4096.jpg
-/images/van-life/brugge/2025-06-13 15.20.07_Brugge_4096.jpg
-/images/van-life/brugge/2025-06-13 15.02.20_Brugge_4096.jpg
-/images/van-life/brugge/2025-06-13 16.40.14_Brugge_4096.jpg
+/images/van-life/brugge/2025-06-13 14.15.11_Brugge_2048.jpg
+/images/van-life/brugge/2025-06-13 15.20.07_Brugge_2048.jpg
+/images/van-life/brugge/2025-06-13 15.02.20_Brugge_2048.jpg
+/images/van-life/brugge/2025-06-13 16.40.14_Brugge_2048.jpg
 
-/images/van-life/brugge/2025-06-13 17.40.21_Brugge_4096.jpg
-/images/van-life/brugge/2025-06-13 17.39.19_Brugge_4096.jpg
-/images/van-life/brugge/2025-06-13 15.17.53_Brugge_4096.jpg
-/images/van-life/brugge/2025-06-13 17.33.51_Brugge_4096.jpg
+/images/van-life/brugge/2025-06-13 17.40.21_Brugge_2048.jpg
+/images/van-life/brugge/2025-06-13 17.39.19_Brugge_2048.jpg
+/images/van-life/brugge/2025-06-13 15.17.53_Brugge_2048.jpg
+/images/van-life/brugge/2025-06-13 17.33.51_Brugge_2048.jpg
 
-/images/van-life/brugge/2025-06-13 14.11.11_Brugge_4096.jpg
-/images/van-life/brugge/2025-06-13 16.50.06_Brugge_4096.jpg
-/images/van-life/brugge/2025-06-13 16.49.24_Brugge_4096.jpg
-/images/van-life/brugge/2025-06-13 17.49.07_Brugge_4096.jpg
+/images/van-life/brugge/2025-06-13 14.11.11_Brugge_2048.jpg
+/images/van-life/brugge/2025-06-13 16.50.06_Brugge_2048.jpg
+/images/van-life/brugge/2025-06-13 16.49.24_Brugge_2048.jpg
+/images/van-life/brugge/2025-06-13 17.49.07_Brugge_2048.jpg
 
-/images/van-life/brugge/2025-06-13 16.46.28_Brugge_4096.jpg
-/images/van-life/brugge/2025-06-13 16.44.45_Brugge_4096.jpg
-/images/van-life/brugge/2025-06-13 15.45.38_Brugge_4096.jpg
-/images/van-life/brugge/2025-06-13 14.55.50_Brugge_4096.jpg
+/images/van-life/brugge/2025-06-13 16.46.28_Brugge_2048.jpg
+/images/van-life/brugge/2025-06-13 16.44.45_Brugge_2048.jpg
+/images/van-life/brugge/2025-06-13 15.45.38_Brugge_2048.jpg
+/images/van-life/brugge/2025-06-13 14.55.50_Brugge_2048.jpg
 
-/images/van-life/brugge/2025-06-13 15.44.04_Brugge_4096.jpg
-/images/van-life/brugge/2025-06-13 15.25.30_Brugge_4096.jpg
-/images/van-life/brugge/2025-06-13 15.19.28_Brugge_4096.jpg
-/images/van-life/brugge/2025-06-13 14.55.25_Brugge_4096.jpg
+/images/van-life/brugge/2025-06-13 15.44.04_Brugge_2048.jpg
+/images/van-life/brugge/2025-06-13 15.25.30_Brugge_2048.jpg
+/images/van-life/brugge/2025-06-13 15.19.28_Brugge_2048.jpg
+/images/van-life/brugge/2025-06-13 14.55.25_Brugge_2048.jpg
 
-/images/van-life/brugge/2025-06-13 15.15.33_Brugge_4096.jpg
-/images/van-life/brugge/2025-06-13 14.24.36_Brugge_4096.jpg
-/images/van-life/brugge/2025-06-13 14.59.46_Brugge_4096.jpg
-/images/van-life/brugge/2025-06-13 14.52.38_Brugge_4096.jpg
+/images/van-life/brugge/2025-06-13 15.15.33_Brugge_2048.jpg
+/images/van-life/brugge/2025-06-13 14.24.36_Brugge_2048.jpg
+/images/van-life/brugge/2025-06-13 14.59.46_Brugge_2048.jpg
+/images/van-life/brugge/2025-06-13 14.52.38_Brugge_2048.jpg
 
-/images/van-life/brugge/2025-06-13 14.34.58_Brugge_4096.jpg
-/images/van-life/brugge/2025-06-13 14.52.16_Brugge_4096.jpg
-/images/van-life/brugge/2025-06-13 14.50.49_Brugge_4096.jpg
-/images/van-life/brugge/2025-06-13 14.45.06_Brugge_4096.jpg
+/images/van-life/brugge/2025-06-13 14.34.58_Brugge_2048.jpg
+/images/van-life/brugge/2025-06-13 14.52.16_Brugge_2048.jpg
+/images/van-life/brugge/2025-06-13 14.50.49_Brugge_2048.jpg
+/images/van-life/brugge/2025-06-13 14.45.06_Brugge_2048.jpg
 
-/images/van-life/brugge/2025-06-13 13.28.40_Brugge_4096.jpg
-/images/van-life/brugge/2025-06-13 14.44.34_Brugge_4096.jpg
-/images/van-life/brugge/2025-06-13 14.11.02_Brugge_4096.jpg
-/images/van-life/brugge/2025-06-13 14.50.07_Brugge_4096.jpg
+/images/van-life/brugge/2025-06-13 13.28.40_Brugge_2048.jpg
+/images/van-life/brugge/2025-06-13 14.44.34_Brugge_2048.jpg
+/images/van-life/brugge/2025-06-13 14.11.02_Brugge_2048.jpg
+/images/van-life/brugge/2025-06-13 14.50.07_Brugge_2048.jpg
 
-/images/van-life/brugge/2025-06-13 13.27.12_Brugge_4096.jpg
-/images/van-life/brugge/2025-06-13 14.10.03_Brugge_4096.jpg
-/images/van-life/brugge/2025-06-13 13.17.20_Brugge_4096.jpg
-/images/van-life/brugge/2025-06-13 18.05.49_Brugge_4096.jpg
+/images/van-life/brugge/2025-06-13 13.27.12_Brugge_2048.jpg
+/images/van-life/brugge/2025-06-13 14.10.03_Brugge_2048.jpg
+/images/van-life/brugge/2025-06-13 13.17.20_Brugge_2048.jpg
+/images/van-life/brugge/2025-06-13 18.05.49_Brugge_2048.jpg
 :::
 
 ## Tag 7: Westende – fliegende Drachen, alte VW-Busse „Bullis” und matschige Pommes
@@ -156,14 +156,14 @@ Sagen wir einfach ... sie waren eher „gedämpfte Kartoffelstreifen” als knus
 Nach dem Abendessen genossen wir den Sonnenuntergang.
 
 :::gallery
-/images/van-life/oostende/2025-06-14 12.24.19_Oostende_4096.jpg
-/images/van-life/oostende/2025-06-14 12.47.42_Oostende_4096.jpg
-/images/van-life/oostende/2025-06-14 12.27.57_Oostende_4096.jpg
-/images/van-life/oostende/2025-06-14 13.21.45_Oostende_4096.jpg
-/images/van-life/oostende/2025-06-14 12.27.13_Oostende_4096.jpg
-/images/van-life/oostende/2025-06-14 21.44.46_Oostende_4096.jpg
-/images/van-life/oostende/2025-06-14 21.44.01_Oostende_4096.jpg
-/images/van-life/oostende/2025-06-14 21.46.36_Oostende_4096.jpg
+/images/van-life/oostende/2025-06-14 12.24.19_Oostende_2048.jpg
+/images/van-life/oostende/2025-06-14 12.47.42_Oostende_2048.jpg
+/images/van-life/oostende/2025-06-14 12.27.57_Oostende_2048.jpg
+/images/van-life/oostende/2025-06-14 13.21.45_Oostende_2048.jpg
+/images/van-life/oostende/2025-06-14 12.27.13_Oostende_2048.jpg
+/images/van-life/oostende/2025-06-14 21.44.46_Oostende_2048.jpg
+/images/van-life/oostende/2025-06-14 21.44.01_Oostende_2048.jpg
+/images/van-life/oostende/2025-06-14 21.46.36_Oostende_2048.jpg
 :::
 
 ## Fazit nach einer Woche Van Life in Belgien:

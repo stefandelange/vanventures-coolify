@@ -9,7 +9,7 @@ import type { Metadata } from "next";
 import { createPageMetadata } from "@/lib/seo";
 import { getTranslations } from "next-intl/server";
 
-const HERO_IMAGE_SRC = "/images/van-life/gdansk/2025-07-05 15.10.08_GDansk_4096.jpg";
+const HERO_IMAGE_SRC = "/images/van-life/gdansk/2025-07-05 15.10.08_GDansk_2048.jpg";
 
 type PageProps = {
   params: Promise<{ locale: string }>;

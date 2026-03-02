@@ -8,7 +8,7 @@ categories:
   - 🇩🇪 Deutschland
   - 🚐 Van life
   - 🌅 On the road
-heroImage: "/images/van-life/berlin/2025-07-02 18.10.28_Berlin_4096.jpg"
+heroImage: "/images/van-life/berlin/2025-07-02 18.10.28_Berlin_2048.jpg"
 heroImageAlt: "Blick auf den Fernsehturm am Alexanderplatz in Berlin"
 status: published
 ---
@@ -19,7 +19,7 @@ Aber egal, das Positive daran war, dass die Badezimmer blitzsauber waren und der
 :::gallery
 columns=1
 ratio=1:1
-/images/van-life/berlin/2025-07-02 18.10.28_Berlin_4096.jpg
+/images/van-life/berlin/2025-07-02 18.10.28_Berlin_2048.jpg
 :::
 
 Die eigentliche Herausforderung? Die unerbittliche Hitze und dazu kam, dass wir beide versuchten, im Van zu arbeiten, der im Grunde zu einer winzigen, rollenden Sauna mit WLAN geworden war.
@@ -27,7 +27,7 @@ Die eigentliche Herausforderung? Die unerbittliche Hitze und dazu kam, dass wir 
 :::gallery
 columns=1
 ratio=1:1
-/images/van-life/berlin/2025-07-03 19.35.55_Berlin_4096.jpg
+/images/van-life/berlin/2025-07-03 19.35.55_Berlin_2048.jpg
 :::
 
 Klar, die Produktivität war niedrig und der Schweißfluss echt krass. Aber vielleicht haben wir deshalb unsere Abende umso mehr genossen: Die Laptops zuzuklappen, aus der rollenden Sauna zu entkommen und uns mit unseren Freunden zu treffen, war die beste Belohnung. 🩷

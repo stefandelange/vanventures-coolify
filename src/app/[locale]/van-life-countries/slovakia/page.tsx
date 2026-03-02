@@ -9,7 +9,7 @@ import type { Metadata } from "next";
 import { createPageMetadata } from "@/lib/seo";
 import { getTranslations } from "next-intl/server";
 
-const HERO_IMAGE_SRC = "/images/van-life/tatra-national-park/2025-07-12 18.07.40_Tatra National Park_4096.jpg";
+const HERO_IMAGE_SRC = "/images/van-life/tatra-national-park/2025-07-12 18.07.40_Tatra National Park_2048.jpg";
 
 type PageProps = {
   params: Promise<{ locale: string }>;

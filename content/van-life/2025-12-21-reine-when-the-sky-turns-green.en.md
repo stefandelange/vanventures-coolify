@@ -8,7 +8,7 @@ categories:
   - 🇳🇴 Norway
   - 🚐 Van life
   - 🌅 On the road
-heroImage: "/images/van-life/reine/2025-09-27 10.04.30_Reine_4096.jpg"
+heroImage: "/images/van-life/reine/2025-09-27 10.04.30_Reine_2048.jpg"
 heroImageAlt: "View of Reine from the top of Reinebringen mountain"
 status: published
 ---
@@ -16,9 +16,9 @@ status: published
 If you've ever wondered whether places from postcards actually exist, let me introduce you to Reine. Nestled among dramatic granite peaks, dotted with bright red fishermen's cabins, and surrounded by impossibly turquoise water, Reine is the kind of place that makes you stop mid-sentence and simply stare. It's often called one of the most beautiful villages in the world — and honestly, we get it.
 
 :::gallery
-/images/van-life/reine/2025-09-27 09.23.11_Reine_4096.jpg
-/images/van-life/reine/2025-09-27 14.28.13_Reine_4096.jpg
-/images/van-life/reine/2025-09-27 08.14.25_Reine_4096.jpg
+/images/van-life/reine/2025-09-27 09.23.11_Reine_2048.jpg
+/images/van-life/reine/2025-09-27 14.28.13_Reine_2048.jpg
+/images/van-life/reine/2025-09-27 08.14.25_Reine_2048.jpg
 :::
 
 Reine has been inhabited for more than a thousand years and has long been an important fishing village. Today, it's one of the Lofoten's most iconic destinations, attracting nature lovers, photographers, and anyone chasing that feeling of standing somewhere truly extraordinary.
@@ -32,14 +32,14 @@ The trail up Reinebringen is famous — partly because of the views, partly beca
 :::gallery
 columns=2
 ratio=1:1
-/images/van-life/reine/2025-09-27 09.30.36_Reine_4096.jpg
-/images/van-life/reine/2025-09-27 09.32.10_Reine_4096.jpg
-/images/van-life/reine/2025-09-27 09.52.30_Reine_4096.jpg
-/images/van-life/reine/2025-09-27 10.08.43_Reine_4096.jpg
-/images/van-life/reine/2025-09-27 10.19.08_Reine_4096.jpg
-/images/van-life/reine/2025-09-27 10.32.06_Reine_4096.jpg
-/images/van-life/reine/2025-09-27 10.32.38_Reine_4096.jpg
-/images/van-life/reine/2025-09-27 11.14.10_Reine_4096.jpg
+/images/van-life/reine/2025-09-27 09.30.36_Reine_2048.jpg
+/images/van-life/reine/2025-09-27 09.32.10_Reine_2048.jpg
+/images/van-life/reine/2025-09-27 09.52.30_Reine_2048.jpg
+/images/van-life/reine/2025-09-27 10.08.43_Reine_2048.jpg
+/images/van-life/reine/2025-09-27 10.19.08_Reine_2048.jpg
+/images/van-life/reine/2025-09-27 10.32.06_Reine_2048.jpg
+/images/van-life/reine/2025-09-27 10.32.38_Reine_2048.jpg
+/images/van-life/reine/2025-09-27 11.14.10_Reine_2048.jpg
 :::
 
 Most people take 1.5 to 2 of hours to reach the top.
@@ -51,8 +51,8 @@ Dozens of hikers were already up there, all trying to capture the perfect shot o
 :::gallery
 columns=2
 ratio=1:1
-/images/van-life/reine/2025-09-27 10.01.43_Reine_4096.jpg
-/images/van-life/reine/2025-09-27 10.04.30_Reine_4096.jpg
+/images/van-life/reine/2025-09-27 10.01.43_Reine_2048.jpg
+/images/van-life/reine/2025-09-27 10.04.30_Reine_2048.jpg
 :::
 
 It felt like stepping into a living postcard.
@@ -67,8 +67,8 @@ Back up the nearly 2,000 steps, this time in the dark, equipped with headlamps, 
 :::gallery
 columns=2
 ratio=1:1
-/images/van-life/reine/2025-09-27 20.38.32_Reine_4096.jpg
-/images/van-life/reine/2025-09-27 20.14.38_Reine_4096.jpg
+/images/van-life/reine/2025-09-27 20.38.32_Reine_2048.jpg
+/images/van-life/reine/2025-09-27 20.14.38_Reine_2048.jpg
 :::
 
 When we reached the top a second time, something incredible happened.
@@ -79,25 +79,25 @@ It felt as if they were there just for us.
 No crowd. No noise.
 
 :::gallery
-/images/van-life/reine/2025-09-27 21.03.11_Reine_4096.jpg
-/images/van-life/reine/2025-09-27 21.09.45_Reine_4096.jpg
-/images/van-life/reine/2025-09-27 21.13.00_Reine_4096.jpg
-/images/van-life/reine/2025-09-27 21.38.50_Reine_4096.jpg
-/images/van-life/reine/2025-09-27 21.45.40_Reine_4096.jpg
-/images/van-life/reine/2025-09-27 21.47.19_Reine_4096.jpg
-/images/van-life/reine/2025-09-27 21.48.59_Reine_4096.jpg
-/images/van-life/reine/2025-09-27 21.51.57_Reine_4096.jpg
-/images/van-life/reine/2025-09-27 21.56.26_Reine_4096.jpg
-/images/van-life/reine/2025-09-27 21.58.17_Reine_4096.jpg
-/images/van-life/reine/2025-09-27 22.02.23_Reine_4096.jpg
-/images/van-life/reine/2025-09-27 22.09.24_Reine_4096.jpg
+/images/van-life/reine/2025-09-27 21.03.11_Reine_2048.jpg
+/images/van-life/reine/2025-09-27 21.09.45_Reine_2048.jpg
+/images/van-life/reine/2025-09-27 21.13.00_Reine_2048.jpg
+/images/van-life/reine/2025-09-27 21.38.50_Reine_2048.jpg
+/images/van-life/reine/2025-09-27 21.45.40_Reine_2048.jpg
+/images/van-life/reine/2025-09-27 21.47.19_Reine_2048.jpg
+/images/van-life/reine/2025-09-27 21.48.59_Reine_2048.jpg
+/images/van-life/reine/2025-09-27 21.51.57_Reine_2048.jpg
+/images/van-life/reine/2025-09-27 21.56.26_Reine_2048.jpg
+/images/van-life/reine/2025-09-27 21.58.17_Reine_2048.jpg
+/images/van-life/reine/2025-09-27 22.02.23_Reine_2048.jpg
+/images/van-life/reine/2025-09-27 22.09.24_Reine_2048.jpg
 :::
 
 We stood there for more than three hours, wrapped in blankets, our faces frozen, our hearts completely full. Watching the aurora ripple across the sky from the top of Reinebringen felt like stepping into a dream we didn't even know we had.
 
 :::video
 src=/videos/reine/reine-northern-lights.mov
-poster=/images/van-life/reine/2025-09-27 21.43.57_Reine_4096.jpg
+poster=/images/van-life/reine/2025-09-27 21.43.57_Reine_2048.jpg
 caption=Northern Lights micro-timelapse
 :::
 
@@ -116,8 +116,8 @@ The next day we drove on to Å, the tiny village at the end of the road. There, 
 :::gallery
 columns=2
 ratio=1:1
-/images/van-life/a/2025-09-28 12.57.22_A_4096.jpg
-/images/van-life/a/2025-09-28 12.45.48_A_4096.jpg
-/images/van-life/a/2025-09-28 13.11.44_A_4096.jpg
-/images/van-life/a/2025-09-28 12.51.11_A_4096.jpg
+/images/van-life/a/2025-09-28 12.57.22_A_2048.jpg
+/images/van-life/a/2025-09-28 12.45.48_A_2048.jpg
+/images/van-life/a/2025-09-28 13.11.44_A_2048.jpg
+/images/van-life/a/2025-09-28 12.51.11_A_2048.jpg
 :::

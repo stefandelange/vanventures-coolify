@@ -8,7 +8,7 @@ categories:
   - 🇩🇪 Germany
   - 🚐 Van life
   - 🌅 On the road
-heroImage: "/images/van-life/berlin/2025-07-02 18.10.28_Berlin_4096.jpg"
+heroImage: "/images/van-life/berlin/2025-07-02 18.10.28_Berlin_2048.jpg"
 heroImageAlt: "View of the tv tower at Alexander Platz in Berlin"
 status: published
 ---
@@ -20,7 +20,7 @@ But never mind, on the plus side, the bathrooms were spotless and the owner was 
 :::gallery
 columns=1
 ratio=1:1
-/images/van-life/berlin/2025-07-02 18.10.28_Berlin_4096.jpg
+/images/van-life/berlin/2025-07-02 18.10.28_Berlin_2048.jpg
 :::
 
 The real challenge? The relentless heat, coupled with the fact that we were both trying to work inside the van, which had essentially turned into a tiny, rolling sauna with Wi-Fi.
@@ -28,7 +28,7 @@ The real challenge? The relentless heat, coupled with the fact that we were both
 :::gallery
 columns=1
 ratio=1:1
-/images/van-life/berlin/2025-07-03 19.35.55_Berlin_4096.jpg
+/images/van-life/berlin/2025-07-03 19.35.55_Berlin_2048.jpg
 :::
 
 Needless to say, productivity was low and sweat levels were off the charts. But perhaps that's why we appreciated our evenings even more: shutting the laptops, escaping the sauna on wheels and catching up with our friends was the best reward. 🩷

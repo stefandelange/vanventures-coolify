@@ -8,7 +8,7 @@ categories:
   - 🇧🇪 Belgien
   - 🚐 Van life
   - 🌅 On the road
-heroImage: "/images/van-life/dinant/2025-06-25 20.44.12_Dinant_4096.jpg"
+heroImage: "/images/van-life/dinant/2025-06-25 20.44.12_Dinant_2048.jpg"
 heroImageAlt: "Der typische Blick auf den Fluss Dinant mit Häusern"
 status: published
 ---
@@ -20,38 +20,38 @@ Nachdem wir genug von der Meeresbrise hatten, packten wir Wilma und machten uns 
 :::gallery
 columns=2
 ratio=1:1
-/images/van-life/dinant/2025-06-25 21.44.28_Dinant_4096.jpg
-/images/van-life/dinant/2025-06-25 20.54.40_Dinant_4096.jpg
-/images/van-life/dinant/2025-06-25 20.54.16_Dinant_4096.jpg
-/images/van-life/dinant/2025-06-25 22.03.23_Dinant_4096.jpg
-/images/van-life/dinant/2025-06-25 20.44.36_Dinant_4096.jpg
-/images/van-life/dinant/2025-06-25 21.41.39_Dinant_4096.jpg
-/images/van-life/dinant/2025-06-25 20.44.12_Dinant_4096.jpg
-/images/van-life/dinant/2025-06-25 20.53.20_Dinant_4096.jpg
+/images/van-life/dinant/2025-06-25 21.44.28_Dinant_2048.jpg
+/images/van-life/dinant/2025-06-25 20.54.40_Dinant_2048.jpg
+/images/van-life/dinant/2025-06-25 20.54.16_Dinant_2048.jpg
+/images/van-life/dinant/2025-06-25 22.03.23_Dinant_2048.jpg
+/images/van-life/dinant/2025-06-25 20.44.36_Dinant_2048.jpg
+/images/van-life/dinant/2025-06-25 21.41.39_Dinant_2048.jpg
+/images/van-life/dinant/2025-06-25 20.44.12_Dinant_2048.jpg
+/images/van-life/dinant/2025-06-25 20.53.20_Dinant_2048.jpg
 :::
 
 Wenn man in Rom (oder in diesem Fall in Belgien) ist, muss man unbedingt in Durbuy – der kleinsten Stadt der Welt – vorbeischauen. Also haben wir Wilma auf einen winzigen Parkplatz gequetscht und sind durch alle kleinen Gassen spaziert. Wir haben wahrscheinlich etwa 7 Minuten und 38 Sekunden gebraucht, um die ganze „Stadt“ zu sehen 😉.
 So winzig sie auch ist, sie macht das durch ihre Schönheit und Authentizität wieder wett und ist auf jeden Fall einen Besuch wert!
 
 :::gallery
-/images/van-life/durbuy/2025-06-26 17.18.59_Durbuy_4096.jpg
-/images/van-life/durbuy/2025-06-26 17.28.09_Durbuy_4096.jpg
-/images/van-life/durbuy/2025-06-26 17.13.19_Durbuy_4096.jpg
-/images/van-life/durbuy/2025-06-26 17.02.20_Durbuy_4096.jpg
-/images/van-life/durbuy/2025-06-26 17.24.03_Durbuy_4096.jpg
-/images/van-life/durbuy/2025-06-26 17.25.18_Durbuy_4096.jpg
-/images/van-life/durbuy/2025-06-26 18.23.59_Durbuy_4096.jpg
-/images/van-life/durbuy/2025-06-26 18.21.45_Durbuy_4096.jpg
-/images/van-life/durbuy/2025-06-26 17.33.30_Durbuy_4096.jpg
-/images/van-life/durbuy/2025-06-27 14.33.02_Durbuy_4096.jpg
-/images/van-life/durbuy/2025-06-27 14.32.45_Durbuy_4096.jpg
-/images/van-life/durbuy/2025-06-26 17.30.07_Durbuy_4096.jpg
-/images/van-life/durbuy/2025-06-26 17.05.29_Durbuy_4096.jpg
-/images/van-life/durbuy/2025-06-26 17.10.02_Durbuy_4096.jpg
-/images/van-life/durbuy/2025-06-26 17.26.29_Durbuy_4096.jpg
-/images/van-life/durbuy/2025-06-26 17.26.10_Durbuy_4096.jpg
-/images/van-life/durbuy/2025-06-26 17.04.58_Durbuy_4096.jpg
-/images/van-life/durbuy/2025-06-26 17.01.15_Durbuy_4096.jpg
+/images/van-life/durbuy/2025-06-26 17.18.59_Durbuy_2048.jpg
+/images/van-life/durbuy/2025-06-26 17.28.09_Durbuy_2048.jpg
+/images/van-life/durbuy/2025-06-26 17.13.19_Durbuy_2048.jpg
+/images/van-life/durbuy/2025-06-26 17.02.20_Durbuy_2048.jpg
+/images/van-life/durbuy/2025-06-26 17.24.03_Durbuy_2048.jpg
+/images/van-life/durbuy/2025-06-26 17.25.18_Durbuy_2048.jpg
+/images/van-life/durbuy/2025-06-26 18.23.59_Durbuy_2048.jpg
+/images/van-life/durbuy/2025-06-26 18.21.45_Durbuy_2048.jpg
+/images/van-life/durbuy/2025-06-26 17.33.30_Durbuy_2048.jpg
+/images/van-life/durbuy/2025-06-27 14.33.02_Durbuy_2048.jpg
+/images/van-life/durbuy/2025-06-27 14.32.45_Durbuy_2048.jpg
+/images/van-life/durbuy/2025-06-26 17.30.07_Durbuy_2048.jpg
+/images/van-life/durbuy/2025-06-26 17.05.29_Durbuy_2048.jpg
+/images/van-life/durbuy/2025-06-26 17.10.02_Durbuy_2048.jpg
+/images/van-life/durbuy/2025-06-26 17.26.29_Durbuy_2048.jpg
+/images/van-life/durbuy/2025-06-26 17.26.10_Durbuy_2048.jpg
+/images/van-life/durbuy/2025-06-26 17.04.58_Durbuy_2048.jpg
+/images/van-life/durbuy/2025-06-26 17.01.15_Durbuy_2048.jpg
 :::
 
 Wir durften unseren Van vor dem Ferienhaus meiner Cousine in den Ardennen parken, etwa 15 Minuten von Durbuy entfernt. Wir hatten ein gemütliches Wochenende mit meiner Cousine und ihrer Familie, haben gutes Essen genossen und viel gelacht, während die Kinder herumtobten und wir endlose Runden Hitster und (sehr professionelles) Tischtennis spielten. Das Beste daran? Die Hits der 90er Jahre! Wir haben aus voller Kehle mitgesungen, als würde niemand zuhören (die Nachbarn haben wahrscheinlich zugehört).

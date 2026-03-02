@@ -8,7 +8,7 @@ categories:
   - 🇳🇴 Norway
   - 🚐 Van life
   - 🌅 On the road
-heroImage: "/images/van-life/vikten/2025-09-28 18.13.49_Vikten_4096.jpg"
+heroImage: "/images/van-life/vikten/2025-09-28 18.13.49_Vikten_2048.jpg"
 heroImageAlt: "Image of Vikten beach at sunset with many photographers"
 status: published
 ---
@@ -17,14 +17,14 @@ After visiting Reine and the tiny village of Å at the very end of the road, we 
 The light there was absolutely magical. Soft, golden, and constantly changing, it turned the whole landscape into a painting. A group of photographers had gathered to capture the scenery, and we completely understood why. We watched the sun sink slowly into the sea, listened to the sound of the waves, and felt incredibly lucky to be parked right by the water. The area was perfect for long walks along the shore, and we spent two wonderfully relaxed nights there, soaking in the calm and the colours.
 
 :::gallery
-/images/van-life/vikten/2025-09-28 14.19.15_Vikten_4096.jpg
-/images/van-life/vikten/2025-09-28 14.26.10_Vikten_4096.jpg
+/images/van-life/vikten/2025-09-28 14.19.15_Vikten_2048.jpg
+/images/van-life/vikten/2025-09-28 14.26.10_Vikten_2048.jpg
 /images/van-life/vikten/Vikten_KB_1.jpeg
-/images/van-life/vikten/2025-09-28 18.13.49_Vikten_4096.jpg
-/images/van-life/vikten/2025-09-28 18.16.27_Vikten_4096.jpg
-/images/van-life/vikten/2025-09-28 18.21.22_Vikten_4096.jpg
-/images/van-life/vikten/2025-09-28 18.26.12_Vikten_4096.jpg
-/images/van-life/vikten/2025-09-29 18.07.52_Vikten_4096.jpg
+/images/van-life/vikten/2025-09-28 18.13.49_Vikten_2048.jpg
+/images/van-life/vikten/2025-09-28 18.16.27_Vikten_2048.jpg
+/images/van-life/vikten/2025-09-28 18.21.22_Vikten_2048.jpg
+/images/van-life/vikten/2025-09-28 18.26.12_Vikten_2048.jpg
+/images/van-life/vikten/2025-09-29 18.07.52_Vikten_2048.jpg
 /images/van-life/vikten/Vikten_KB_2.jpeg
 :::
 
@@ -44,10 +44,10 @@ And when it arrived, it arrived properly.
 :::gallery
 columns=2
 ratio=1:1
-/images/van-life/lofoten-beach-bar/2025-09-26 13.22.52_Lofoten Beach Camp_4096.jpg
-/images/van-life/lofoten-beach-bar/2025-09-26 14.35.49_Lofoten Beach Camp_4096.jpg
+/images/van-life/lofoten-beach-bar/2025-09-26 13.22.52_Lofoten Beach Camp_2048.jpg
+/images/van-life/lofoten-beach-bar/2025-09-26 14.35.49_Lofoten Beach Camp_2048.jpg
 /images/van-life/lofoten-beach-bar/LofotenBeachCamp_KB_1.jpeg
-/images/van-life/lofoten-beach-bar/2025-09-26 16.09.11_Lofoten Beach Camp_4096.jpg
+/images/van-life/lofoten-beach-bar/2025-09-26 16.09.11_Lofoten Beach Camp_2048.jpg
 :::
 
 We had already experienced storms in Wales before, but what hit us on the Lofoten was on another level. The wind was so strong that it literally pushed the walls of our van inward. At times, it felt like we might tip over. Sleep was… ambitious. The second night turned out to be even worse. Because we were plugged into shore power, we couldn’t just drive away easily, so we had no choice but to wait it out while the storm kept howling around us.
@@ -55,10 +55,10 @@ We had already experienced storms in Wales before, but what hit us on the Lofote
 :::gallery
 columns=2
 ratio=1:1
-/images/van-life/lofoten-beach-bar/2025-09-26 15.58.17_Lofoten Beach Camp_4096.jpg
-/images/van-life/lofoten-beach-bar/2025-09-26 16.05.06_Lofoten Beach Camp 1_4096.jpg
-/images/van-life/lofoten-beach-bar/2025-09-26 15.35.37_Lofoten Beach Camp_4096.jpg
-/images/van-life/lofoten-beach-bar/2025-09-26 15.37.20_Lofoten Beach Camp_4096.jpg
+/images/van-life/lofoten-beach-bar/2025-09-26 15.58.17_Lofoten Beach Camp_2048.jpg
+/images/van-life/lofoten-beach-bar/2025-09-26 16.05.06_Lofoten Beach Camp 1_2048.jpg
+/images/van-life/lofoten-beach-bar/2025-09-26 15.35.37_Lofoten Beach Camp_2048.jpg
+/images/van-life/lofoten-beach-bar/2025-09-26 15.37.20_Lofoten Beach Camp_2048.jpg
 :::
 
 Completely exhausted, we finally crawled out of the van in the morning and escaped into the café, where at least nothing was shaking. From there, we watched brave surfers heading into the wild waves, wrapped in thick wetsuits and courage. We would have loved to join them, but the conditions were simply too intense for us this time.
