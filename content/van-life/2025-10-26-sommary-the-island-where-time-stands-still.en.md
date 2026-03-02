@@ -37,7 +37,6 @@ To stretch our legs, we went for a hike up one of the nearby hills and were rewa
 /images/van-life/somaroy/2025-09-13 10.40.37_Somaroy_2048.jpg
 /images/van-life/somaroy/2025-09-13 10.43.21_Somaroy_2048.jpg
 /images/van-life/somaroy/2025-09-13 10.27.09_Somaroy_2048.jpg
-/images/van-life/somaroy/2025-09-13 17.46.00_Somaroy_2048.jpeg
 :::
 
 After the hike, we followed the irresistible smell of freshly baked waffles drifting through the air. This led us straight to a tiny knitting shop run by a group of elderly ladies who served us warm Norwegian waffles with jam. They were pure heaven – and a nice vegetarian treat in a country where fish and meat tend to dominate the menu. Norwegians certainly know how to make waffles: soft, buttery and just sweet enough.

@@ -6,7 +6,7 @@ import { createPageMetadata } from "@/lib/seo";
 import Image from "next/image";
 import { getTranslations } from "next-intl/server";
 
-const HERO_IMAGE_SRC = "/images/van-life/allgaeu/2024-12-30 13.37.12_Allgäu_2048.jpg";
+const HERO_IMAGE_SRC = "/images/van-life/allgaeu/2024-12-30 13.37.12_Allgaeu_2048.jpg";
 const PAGE_PATH = "/wilma/internet";
 
 type PageProps = {

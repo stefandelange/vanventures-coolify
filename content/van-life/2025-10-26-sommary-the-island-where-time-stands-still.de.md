@@ -37,7 +37,6 @@ Um uns die Beine zu vertreten, sind wir auf einen der umliegenden Hügel gewande
 /images/van-life/somaroy/2025-09-13 10.40.37_Somaroy_2048.jpg
 /images/van-life/somaroy/2025-09-13 10.43.21_Somaroy_2048.jpg
 /images/van-life/somaroy/2025-09-13 10.27.09_Somaroy_2048.jpg
-/images/van-life/somaroy/2025-09-13 17.46.00_Somaroy_2048.jpeg
 :::
 
 Nach der Wanderung folgten wir dem unwiderstehlichen Duft von frisch gebackenen Waffeln, der durch die Luft schwebte. Das führte uns direkt zu einem kleinen Strickladen, der von einer Gruppe älterer Damen betrieben wurde, die uns warme norwegische Waffeln mit Marmelade servierten. Sie waren einfach himmlisch – und eine leckere vegetarische Köstlichkeit in einem Land, in dem Fisch und Fleisch meistens auf der Speisekarte stehen. Die Norweger wissen echt, wie man Waffeln macht: weich, buttrig und genau richtig gesüßt.
