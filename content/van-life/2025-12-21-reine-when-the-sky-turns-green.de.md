@@ -8,7 +8,7 @@ categories:
   - 🇳🇴 Norwegen
   - 🚐 Van life
   - 🌅 On the road
-heroImage: "/images/van-life/reine/2025-09-27 10.04.30_Reine_4096.jpg"
+heroImage: "/images/van-life/reine/2025-09-27 10.04.30_Reine_2048.jpg"
 heroImageAlt: "Blick auf Reine vom Gipfel des Reinebringen"
 status: published
 ---
@@ -16,9 +16,9 @@ status: published
 Wenn du dich schon mal gefragt hast, ob Orte von Postkarten wirklich existieren, dann lass mich dir Reine vorstellen. Eingebettet zwischen dramatischen Granitgipfeln, übersät mit leuchtend roten Fischerhütten und umgeben von unglaublich türkisfarbenem Wasser, ist Reine einer dieser Orte, die dich mitten im Satz innehalten und einfach nur staunen lassen. Es wird oft als eines der schönsten Dörfer der Welt bezeichnet – und ehrlich gesagt, können wir das gut nachvollziehen.
 
 :::gallery
-/images/van-life/reine/2025-09-27 09.23.11_Reine_4096.jpg
-/images/van-life/reine/2025-09-27 14.28.13_Reine_4096.jpg
-/images/van-life/reine/2025-09-27 08.14.25_Reine_4096.jpg
+/images/van-life/reine/2025-09-27 09.23.11_Reine_2048.jpg
+/images/van-life/reine/2025-09-27 14.28.13_Reine_2048.jpg
+/images/van-life/reine/2025-09-27 08.14.25_Reine_2048.jpg
 :::
 
 Reine ist seit über tausend Jahren bewohnt und war lange ein wichtiges Fischerdorf. Heute ist es eines der bekanntesten Reiseziele der Lofoten und zieht Naturliebhaber, Fotografen und alle an, die das Gefühl suchen, an einem wirklich außergewöhnlichen Ort zu sein.
@@ -32,14 +32,14 @@ Der Weg hinauf zum Reinebringen ist berühmt – zum einen wegen der Aussicht, z
 :::gallery
 columns=2
 ratio=1:1
-/images/van-life/reine/2025-09-27 09.30.36_Reine_4096.jpg
-/images/van-life/reine/2025-09-27 09.32.10_Reine_4096.jpg
-/images/van-life/reine/2025-09-27 09.52.30_Reine_4096.jpg
-/images/van-life/reine/2025-09-27 10.08.43_Reine_4096.jpg
-/images/van-life/reine/2025-09-27 10.19.08_Reine_4096.jpg
-/images/van-life/reine/2025-09-27 10.32.06_Reine_4096.jpg
-/images/van-life/reine/2025-09-27 10.32.38_Reine_4096.jpg
-/images/van-life/reine/2025-09-27 11.14.10_Reine_4096.jpg
+/images/van-life/reine/2025-09-27 09.30.36_Reine_2048.jpg
+/images/van-life/reine/2025-09-27 09.32.10_Reine_2048.jpg
+/images/van-life/reine/2025-09-27 09.52.30_Reine_2048.jpg
+/images/van-life/reine/2025-09-27 10.08.43_Reine_2048.jpg
+/images/van-life/reine/2025-09-27 10.19.08_Reine_2048.jpg
+/images/van-life/reine/2025-09-27 10.32.06_Reine_2048.jpg
+/images/van-life/reine/2025-09-27 10.32.38_Reine_2048.jpg
+/images/van-life/reine/2025-09-27 11.14.10_Reine_2048.jpg
 :::
 
 Die meisten Leute brauchen 1,5 bis 2 Stunden, um den Gipfel zu erreichen.
@@ -51,8 +51,8 @@ Dutzende von Wanderern waren schon da oben und versuchten, das perfekte Foto von
 :::gallery
 columns=2
 ratio=1:1
-/images/van-life/reine/2025-09-27 10.01.43_Reine_4096.jpg
-/images/van-life/reine/2025-09-27 10.04.30_Reine_4096.jpg
+/images/van-life/reine/2025-09-27 10.01.43_Reine_2048.jpg
+/images/van-life/reine/2025-09-27 10.04.30_Reine_2048.jpg
 :::
 
 Es war, als würde man eine lebende Postkarte betreten.
@@ -67,8 +67,8 @@ Zurück über die fast 2.000 Stufen, diesmal im Dunkeln, ausgerüstet mit Stirnl
 :::gallery
 columns=2
 ratio=1:1
-/images/van-life/reine/2025-09-27 20.38.32_Reine_4096.jpg
-/images/van-life/reine/2025-09-27 20.14.38_Reine_4096.jpg
+/images/van-life/reine/2025-09-27 20.38.32_Reine_2048.jpg
+/images/van-life/reine/2025-09-27 20.14.38_Reine_2048.jpg
 :::
 
 Als wir das zweite Mal oben ankamen, passierte was Unglaubliches.
@@ -79,25 +79,25 @@ Es fühlte sich an, als wären sie nur für uns da.
 Keine Menschenmassen. Kein Lärm.
 
 :::gallery
-/images/van-life/reine/2025-09-27 21.03.11_Reine_4096.jpg
-/images/van-life/reine/2025-09-27 21.09.45_Reine_4096.jpg
-/images/van-life/reine/2025-09-27 21.13.00_Reine_4096.jpg
-/images/van-life/reine/2025-09-27 21.38.50_Reine_4096.jpg
-/images/van-life/reine/2025-09-27 21.45.40_Reine_4096.jpg
-/images/van-life/reine/2025-09-27 21.47.19_Reine_4096.jpg
-/images/van-life/reine/2025-09-27 21.48.59_Reine_4096.jpg
-/images/van-life/reine/2025-09-27 21.51.57_Reine_4096.jpg
-/images/van-life/reine/2025-09-27 21.56.26_Reine_4096.jpg
-/images/van-life/reine/2025-09-27 21.58.17_Reine_4096.jpg
-/images/van-life/reine/2025-09-27 22.02.23_Reine_4096.jpg
-/images/van-life/reine/2025-09-27 22.09.24_Reine_4096.jpg
+/images/van-life/reine/2025-09-27 21.03.11_Reine_2048.jpg
+/images/van-life/reine/2025-09-27 21.09.45_Reine_2048.jpg
+/images/van-life/reine/2025-09-27 21.13.00_Reine_2048.jpg
+/images/van-life/reine/2025-09-27 21.38.50_Reine_2048.jpg
+/images/van-life/reine/2025-09-27 21.45.40_Reine_2048.jpg
+/images/van-life/reine/2025-09-27 21.47.19_Reine_2048.jpg
+/images/van-life/reine/2025-09-27 21.48.59_Reine_2048.jpg
+/images/van-life/reine/2025-09-27 21.51.57_Reine_2048.jpg
+/images/van-life/reine/2025-09-27 21.56.26_Reine_2048.jpg
+/images/van-life/reine/2025-09-27 21.58.17_Reine_2048.jpg
+/images/van-life/reine/2025-09-27 22.02.23_Reine_2048.jpg
+/images/van-life/reine/2025-09-27 22.09.24_Reine_2048.jpg
 :::
 
 Wir standen über drei Stunden lang da, in Decken eingewickelt, mit eiskalten Gesichtern, aber mit einem Herzen voller Freude. Als wir von der Spitze des Reinebringen aus die Aurora über den Himmel tanzen sahen, war es, als würden wir in einen Traum eintauchen, von dem wir nicht mal wussten, dass wir ihn hatten.
 
 :::video
 src=/videos/reine/reine-northern-lights.mov
-poster=/images/van-life/reine/2025-09-27 21.43.57_Reine_4096.jpg
+poster=/images/van-life/reine/2025-09-27 21.43.57_Reine_2048.jpg
 caption=Northern Lights micro-timelapse
 :::
 
@@ -116,8 +116,8 @@ Am nächsten Tag fuhren wir weiter nach Å, dem winzigen Dorf am Ende der Straß
 :::gallery
 columns=2
 ratio=1:1
-/images/van-life/a/2025-09-28 12.57.22_A_4096.jpg
-/images/van-life/a/2025-09-28 12.45.48_A_4096.jpg
-/images/van-life/a/2025-09-28 13.11.44_A_4096.jpg
-/images/van-life/a/2025-09-28 12.51.11_A_4096.jpg
+/images/van-life/a/2025-09-28 12.57.22_A_2048.jpg
+/images/van-life/a/2025-09-28 12.45.48_A_2048.jpg
+/images/van-life/a/2025-09-28 13.11.44_A_2048.jpg
+/images/van-life/a/2025-09-28 12.51.11_A_2048.jpg
 :::

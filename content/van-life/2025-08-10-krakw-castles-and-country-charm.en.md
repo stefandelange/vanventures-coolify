@@ -8,7 +8,7 @@ categories:
   - 🇵🇱 Poland
   - 🚐 Van life
   - 🌅 On the road
-heroImage: "/images/van-life/krakow/2025-07-10 18.57.57_Krakow_4096.jpg"
+heroImage: "/images/van-life/krakow/2025-07-10 18.57.57_Krakow_2048.jpg"
 heroImageAlt: "View of Krakow Castle"
 status: published
 ---
@@ -43,12 +43,12 @@ It is lively yet relaxed, steeped in history yet buzzing with youthful energy.
 We wandered through the charming alleyways of the old town and admired the grandeur of Wawel Castle overlooking the Vistula river. Down by the river, we stopped to watch a group of older men playing chess. They were completely focused, moving pieces in near silence — a live-action version of _The Queen's Gambit_, minus the dramatic music and cameras. In the nearby Jewish Quarter (Kazimierz), we strolled past historic synagogues, street art, cosy bars and bookshops.
 
 :::gallery
-/images/van-life/krakow/2025-07-10 18.56.39_Krakow_4096.jpg
-/images/van-life/krakow/2025-07-10 18.55.00_Krakow_4096.jpg
-/images/van-life/krakow/2025-07-10 19.43.18_Krakow_4096.jpg
-/images/van-life/krakow/2025-07-10 19.53.08_Krakow_4096.jpg
-/images/van-life/krakow/2025-07-10 19.42.38_Krakow_4096.jpg
-/images/van-life/krakow/2025-07-10 20.40.29_Krakow_4096.jpg
+/images/van-life/krakow/2025-07-10 18.56.39_Krakow_2048.jpg
+/images/van-life/krakow/2025-07-10 18.55.00_Krakow_2048.jpg
+/images/van-life/krakow/2025-07-10 19.43.18_Krakow_2048.jpg
+/images/van-life/krakow/2025-07-10 19.53.08_Krakow_2048.jpg
+/images/van-life/krakow/2025-07-10 19.42.38_Krakow_2048.jpg
+/images/van-life/krakow/2025-07-10 20.40.29_Krakow_2048.jpg
 :::
 
 We also spent time at Rynek Główny, one of the city's most beloved squares and, in fact, the largest medieval square in Europe. Spanning almost four hectares, this 13th-century plaza was once a bustling hub for international trade. Today, it remains the heart of the city, surrounded by beautiful buildings, street performers, horse-drawn carriages and countless places to sit and watch the world go by.
@@ -56,12 +56,12 @@ We also spent time at Rynek Główny, one of the city's most beloved squares and
 Just off the square stands the stunning St. Mary's Basilica, an impressive Gothic church with a slightly tilted tower and a richly decorated interior. Every hour, a trumpeter plays the Hejnał Mariacki from the highest tower – a tradition with a story behind it (and which requires considerable lung power).
 
 :::gallery
-/images/van-life/krakow/2025-07-10 18.30.50_Krakow_4096.jpg
-/images/van-life/krakow/2025-07-10 18.23.56_Krakow_4096.jpg
-/images/van-life/krakow/2025-07-10 19.40.12_Krakow_4096.jpg
-/images/van-life/krakow/2025-07-10 19.30.56_Krakow_4096.jpg
-/images/van-life/krakow/2025-07-10 19.21.03_Krakow_4096.jpg
-/images/van-life/krakow/2025-07-10 18.06.31_Krakow_4096.jpg
+/images/van-life/krakow/2025-07-10 18.30.50_Krakow_2048.jpg
+/images/van-life/krakow/2025-07-10 18.23.56_Krakow_2048.jpg
+/images/van-life/krakow/2025-07-10 19.40.12_Krakow_2048.jpg
+/images/van-life/krakow/2025-07-10 19.30.56_Krakow_2048.jpg
+/images/van-life/krakow/2025-07-10 19.21.03_Krakow_2048.jpg
+/images/van-life/krakow/2025-07-10 18.06.31_Krakow_2048.jpg
 :::
 
 After wandering through Kraków for a few hours, we needed fuel, so what better way to refuel than with a proper Polish Zapiekanka? Imagine a crispy baguette topped with mushrooms, melted cheese and ketchup that leaves you feeling completely satisfied.
@@ -71,12 +71,12 @@ And while the city's deep history is ever-present, Kraków also feels young and 
 Fun fact: it has more students per square metre than any other city in Poland, which may explain the impressive number of bars, cafés and late-night snack spots.
 
 :::gallery
-/images/van-life/krakow/2025-07-10 20.08.24_Krakow_4096.jpg
-/images/van-life/krakow/2025-07-10 18.45.05_Krakow_4096.jpg
-/images/van-life/krakow/2025-07-10 19.46.56_Krakow 1_4096.jpg
-/images/van-life/krakow/2025-07-10 18.29.18_Krakow_4096.jpg
-/images/van-life/krakow/2025-07-10 19.42.16_Krakow_4096.jpg
-/images/van-life/krakow/2025-07-10 18.06.50_Krakow_4096.jpg
+/images/van-life/krakow/2025-07-10 20.08.24_Krakow_2048.jpg
+/images/van-life/krakow/2025-07-10 18.45.05_Krakow_2048.jpg
+/images/van-life/krakow/2025-07-10 19.46.56_Krakow 1_2048.jpg
+/images/van-life/krakow/2025-07-10 18.29.18_Krakow_2048.jpg
+/images/van-life/krakow/2025-07-10 19.42.16_Krakow_2048.jpg
+/images/van-life/krakow/2025-07-10 18.06.50_Krakow_2048.jpg
 :::
 
 If you're visiting Kraków, be sure to stay with Martha and Michał. Their little haven (or heaven?!) outside the city made our visit truly special [nowydworwgoszycach.pl →](nowydworwgoszycach.pl). Thank you! 💛

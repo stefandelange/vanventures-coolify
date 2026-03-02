@@ -8,7 +8,7 @@ categories:
   - 🇵🇱 Polen
   - 🚐 Van life
   - 🌅 On the road
-heroImage: "/images/van-life/krakow/2025-07-10 18.57.57_Krakow_4096.jpg"
+heroImage: "/images/van-life/krakow/2025-07-10 18.57.57_Krakow_2048.jpg"
 heroImageAlt: "Blick auf die Krakauer Burg"
 status: published
 ---
@@ -43,12 +43,12 @@ Sie ist lebhaft und doch entspannt, reich an Geschichte und voller jugendlicher 
 Wir schlenderten durch die charmanten Gassen der Altstadt und bewunderten die Pracht des Wawel-Schlosses mit Blick auf die Weichsel. Unten am Fluss machten wir Halt, um einer Gruppe älterer Männer beim Schachspielen zuzusehen. Sie waren total konzentriert und bewegten die Figuren fast lautlos – eine Live-Action-Version von „Das Königspiel“, nur ohne dramatische Musik und Kameras. Im nahe gelegenen jüdischen Viertel (Kazimierz) schlenderten wir an historischen Synagogen, Street-Art, gemütlichen Bars und Buchläden vorbei.
 
 :::gallery
-/images/van-life/krakow/2025-07-10 18.56.39_Krakow_4096.jpg
-/images/van-life/krakow/2025-07-10 18.55.00_Krakow_4096.jpg
-/images/van-life/krakow/2025-07-10 19.43.18_Krakow_4096.jpg
-/images/van-life/krakow/2025-07-10 19.53.08_Krakow_4096.jpg
-/images/van-life/krakow/2025-07-10 19.42.38_Krakow_4096.jpg
-/images/van-life/krakow/2025-07-10 20.40.29_Krakow_4096.jpg
+/images/van-life/krakow/2025-07-10 18.56.39_Krakow_2048.jpg
+/images/van-life/krakow/2025-07-10 18.55.00_Krakow_2048.jpg
+/images/van-life/krakow/2025-07-10 19.43.18_Krakow_2048.jpg
+/images/van-life/krakow/2025-07-10 19.53.08_Krakow_2048.jpg
+/images/van-life/krakow/2025-07-10 19.42.38_Krakow_2048.jpg
+/images/van-life/krakow/2025-07-10 20.40.29_Krakow_2048.jpg
 :::
 
 Wir haben auch Zeit am Rynek Główny verbracht, einem der beliebtesten Plätze der Stadt und tatsächlich dem größten mittelalterlichen Platz Europas. Dieser fast vier Hektar große Platz aus dem 13. Jahrhundert war einst ein geschäftiger Knotenpunkt für den internationalen Handel. Heute ist er immer noch das Herz der Stadt, umgeben von schönen Gebäuden, Straßenkünstlern, Pferdekutschen und unzähligen Plätzen, an denen man sitzen und das Treiben beobachten kann.
@@ -56,12 +56,12 @@ Wir haben auch Zeit am Rynek Główny verbracht, einem der beliebtesten Plätze 
 Direkt neben dem Platz steht die beeindruckende Marienkirche, eine beeindruckende gotische Kirche mit einem leicht geneigten Turm und einem reich verzierten Innenraum. Jede Stunde spielt ein Trompeter vom höchsten Turm aus die Hejnał Mariacki – eine Tradition mit einer Geschichte dahinter (und die eine beträchtliche Lungenkraft erfordert).
 
 :::gallery
-/images/van-life/krakow/2025-07-10 18.30.50_Krakow_4096.jpg
-/images/van-life/krakow/2025-07-10 18.23.56_Krakow_4096.jpg
-/images/van-life/krakow/2025-07-10 19.40.12_Krakow_4096.jpg
-/images/van-life/krakow/2025-07-10 19.30.56_Krakow_4096.jpg
-/images/van-life/krakow/2025-07-10 19.21.03_Krakow_4096.jpg
-/images/van-life/krakow/2025-07-10 18.06.31_Krakow_4096.jpg
+/images/van-life/krakow/2025-07-10 18.30.50_Krakow_2048.jpg
+/images/van-life/krakow/2025-07-10 18.23.56_Krakow_2048.jpg
+/images/van-life/krakow/2025-07-10 19.40.12_Krakow_2048.jpg
+/images/van-life/krakow/2025-07-10 19.30.56_Krakow_2048.jpg
+/images/van-life/krakow/2025-07-10 19.21.03_Krakow_2048.jpg
+/images/van-life/krakow/2025-07-10 18.06.31_Krakow_2048.jpg
 :::
 
 Nachdem wir ein paar Stunden durch Krakau gestreift waren, brauchten wir was zu essen. Was gibt's Besseres als eine richtige polnische Zapiekanka? Stell dir ein knuspriges Baguette vor, das mit Pilzen, geschmolzenem Käse und Ketchup belegt ist und dich total zufrieden macht.
@@ -71,12 +71,12 @@ Und obwohl die lange Geschichte der Stadt allgegenwärtig ist, wirkt Krakau auch
 Interessante Tatsache: Krakau hat mehr Studenten pro Quadratmeter als jede andere Stadt in Polen, was vielleicht die beeindruckende Anzahl an Bars, Cafés und Late-Night-Snackbars erklärt.
 
 :::gallery
-/images/van-life/krakow/2025-07-10 20.08.24_Krakow_4096.jpg
-/images/van-life/krakow/2025-07-10 18.45.05_Krakow_4096.jpg
-/images/van-life/krakow/2025-07-10 19.46.56_Krakow 1_4096.jpg
-/images/van-life/krakow/2025-07-10 18.29.18_Krakow_4096.jpg
-/images/van-life/krakow/2025-07-10 19.42.16_Krakow_4096.jpg
-/images/van-life/krakow/2025-07-10 18.06.50_Krakow_4096.jpg
+/images/van-life/krakow/2025-07-10 20.08.24_Krakow_2048.jpg
+/images/van-life/krakow/2025-07-10 18.45.05_Krakow_2048.jpg
+/images/van-life/krakow/2025-07-10 19.46.56_Krakow 1_2048.jpg
+/images/van-life/krakow/2025-07-10 18.29.18_Krakow_2048.jpg
+/images/van-life/krakow/2025-07-10 19.42.16_Krakow_2048.jpg
+/images/van-life/krakow/2025-07-10 18.06.50_Krakow_2048.jpg
 :::
 
 Wenn du Krakau besuchst, solltest du unbedingt bei Martha und Michał übernachten. Ihr kleiner Rückzugsort (oder Paradies?!) außerhalb der Stadt hat unseren Besuch zu etwas ganz Besonderem gemacht [nowydworwgoszycach.pl →](nowydworwgoszycach.pl). Vielen Dank! 💛

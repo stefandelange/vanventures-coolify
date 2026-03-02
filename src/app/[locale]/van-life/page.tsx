@@ -7,7 +7,7 @@ import { createPageMetadata } from "@/lib/seo";
 import { getTranslations } from "next-intl/server";
 
 const PAGE_PATH = "/van-life";
-const HERO_IMAGE_SRC = "/images/van-life/somaroy/2025-09-13 10.43.21_Somaroy_4096.jpg";
+const HERO_IMAGE_SRC = "/images/van-life/somaroy/2025-09-13 10.43.21_Somaroy_2048.jpg";
 
 type PageProps = {
   params: Promise<{ locale: string }>;
